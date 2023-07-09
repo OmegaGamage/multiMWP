@@ -1,0 +1,3160 @@
+x barazohet 9 zbres 7
+x barazohet 10 zbres 8
+x barazohet 16 zbres 12
+x barazohet 20 zbres 7
+x barazohet 18 zbres 7
+x barazohet 9 zbres 4
+x barazohet 12 zbres 7
+x barazohet 20 zbres 10
+x barazohet 13 zbres 7
+x barazohet 10 zbres 9
+x barazohet 8 zbres 5
+x barazohet 12 zbres 6
+x barazohet 13 zbres 4
+x barazohet 15 zbres 4
+x barazohet 34 zbres 9
+x barazohet 12 zbres 9
+x barazohet 9 zbres 3
+x barazohet 12 zbres 4
+x barazohet 8 zbres 6
+x barazohet 14 zbres 9
+x barazohet 11 zbres 9
+x barazohet 9 zbres 8
+x barazohet 16 zbres 12
+x barazohet 10 zbres 4
+x barazohet 15 zbres 7
+x barazohet 9 zbres 4
+x barazohet 12 zbres 5
+x barazohet 15 zbres 6
+x barazohet 13 zbres 7
+x barazohet 12 zbres 9
+x barazohet 8 zbres 5
+x barazohet 10 zbres 4
+x barazohet 20 zbres 6
+x barazohet 15 zbres 4
+x barazohet 34 zbres 9
+x barazohet 15 zbres 9
+x barazohet 10 zbres 6
+x barazohet 12 zbres 8
+x barazohet 8 zbres 2
+x barazohet 12 zbres 9
+x barazohet 10 zbres 8
+x barazohet 10 zbres 6
+x barazohet 4 zbres 2
+x barazohet 10 zbres 7
+x barazohet 15 zbres 7
+x barazohet 9 zbres 4
+x barazohet 10 zbres 7
+x barazohet 15 zbres 10
+x barazohet 11 zbres 7
+x barazohet 9 zbres 6
+x barazohet 20 zbres 5
+x barazohet 13 zbres 6
+x barazohet 11 zbres 4
+x barazohet 12 zbres 6
+x barazohet 34 zbres 9
+x barazohet 40 zbres 20
+x barazohet 25 zbres 9
+x barazohet 30 zbres 19
+x barazohet 25 zbres 2
+x barazohet 20 zbres 5
+x barazohet 15 zbres 10
+x barazohet 13 zbres 6
+x barazohet 12 zbres 4
+x barazohet 9 zbres 6
+x barazohet 30 zbres 10
+x barazohet 25 zbres 20
+x barazohet 20 zbres 9
+x barazohet 25 zbres 20
+x barazohet 21 zbres 1
+x barazohet 20 zbres 3
+x barazohet 15 zbres 9
+x barazohet 6 zbres 3
+x barazohet 5 zbres 2
+x barazohet 15 zbres 6
+x barazohet 15 zbres 7
+x barazohet 6 zbres 4
+x barazohet 9 zbres 7
+x barazohet 20 zbres 10
+x barazohet 11 zbres 7
+x barazohet 12 zbres 6
+x barazohet 15 zbres 11
+x barazohet 13 zbres 6
+x barazohet 11 zbres 4
+x barazohet 16 zbres 6
+x barazohet 12 zbres 8
+x barazohet 44 zbres 18
+x barazohet 28 zbres 6
+x barazohet 14 zbres 5
+x barazohet 20 zbres 3
+x barazohet 18 zbres 7
+x barazohet 15 zbres 7
+x barazohet 11 zbres 6
+x barazohet 6 zbres 5
+x barazohet 11 zbres 8
+x barazohet 36 zbres 25
+x barazohet 100 zbres 23
+x barazohet 89 zbres 78
+x barazohet 15 zbres 10
+x barazohet 12 zbres 8
+x barazohet 11 zbres 5
+x barazohet 9 shtoni 7
+x barazohet 16 shtoni 12
+x barazohet 20 shtoni 7
+x barazohet 18 shtoni 7
+x barazohet 9 shtoni 4
+x barazohet 12 shtoni 7
+x barazohet 20 shtoni 10
+x barazohet 13 shtoni 7
+x barazohet 10 shtoni 9
+x barazohet 10 shtoni 8
+x barazohet 5 shtoni 10
+x barazohet 15 shtoni 12
+x barazohet 20 shtoni 7
+x barazohet 12 shtoni 8
+x barazohet 11 shtoni 7
+x barazohet 13 shtoni 7
+x barazohet 12 shtoni 8
+x barazohet 11 shtoni 7
+x barazohet 10 shtoni 9
+x barazohet 19 shtoni 8
+x barazohet 12 shtoni 8
+x barazohet 3 shtoni 1
+x barazohet 20 shtoni 7
+x barazohet 12 shtoni 9
+x barazohet 8 shtoni 4
+x barazohet 12 shtoni 7
+x barazohet 20 shtoni 8
+x barazohet 15 shtoni 8
+x barazohet 12 shtoni 10
+x barazohet 11 shtoni 10
+x barazohet 8 shtoni 10
+x barazohet 20 shtoni 8
+x barazohet 20 shtoni 17
+x barazohet 12 shtoni 8
+x barazohet 12 shtoni 7
+x barazohet 10 shtoni 7
+x barazohet 11 shtoni 8
+x barazohet 15 shtoni 8
+x barazohet 14 shtoni 19
+x barazohet 19 shtoni 9
+x barazohet 10 shtoni 8
+x barazohet 15 shtoni 11
+x barazohet 24 shtoni 15
+x barazohet 16 shtoni 7
+x barazohet 10 shtoni 4
+x barazohet 11 shtoni 5
+x barazohet 20 shtoni 10
+x barazohet 13 shtoni 8
+x barazohet 5 shtoni 9
+x barazohet 20 shtoni 5
+x barazohet 13 shtoni 6
+x barazohet 11 shtoni 4
+x barazohet 12 shtoni 6
+x barazohet 34 shtoni 9
+x barazohet 40 shtoni 20
+x barazohet 25 shtoni 9
+x barazohet 30 shtoni 19
+x barazohet 25 shtoni 2
+x barazohet 20 shtoni 5
+x barazohet 15 shtoni 10
+x barazohet 13 shtoni 6
+x barazohet 12 shtoni 5
+x barazohet 15 shtoni 6
+x barazohet 15 shtoni 9
+x barazohet 25 shtoni 20
+x barazohet 20 shtoni 9
+x barazohet 25 shtoni 15
+x barazohet 20 shtoni 4
+x barazohet 21 shtoni 6
+x barazohet 13 shtoni 6
+x barazohet 12 shtoni 3
+x barazohet 8 shtoni 5
+x barazohet 11 shtoni 7
+x barazohet 15 shtoni 9
+x barazohet 40 shtoni 20
+x barazohet 25 shtoni 9
+x barazohet 30 shtoni 19
+x barazohet 25 shtoni 2
+x barazohet 12 shtoni 6
+x barazohet 19 shtoni 8
+x barazohet 13 shtoni 6
+x barazohet 11 shtoni 5
+x barazohet 12 shtoni 7
+x barazohet 11 shtoni 9
+x barazohet 33 shtoni 18
+x barazohet 30 shtoni 5
+x barazohet 25 shtoni 12
+x barazohet 25 shtoni 5
+x barazohet 20 shtoni 12
+x barazohet 12 shtoni 6
+x barazohet 11 shtoni 10
+x barazohet 13 shtoni 30
+x barazohet 15 shtoni 8
+x barazohet 11 shtoni 3
+x barazohet 11 shtoni 6
+x barazohet 20 shtoni 11
+x barazohet 11 shtoni 9
+x barazohet 2 shtoni 9
+x barazohet 0.7 zbres 0.6
+x barazohet 7 zbres 5
+x barazohet 7 zbres 3
+x barazohet 8 zbres 5
+x barazohet 1 zbres 0.6
+x barazohet 8.1111 zbres 2.444
+x barazohet 7 zbres 5
+x barazohet 3 zbres 2
+x barazohet 0.7 zbres 0.6
+x barazohet 20 zbres 10
+x barazohet 16 zbres 11
+x barazohet 11 zbres 8
+x barazohet 13 zbres 7
+x barazohet 15 zbres 8
+x barazohet 12.5 zbres 11
+x barazohet 12.444 zbres 8.1111
+x barazohet 15 zbres 7
+x barazohet 12 zbres 3
+x barazohet 1.6 zbres 0.7
+x barazohet 20 zbres 10
+x barazohet 0.1227 zbres 0.6345
+x barazohet 7 zbres 5
+x barazohet 8 zbres 2
+x barazohet 8.5 zbres 5
+x barazohet 10 zbres 0.6
+x barazohet 8.1111 zbres 2.444
+x barazohet 7 zbres 5
+x barazohet 3 zbres 2
+x barazohet 8 zbres 1
+x barazohet 20 zbres 10
+x barazohet 10 zbres 6
+x barazohet 8 zbres 5
+x barazohet 7 zbres 4
+x barazohet 8 zbres 6
+x barazohet 1 zbres 0.6
+x barazohet 8.1111 zbres 2.444
+x barazohet 17 zbres 6
+x barazohet 3 zbres 2
+x barazohet 0.7 zbres 0.6
+x barazohet 11 zbres 5
+x barazohet 1.7 zbres 1.6
+x barazohet 9 zbres 5
+x barazohet 8 zbres 3
+x barazohet 10 zbres 5
+x barazohet 1.5 zbres 0.6
+x barazohet 6.1111 zbres 2.444
+x barazohet 7 zbres 5
+x barazohet 3 zbres 2
+x barazohet 1.7 zbres 0.6
+x barazohet 20 zbres 8
+x barazohet 16 zbres 11
+x barazohet 21 zbres 18
+x barazohet 13 zbres 7
+x barazohet 15 zbres 12
+x barazohet 12.444 zbres 8.1111
+x barazohet 15 zbres 7
+x barazohet 12 zbres 5
+x barazohet 2.6 zbres 0.7
+x barazohet 12 zbres 5
+x barazohet 18 zbres 12
+x barazohet 11 zbres 8
+x barazohet 15 zbres 5
+x barazohet 20 zbres 10
+x barazohet 12.5 zbres 10
+x barazohet 12.444 zbres 8.1111
+x barazohet 15 zbres 7
+x barazohet 15 zbres 7
+x barazohet 16 zbres 10
+x barazohet 20 zbres 14
+x barazohet 18 zbres 12
+x barazohet 21 zbres 20
+x barazohet 14 zbres 8
+x barazohet 20 zbres 14
+x barazohet 12.5 zbres 12
+x barazohet 9.444 zbres 4.1111
+x barazohet 16 zbres 8
+x barazohet 6 zbres 1
+x barazohet 2.9 zbres 0.9
+x barazohet 12 zbres 5
+x barazohet 0.8 zbres 0.554
+x barazohet 7.2 zbres 5
+x barazohet 11.7 zbres 3.5
+x barazohet 18 zbres 15
+x barazohet 11 zbres 4.6
+x barazohet 9 zbres 4
+x barazohet 3 zbres 2
+x barazohet 1.7 zbres 0.9
+x barazohet 16 zbres 8
+x barazohet 7.3 zbres 5.4
+x barazohet 7.4 zbres 3.2
+x barazohet 5.333333 zbres 5
+x barazohet 1.5 zbres 0.4
+x barazohet 8.1111 zbres 1.444
+x barazohet 4.3 zbres 3.2
+x barazohet 6.2 zbres 2.2
+x barazohet 11.7 zbres 1.6
+x barazohet 15 zbres 8
+x barazohet 0.625 zbres 0.25
+x barazohet 2 zbres 1.5
+x barazohet 12 zbres 10
+x barazohet 0.625 zbres 0.25
+x barazohet 120 zbres 60
+x barazohet 100 zbres 40
+x barazohet 12 zbres 0.25
+x barazohet 5 zbres 3
+x barazohet 5 zbres 4
+x barazohet 20 zbres 10
+x barazohet 1.25 zbres 0.625
+x barazohet 3.5 zbres 2
+x barazohet 2 shtoni 5
+x barazohet 160 zbres 120
+x barazohet 140 zbres 100
+x barazohet 12 zbres 10
+x barazohet 6 zbres 5
+x barazohet 8 zbres 5
+x barazohet 30 zbres 20
+x barazohet 2.25 zbres 1.625
+x barazohet 2.5 zbres 2
+x barazohet 15 zbres 12
+x barazohet 1.25 zbres 0.625
+x barazohet 120 zbres 160
+x barazohet 100 zbres 140
+x barazohet 3.25 zbres 3
+x barazohet 13 zbres 6
+x barazohet 8 zbres 5
+x barazohet 20 zbres 40
+x barazohet 1.625 zbres 0.25
+x barazohet 2 zbres 1.5
+x barazohet 11 zbres 10
+x barazohet 1 zbres 0.25
+x barazohet 120 zbres 30
+x barazohet 90 zbres 40
+x barazohet 12 zbres 1.25
+x barazohet 15 zbres 3
+x barazohet 4 zbres 3
+x barazohet 2000 zbres 1000
+x barazohet 0.625 zbres 1.25
+x barazohet 5 zbres 7.5
+x barazohet 5 zbres 2
+x barazohet 0.625 zbres 0.25
+x barazohet 160 zbres 120
+x barazohet 140 zbres 100
+x barazohet 12 zbres 9
+x barazohet 6 zbres 5
+x barazohet 8 zbres 3
+x barazohet 30 zbres 20
+x barazohet 4.625 zbres 2.25
+x barazohet 7.1 zbres 3.5
+x barazohet 5.5 zbres 5
+x barazohet 4 zbres 1
+x barazohet 60 zbres 40
+x barazohet 150 zbres 140
+x barazohet 9 zbres 6
+x barazohet 15 zbres 10
+x barazohet 10 zbres 9
+x barazohet 40 zbres 30
+x barazohet 0.625 zbres 2.25
+x barazohet 5 zbres 7.5
+x barazohet 8 zbres 5
+x barazohet 1.25 zbres 0.625
+x barazohet 160 zbres 100
+x barazohet 120 zbres 50
+x barazohet 14 zbres 10
+x barazohet 8 zbres 4
+x barazohet 8 zbres 4
+x barazohet 20 zbres 10
+x barazohet 3 zbres 2.25
+x barazohet 8.1 zbres 4.5
+x barazohet 6.5 zbres 5
+x barazohet 5 zbres 2
+x barazohet 60 zbres 40
+x barazohet 250 zbres 120
+x barazohet 9 zbres 6
+x barazohet 5 zbres 3
+x barazohet 9 zbres 9
+x barazohet 25 zbres 25
+x barazohet 4 zbres 3.25
+x barazohet 8.1 zbres 3.5
+x barazohet 7.5 zbres 6
+x barazohet 15 zbres 12
+x barazohet 60 zbres 40
+x barazohet 260 zbres 100
+x barazohet 10 zbres 8
+x barazohet 15 zbres 13
+x barazohet 4 zbres 1
+x barazohet 15 zbres 14.69
+x barazohet 3.625 zbres 1.25
+x barazohet 5.534 zbres 4.2
+x barazohet 5 zbres 2
+x barazohet 55 zbres 45
+x barazohet 150 zbres 137
+x barazohet 11.2 zbres 6
+x barazohet 11.5 zbres 9
+x barazohet 4 zbres 2
+x barazohet 53 zbres 30
+x barazohet 0.4 zbres 0.1
+x barazohet 8 zbres 5
+x barazohet 6 zbres 5
+x barazohet 10 zbres 6
+x barazohet 60 zbres 50
+x barazohet 7 zbres 5
+x barazohet 64 zbres 55
+x barazohet 40 zbres 24
+x barazohet 600 zbres 500
+x barazohet 12 zbres 10
+x barazohet 8 zbres 6
+x barazohet 20 zbres 16
+x barazohet 14 zbres 6
+x barazohet 16 zbres 10
+x barazohet 150 zbres 60
+x barazohet 15 zbres 10
+x barazohet 75000 zbres 64000
+x barazohet 64 zbres 40
+x barazohet 1500 zbres 600
+x barazohet 21 zbres 11
+x barazohet 2.4 zbres 2.1
+x barazohet 10 zbres 5
+x barazohet 8 zbres 3
+x barazohet 14 zbres 6
+x barazohet 160 zbres 150
+x barazohet 6 zbres 4
+x barazohet 640 zbres 550
+x barazohet 400000 zbres 500000
+x barazohet 1600 zbres 1500
+x barazohet 10 zbres 10
+x barazohet 0.4 zbres 0.1
+x barazohet 8 zbres 5
+x barazohet 16 zbres 15
+x barazohet 11 zbres 8
+x barazohet 40 zbres 20
+x barazohet 17 zbres 15
+x barazohet 64 zbres 60
+x barazohet 140 zbres 124
+x barazohet 500 zbres 400
+x barazohet 11 zbres 9
+x barazohet 0.6 zbres 0.1
+x barazohet 8 zbres 5
+x barazohet 16 zbres 15
+x barazohet 10 zbres 6
+x barazohet 160 zbres 50
+x barazohet 7 zbres 4
+x barazohet 64 zbres 55
+x barazohet 40 zbres 24
+x barazohet 60 zbres 50
+x barazohet 12 zbres 10
+x barazohet 8 zbres 4
+x barazohet 20 zbres 16
+x barazohet 10 zbres 4
+x barazohet 10 zbres 5
+x barazohet 150 zbres 50
+x barazohet 25 zbres 10
+x barazohet 63 zbres 55
+x barazohet 1600 zbres 400
+x barazohet 21 zbres 12
+x barazohet 7 zbres 0.1
+x barazohet 80 zbres 5
+x barazohet 20 zbres 14
+x barazohet 15 zbres 8
+x barazohet 200 zbres 100
+x barazohet 10 zbres 4
+x barazohet 60 zbres 24
+x barazohet 60 zbres 25
+x barazohet 600 zbres 500
+x barazohet 13 zbres 9
+x barazohet 8 zbres 8
+x barazohet 25 zbres 20
+x barazohet 15 zbres 6
+x barazohet 14 zbres 6
+x barazohet 150 zbres 100
+x barazohet 26 zbres 11
+x barazohet 85000 zbres 54000
+x barazohet 65 zbres 60
+x barazohet 1600 zbres 500
+x barazohet 6 zbres 5
+x barazohet 18 zbres 16
+x barazohet 19 zbres 15
+x barazohet 13 zbres 10
+x barazohet 20 zbres 12
+x barazohet 150 zbres 100
+x barazohet 20 zbres 11
+x barazohet 70000 zbres 60000
+x barazohet 65.36 zbres 60
+x barazohet 2000 zbres 800
+x barazohet 6 zbres 5
+x barazohet 8.6 zbres 7.5
+x barazohet 25 zbres 25
+x barazohet 23 zbres 8
+x barazohet 13 zbres 5
+x barazohet 165 zbres 110
+x barazohet 13 zbres 6
+x barazohet 25000 zbres 12000
+x barazohet 168 zbres 80
+x barazohet 650 zbres 250
+x barazohet 17 zbres 10
+x barazohet 7 zbres 4
+x barazohet 20 zbres 6
+x barazohet 7 zbres 4
+x barazohet 11 zbres 8
+x barazohet 12 zbres 4
+x barazohet 7 zbres 5
+x barazohet 12 zbres 6
+x barazohet 8 zbres 4
+x barazohet 15 zbres 10
+x barazohet 18 zbres 12
+x barazohet 7 zbres 4
+x barazohet 15 zbres 8
+x barazohet 7 zbres 4
+x barazohet 10 zbres 9
+x barazohet 11 zbres 4
+x barazohet 8 zbres 5
+x barazohet 15 zbres 6
+x barazohet 10 zbres 6
+x barazohet 6 zbres 2
+x barazohet 18 zbres 12
+x barazohet 7 zbres 4
+x barazohet 20 zbres 6
+x barazohet 17 zbres 14
+x barazohet 11 zbres 8
+x barazohet 12 zbres 8
+x barazohet 7 zbres 5
+x barazohet 12 zbres 8
+x barazohet 18 zbres 4
+x barazohet 15 zbres 10
+x barazohet 20 zbres 12
+x barazohet 17 zbres 4
+x barazohet 20 zbres 6
+x barazohet 12 zbres 10
+x barazohet 12 zbres 4
+x barazohet 5 zbres 3
+x barazohet 10 zbres 6
+x barazohet 8 zbres 6
+x barazohet 14 zbres 1
+x barazohet 18 zbres 12
+x barazohet 8 zbres 3
+x barazohet 10 zbres 6
+x barazohet 10 zbres 4
+x barazohet 11 zbres 8
+x barazohet 20 zbres 10
+x barazohet 7 zbres 5
+x barazohet 20 zbres 10
+x barazohet 10 zbres 4
+x barazohet 15 zbres 10
+x barazohet 18 zbres 5
+x barazohet 8 zbres 5
+x barazohet 20 zbres 6
+x barazohet 17 zbres 14
+x barazohet 12 zbres 8
+x barazohet 12 zbres 8
+x barazohet 8 zbres 4
+x barazohet 2 shumohen 60 zbres 1
+x barazohet 2 shumohen 60 zbres 45
+x barazohet 12 zbres 8
+x barazohet 15 zbres 12
+x barazohet 15 zbres 8
+x barazohet 8 zbres 4
+x barazohet 11 zbres 10
+x barazohet 12 zbres 8
+x barazohet 5 zbres 3
+x barazohet 10 zbres 5
+x barazohet 8 zbres 5
+x barazohet 12 zbres 2
+x barazohet 16 zbres 10
+x barazohet 9 zbres 5
+x barazohet 10 zbres 8
+x barazohet 20 zbres 15
+x barazohet 3 zbres 2
+x barazohet 9 zbres 5
+x barazohet 3 shumohen 60 zbres 2 shumohen 60
+x barazohet 2 shumohen 60 zbres 45
+x barazohet 14 zbres 5
+x barazohet 20 zbres 15
+x barazohet 10 zbres 5
+x barazohet 11 zbres 7
+x barazohet 10 zbres 4
+x barazohet 12 zbres 9
+x barazohet 5 zbres 4
+x barazohet 6 zbres 3
+x barazohet 50 zbres 10
+x barazohet 12 zbres 5
+x barazohet 20 zbres 4
+x barazohet 15 zbres 4
+x barazohet 16 zbres 10
+x barazohet 17 zbres 6
+x barazohet 19 zbres 12
+x barazohet 120 zbres 80
+x barazohet 16 zbres 9
+x barazohet 12 zbres 11
+x barazohet 3 shumohen 60 zbres 1
+x barazohet 5 shumohen 60 zbres 55
+x barazohet 15 zbres 7
+x barazohet 25 zbres 13
+x barazohet 9 shtoni 7
+x barazohet 10 shtoni 8
+x barazohet 9 shtoni 7
+x barazohet 900 shtoni 1700
+x barazohet 9 shtoni 10
+x barazohet 10 shtoni 10
+x barazohet 12 shtoni 7
+x barazohet 12 zbres 7
+x barazohet 15 shtoni 7
+x barazohet 20 shtoni 10
+x barazohet 9 shtoni 6
+x barazohet 8 shtoni 7
+x barazohet 10 shtoni 6
+x barazohet 800 shtoni 1700
+x barazohet 6 shtoni 10
+x barazohet 10 shtoni 30
+x barazohet 10 shtoni 11
+x barazohet 10 shtoni 6
+x barazohet 12 shtoni 7
+x barazohet 11 shtoni 9
+x barazohet 8 shtoni 7
+x barazohet 11 shtoni 8
+x barazohet 9 shtoni 3
+x barazohet 9000 shtoni 1700
+x barazohet 18 shtoni 10
+x barazohet 10 shtoni 20
+x barazohet 11 shtoni 7
+x barazohet 3 shtoni 12
+x barazohet 15 shtoni 7
+x barazohet 20 shtoni 12
+x barazohet 9 shtoni 2
+x barazohet 20 shtoni 8
+x barazohet 10 shtoni 7
+x barazohet 1900 shtoni 700
+x barazohet 9 shtoni 10
+x barazohet 2 shtoni 2
+x barazohet 11 zbres 8
+x barazohet 12 shtoni 5
+x barazohet 10 shtoni 7
+x barazohet 20 shtoni 10
+x barazohet 9 shtoni 7
+x barazohet 10 shtoni 8
+x barazohet 6 shtoni 7
+x barazohet 900 shtoni 1700
+x barazohet 9 shtoni 10
+x barazohet 10 shtoni 10
+x barazohet 12 shtoni 4
+x barazohet 20 zbres 8
+x barazohet 15 shtoni 7
+x barazohet 20 shtoni 10
+x barazohet 10 shtoni 6
+x barazohet 10 shtoni 8
+x barazohet 12 shtoni 4
+x barazohet 800 shtoni 1700
+x barazohet 10 shtoni 10
+x barazohet 10 shtoni 30
+x barazohet 10 shtoni 11
+x barazohet 15 zbres 8
+x barazohet 12 shtoni 8
+x barazohet 11 shtoni 9
+x barazohet 9 shtoni 7
+x barazohet 15 shtoni 7
+x barazohet 8 shtoni 4
+x barazohet 90 shtoni 170
+x barazohet 9 shtoni 10
+x barazohet 15 shtoni 9
+x barazohet 11 shtoni 5
+x barazohet 15 shtoni 9
+x barazohet 5 shtoni 7
+x barazohet 18 shtoni 9
+x barazohet 11 shtoni 8
+x barazohet 11 shtoni 9
+x barazohet 12 shtoni 4
+x barazohet 600 shtoni 1800
+x barazohet 6 shtoni 9
+x barazohet 6 shtoni 20
+x barazohet 8 shtoni 9
+x barazohet 20 zbres 9
+x barazohet 16 shtoni 7
+x barazohet 12 shtoni 7
+x barazohet 11 shtoni 8
+x barazohet 15 shtoni 10
+x barazohet 8 shtoni 5
+x barazohet 250 shtoni 1800
+x barazohet 10 shtoni 10
+x barazohet 10 shtoni 10
+x barazohet 11 shtoni 8
+x barazohet 25 zbres 8
+x barazohet 18 shtoni 9
+x barazohet 18 shtoni 4
+x barazohet 15 shtoni 20
+x barazohet 25 shtoni 5
+x barazohet 45 shtoni 8
+x barazohet 500 shtoni 700
+x barazohet 12 shtoni 3
+x barazohet 100 shtoni 5
+x barazohet 5 shtoni 14
+x barazohet 2 shtoni 8
+x barazohet 5 shtoni 7
+x barazohet 17 shtoni 5
+x barazohet 7 zbres 3
+x barazohet 8 zbres 3
+x barazohet 10 zbres 5
+x barazohet 11 zbres 3
+x barazohet 12 zbres 3
+x barazohet 7 zbres 6
+x barazohet 18 zbres 3
+x barazohet 14 zbres 3
+x barazohet 16 zbres 3
+x barazohet 13 zbres 3
+x barazohet 10 zbres 8
+x barazohet 3 zbres 2
+x barazohet 12 zbres 5
+x barazohet 13 zbres 3
+x barazohet 12 zbres 8
+x barazohet 10 zbres 3
+x barazohet 15 zbres 3
+x barazohet 9 zbres 6
+x barazohet 17 zbres 13
+x barazohet 8 zbres 3
+x barazohet 9 zbres 4
+x barazohet 13 zbres 3
+x barazohet 11 zbres 3
+x barazohet 7 zbres 6
+x barazohet 15 zbres 3
+x barazohet 12 zbres 3
+x barazohet 2 zbres 1
+x barazohet 10 zbres 3
+x barazohet 17 zbres 5
+x barazohet 10 zbres 3
+x barazohet 9 zbres 5
+x barazohet 10 zbres 5
+x barazohet 7 zbres 6
+x barazohet 20 zbres 3
+x barazohet 12 zbres 4
+x barazohet 15 zbres 3
+x barazohet 12 zbres 6
+x barazohet 8 zbres 3
+x barazohet 9 zbres 4
+x barazohet 11 zbres 5
+x barazohet 11 zbres 3
+x barazohet 9 zbres 3
+x barazohet 7 zbres 6
+x barazohet 155 zbres 3
+x barazohet 14 zbres 3
+x barazohet 12 zbres 3
+x barazohet 11 zbres 4
+x barazohet 17 zbres 5
+x barazohet 9 zbres 4
+x barazohet 9 zbres 6
+x barazohet 10 zbres 3
+x barazohet 12 zbres 6
+x barazohet 13 zbres 6
+x barazohet 300 zbres 250
+x barazohet 15 zbres 3
+x barazohet 8 zbres 6
+x barazohet 9 zbres 4
+x barazohet 8 zbres 4
+x barazohet 12 zbres 5
+x barazohet 6 zbres 3
+x barazohet 7 zbres 6
+x barazohet 230 zbres 7
+x barazohet 20 zbres 3
+x barazohet 11 zbres 4
+x barazohet 11 zbres 5
+x barazohet 15 zbres 5
+x barazohet 10 zbres 5
+x barazohet 9 zbres 6
+x barazohet 10 zbres 4
+x barazohet 12 zbres 7
+x barazohet 14 zbres 5
+x barazohet 430 zbres 400
+x barazohet 15 zbres 6
+x barazohet 15 zbres 4
+x barazohet 9 zbres 5
+x barazohet 20 zbres 9
+x barazohet 9 zbres 4
+x barazohet 10 zbres 8
+x barazohet 12 zbres 4
+x barazohet 11 zbres 7
+x barazohet 12 zbres 7
+x barazohet 400 zbres 315
+x barazohet 11 zbres 4
+x barazohet 13 zbres 3
+x barazohet 25 zbres 15
+x barazohet 18 zbres 4
+x barazohet 15 zbres 9
+x barazohet 15 zbres 3
+x barazohet 8 zbres 5
+x barazohet 5 zbres 2
+x barazohet 100 zbres 50
+x barazohet 18 zbres 4
+x barazohet 5 zbres 3
+x barazohet 80 zbres 25
+x barazohet 9 zbres 4
+x barazohet 10 zbres 6
+x barazohet 20 zbres 4
+x barazohet 20 zbres 8
+x barazohet 12 zbres 5
+x barazohet 90 zbres 4
+x barazohet 19 zbres 4
+x barazohet 10 zbres 6
+x barazohet 9 zbres 4
+x barazohet 20 zbres 12
+x barazohet 9 zbres 4
+x barazohet 10 zbres 6
+x barazohet 20 zbres 4
+x barazohet 20 zbres 8
+x barazohet 12 zbres 3
+x barazohet 10 zbres 4
+x barazohet 6 zbres 3
+x barazohet 11 zbres 6
+x barazohet 10 zbres 7
+x barazohet 30 zbres 8
+x barazohet 9 zbres 4
+x barazohet 10 zbres 6
+x barazohet 20 zbres 4
+x barazohet 18 zbres 10
+x barazohet 12 zbres 8
+x barazohet 100 zbres 40
+x barazohet 15 zbres 14
+x barazohet 10 zbres 6
+x barazohet 19 zbres 14
+x barazohet 20 zbres 12
+x barazohet 19 zbres 4
+x barazohet 12 zbres 6
+x barazohet 20 zbres 4
+x barazohet 18 zbres 10
+x barazohet 11 zbres 5
+x barazohet 100 zbres 40
+x barazohet 19 zbres 14
+x barazohet 10 zbres 9
+x barazohet 9 zbres 4
+x barazohet 10 zbres 2
+x barazohet 10 zbres 5
+x barazohet 10 zbres 6
+x barazohet 21 zbres 4
+x barazohet 15 zbres 8
+x barazohet 12 zbres 5
+x barazohet 90 zbres 4
+x barazohet 15 zbres 4
+x barazohet 12 zbres 8
+x barazohet 8 zbres 4
+x barazohet 20 zbres 10
+x barazohet 18 zbres 9
+x barazohet 11 zbres 6
+x barazohet 20 zbres 4
+x barazohet 18 zbres 10
+x barazohet 10 zbres 5
+x barazohet 100 zbres 40
+x barazohet 20 zbres 16
+x barazohet 8 zbres 9
+x barazohet 10 zbres 4
+x barazohet 11 zbres 3
+x barazohet 20 zbres 14
+x barazohet 12 zbres 6
+x barazohet 15 zbres 8
+x barazohet 18 zbres 11
+x barazohet 12 zbres 6
+x barazohet 100 zbres 40
+x barazohet 20 zbres 8
+x barazohet 10 zbres 9
+x barazohet 10 zbres 5
+x barazohet 9 zbres 7
+x barazohet 15 zbres 7
+x barazohet 11 zbres 8
+x barazohet 15 zbres 5
+x barazohet 20 zbres 11
+x barazohet 9 zbres 5
+x barazohet 100 zbres 40
+x barazohet 15 zbres 8
+x barazohet 9 zbres 9
+x barazohet 11 zbres 5
+x barazohet 12 zbres 3
+x barazohet 11 zbres 9
+x barazohet 12 shtoni 5
+x barazohet 18 zbres 5
+x barazohet 14 zbres 4
+x barazohet 91 zbres 61
+x barazohet 6 zbres 2
+x barazohet 11 zbres 7
+x barazohet 9 zbres 7
+x barazohet 10 zbres 6
+x barazohet 100 zbres 50
+x barazohet 112 zbres 72
+x barazohet 210 zbres 40
+x barazohet 25 zbres 8
+x barazohet 20 zbres 5
+x barazohet 900 zbres 400
+x barazohet 55 zbres 40
+x barazohet 5 zbres 2
+x barazohet 12 zbres 4
+x barazohet 2 zbres 1
+x barazohet 30 zbres 16
+x barazohet 20 zbres 8
+x barazohet 12 zbres 4
+x barazohet 10 zbres 4
+x barazohet 15 zbres 2
+x barazohet 22 zbres 16
+x barazohet 15 zbres 10
+x barazohet 30 zbres 16
+x barazohet 2
+x barazohet 30 zbres 16
+x barazohet 30 zbres 16
+x barazohet 10 zbres 10
+x barazohet 12 zbres 4
+x barazohet 8 zbres 2
+x barazohet 10 zbres 5
+x barazohet 22 zbres 16
+x barazohet 12 zbres 8
+x barazohet 11 zbres 8
+x barazohet 3 zbres 2
+x barazohet 10 zbres 9
+x barazohet 25 zbres 10
+x barazohet 10 zbres 18
+x barazohet 12 zbres 4
+x barazohet 10 zbres 5
+x barazohet 15 zbres 2
+x barazohet 20 zbres 16
+x barazohet 15 zbres 3
+x barazohet 13 zbres 8
+x barazohet 15 zbres 5
+x barazohet 15 zbres 5
+x barazohet 8 zbres 4
+x barazohet 10 zbres 4
+x barazohet 16 zbres 2
+x barazohet 5 zbres 2
+x barazohet 15 zbres 2
+x barazohet 30 zbres 16
+x barazohet 2
+x barazohet 15 zbres 8
+x barazohet 30 zbres 16
+x barazohet 10 zbres 8
+x barazohet 12 zbres 8
+x barazohet 10 zbres 4
+x barazohet 12 zbres 3
+x barazohet 20 zbres 8
+x barazohet 15 zbres 10
+x barazohet 30 zbres 16
+x barazohet 3 zbres 1
+x barazohet 30 zbres 16
+x barazohet 15 zbres 10
+x barazohet 15 zbres 9
+x barazohet 8 zbres 5
+x barazohet 9 zbres 4
+x barazohet 15 zbres 4
+x barazohet 5 zbres 2
+x barazohet 14 zbres 9
+x barazohet 30 zbres 16
+x barazohet 9 zbres 2
+x barazohet 20 zbres 8
+x barazohet 14 zbres 2
+x barazohet 9 zbres 8
+x barazohet 11 zbres 8
+x barazohet 12 zbres 5
+x barazohet 11 zbres 4
+x barazohet 16 zbres 4
+x barazohet 16 zbres 10
+x barazohet 20 zbres 15
+x barazohet 5 zbres 2
+x barazohet 5 zbres 4
+x barazohet 20 zbres 10
+x barazohet 18 zbres 10
+x barazohet 8 zbres 5
+x barazohet 19 zbres 14
+x barazohet 20 zbres 4
+x barazohet 14 zbres 5
+x barazohet 20 zbres 4
+x barazohet 25 zbres 5
+x barazohet 12 zbres 5
+x barazohet 20 zbres 15
+x barazohet 12 zbres 11
+x barazohet 11 zbres 7
+x barazohet 12 zbres 7
+x barazohet 9 zbres 5
+x barazohet 9 zbres 7
+x barazohet 12 zbres 7
+x barazohet 14 zbres 11
+x barazohet 11 zbres 9
+x barazohet 3 zbres 2
+x barazohet 19 zbres 16
+x barazohet 3 zbres 1
+x barazohet 100 zbres 80
+x barazohet 15 zbres 8
+x barazohet 14 zbres 4
+x barazohet 120 zbres 30
+x barazohet 200 zbres 80
+x barazohet 5 zbres 2
+x barazohet 30 zbres 16
+x barazohet 3 zbres 1
+x barazohet 30 zbres 16
+x barazohet 30 zbres 16
+x barazohet 20 zbres 8
+x barazohet 78 zbres 34
+x barazohet 92 zbres 5
+x barazohet 14 zbres 10
+x barazohet 56 zbres 16
+x barazohet 53 zbres 16
+x barazohet 35 zbres 2
+x barazohet 90 zbres 21
+x barazohet 67 zbres 58
+x barazohet 61 zbres 59
+x barazohet 79 zbres 6
+x barazohet 85 zbres 13
+x barazohet 18 zbres 6
+x barazohet 74 zbres 63
+x barazohet 87 zbres 20
+x barazohet 86 zbres 81
+x barazohet 58 zbres 6
+x barazohet 73 zbres 2
+x barazohet 89 zbres 23
+x barazohet 74 zbres 2
+x barazohet 5155 zbres 45
+x barazohet 6 shtoni 8
+x barazohet 6 shtoni 9
+x barazohet 3 shtoni 5
+x barazohet 9 shtoni 6
+x barazohet 2 shtoni 9
+x barazohet 8 shtoni 9
+x barazohet 18 shtoni 47
+x barazohet 45 shtoni 11
+x barazohet 41 shtoni 40
+x barazohet 18 shtoni 41
+x barazohet 9 shtoni 3
+x barazohet 6 shtoni 8
+x barazohet 6 shtoni 9
+x barazohet 5 shtoni 10
+x barazohet 4 shtoni 6
+x barazohet 2 shtoni 3
+x barazohet 33 shtoni 44
+x barazohet 41 shtoni 30
+x barazohet 99 shtoni 5
+x barazohet 40 shtoni 9
+x barazohet 10 zbres 7
+x barazohet 8 zbres 3
+x barazohet 12 zbres 8
+x barazohet 11 zbres 7
+x barazohet 8 shtoni 4
+x barazohet 25 shtoni 8
+x barazohet 6 shtoni 8
+x barazohet 11 shtoni 10
+x barazohet 13 shtoni 9
+x barazohet 6 shtoni 8
+x barazohet 9 shtoni 8
+x barazohet 6 shtoni 10
+x barazohet 12 shtoni 18
+x barazohet 11 shtoni 14
+x barazohet 8 shtoni 4
+x barazohet 11 shtoni 8
+x barazohet 6 shtoni 8
+x barazohet 12 shtoni 10
+x barazohet 36 shtoni 8
+x barazohet 9 shtoni 8
+x barazohet 10 shtoni 10
+x barazohet 12 shtoni 18
+x barazohet 14 shtoni 15
+x barazohet 23 shtoni 13
+x barazohet 45 shtoni 8
+x barazohet 12 shtoni 45
+x barazohet 12 shtoni 10
+x barazohet 13 shtoni 11
+x barazohet 36 shtoni 8
+x barazohet 12 shtoni 13
+x barazohet 22 shtoni 10
+x barazohet 14 shtoni 36
+x barazohet 6 shtoni 8
+x barazohet 8 shtoni 12
+x barazohet 12 shtoni 8
+x barazohet 11 shtoni 10
+x barazohet 13 shtoni 9
+x barazohet 6 shtoni 8
+x barazohet 6 barazohet 12
+x barazohet 18 shtoni 41
+x barazohet 4 shtoni 6
+x barazohet 33 shtoni 44
+x barazohet 3 shtoni 12
+X barazohet 9 shtoni 6
+x barazohet 2 shtoni 9
+x barazohet 12 shtoni 8
+x barazohet 12 shtoni 13
+x barazohet 45 shtoni 11
+x barazohet 41 shtoni 12
+x barazohet 12 shtoni 13
+x barazohet 9 shtoni 56
+x barazohet 10 shtoni 7
+x barazohet 6 shtoni 13
+x barazohet 5 shtoni 10
+x barazohet 4 shtoni 6
+x barazohet 12 shtoni 6
+x barazohet 11 shtoni 11
+x barazohet 12 shtoni 15
+x barazohet 87 shtoni 15
+x barazohet 40 shtoni 19
+x barazohet 10 zbres 7
+x barazohet 20 zbres 3
+x barazohet 24 zbres 12
+x barazohet 13  zbres 8
+x barazohet 10 zbres 7
+x barazohet 25 zbres 6
+x barazohet 30 zbres 15
+x barazohet 12 zbres 8
+x barazohet 10 zbres 8
+x barazohet 11  zbres 5
+x barazohet 10 zbres 12
+x barazohet 12 zbres 6
+x barazohet 12 zbres 8
+x barazohet 200 zbres 12
+x barazohet 40 zbres 12
+x barazohet 24 zbres 10
+x barazohet 10 zbres 9
+x barazohet 10 zbres 3
+x barazohet 24 zbres 13
+x barazohet 23 zbres 12
+x barazohet 11 zbres 8
+x barazohet 20 zbres 3
+x barazohet 112 zbres 15
+x barazohet 52 zbres 45
+x barazohet 89 zbres 7
+x barazohet 25 zbres 6
+x barazohet 14 zbres 10
+x barazohet 10 zbres 8
+x barazohet 11 zbres 9
+x barazohet 13 zbres 9
+x barazohet 12 zbres 6
+x barazohet 12 zbres 8
+x barazohet 169 zbres 135
+x barazohet 40 zbres 12
+x barazohet 12 zbres 10
+x barazohet 4 shtoni 4
+x barazohet 2 shtoni 3
+x barazohet 5 shtoni 7
+x barazohet 7 shtoni 4
+x barazohet 9 zbres 7
+x barazohet 10 shtoni 8
+x barazohet 16 zbres 12
+x barazohet 20 zbres 7
+x barazohet 18 zbres 7
+x barazohet 12 shtoni 7
+x barazohet 13 zbres 7
+x barazohet 8 zbres 6
+x barazohet 9 zbres 8
+x barazohet 13 zbres 8
+x barazohet 15 zbres 9
+x barazohet 18 shtoni 7
+x barazohet 10 zbres 7
+x barazohet 20 shtoni 5
+x barazohet 4 zbres 2
+x barazohet 34 zbres 9
+x barazohet 40 zbres 20
+x barazohet 25 zbres 9
+x barazohet 30 shtoni 19
+x barazohet 25 zbres 2
+x barazohet 20 zbres 5
+x barazohet 15 shtoni 7
+x barazohet 13 zbres 6
+x barazohet 12 zbres 4
+x barazohet 9 zbres 6
+x barazohet 30 zbres 10
+x barazohet 45 zbres 20
+x barazohet 20 zbres 9
+x barazohet 25 zbres 2
+x barazohet 21 zbres 3
+x barazohet 20 zbres 3
+x barazohet 9 zbres 7
+x barazohet 6 zbres 3
+x barazohet 5 zbres 2
+x barazohet 15 zbres 6
+x barazohet 15 shtoni 7
+x barazohet 6 shtoni 4
+x barazohet 11 shtoni 7
+x barazohet 12 shtoni 6
+x barazohet 15 shtoni 11
+x barazohet 13 shtoni 6
+x barazohet 11 shtoni 4
+x barazohet 16 shtoni 64
+x barazohet 11 shtoni 5
+x barazohet 9 shtoni 3
+x barazohet 12 shtoni 8
+x barazohet 44 shtoni 11
+x barazohet 28 shtoni 4
+x barazohet 14 shtoni 5
+x barazohet 20 shtoni 8
+x barazohet 18 shtoni 5
+x barazohet 11 shtoni 6
+x barazohet 6 shtoni 5
+x barazohet 11 shtoni 8
+x barazohet 36 zbres 25
+x barazohet 40 zbres 23
+x barazohet 15 zbres 10
+x barazohet 12 zbres 8
+x barazohet 11 zbres 5
+x barazohet 20 zbres 7
+x barazohet 3 zbres 1
+x barazohet 15 zbres 9
+x barazohet 20 zbres 7
+x barazohet 10 zbres 3
+x barazohet 4 zbres 2
+x barazohet 10 zbres 3
+x barazohet 13 zbres 8
+x barazohet 20 shtoni 10
+x barazohet 9 zbres 6
+x barazohet 5 zbres 2
+x barazohet 11 shtoni 3
+x barazohet 16 zbres 12
+x barazohet 34 zbres 23
+x barazohet 15 zbres 9
+x barazohet 4 zbres 2
+x barazohet 12 shtoni 2
+x barazohet 34 shtoni 5
+x barazohet 22 shtoni 4
+x barazohet 30 zbres 12
+x barazohet 50 zbres 30
+x barazohet 45 zbres 20
+x barazohet 20 zbres 9
+x barazohet 25 zbres 2
+x barazohet 25 zbres 12
+x barazohet 28 shtoni 8
+x barazohet 44 shtoni 11
+x barazohet 18 shtoni 5
+x barazohet 0.7 shtoni 0.4
+x barazohet 3 shtoni 2
+x barazohet 2 shtoni 5
+x barazohet 0.3 shtoni 0.1
+x barazohet 7 zbres 5
+x barazohet 17 zbres 6
+x barazohet 3 shtoni 2
+x barazohet 2 shtoni 5
+x barazohet 5 shtoni 2
+x barazohet 2 shtoni 5
+x barazohet 10 zbres 2
+x barazohet 20 zbres 8
+x barazohet 12 zbres 5
+x barazohet 5 shtoni 2
+x barazohet 3 shtoni 2
+x barazohet 15 zbres 7
+x barazohet 7 zbres 4
+x barazohet 12 zbres 6
+x barazohet 10 zbres 3
+x barazohet 13 zbres 10
+x barazohet 10 zbres 8
+x barazohet 15 zbres 10
+x barazohet 12 zbres 5
+x barazohet 28 zbres 22
+x barazohet 4 zbres 2
+x barazohet 0.3 shtoni 0.1
+x barazohet 7 zbres 5
+x barazohet 0.625 zbres 0.25
+x barazohet 1 shtoni 0.500 
+x barazohet 5 zbres 1
+x barazohet 2 zbres 0.5
+x barazohet 0.625 zbres 0.25
+x barazohet 140 zbres 100
+x barazohet 100 zbres 30
+x barazohet 18 zbres 12
+x barazohet 11 zbres 4
+x barazohet 11 zbres 10
+x barazohet (12 shumohen 5) ndajnë (12 zbres 5)
+x barazohet 230 zbres 100
+x barazohet 18 zbres 5
+x barazohet 12 zbres 3
+x barazohet 5 zbres 4
+x barazohet 56 zbres 23
+x barazohet 12 zbres 11
+x barazohet 17 zbres 14
+x barazohet 7 zbres 4
+x barazohet 123 zbres 23
+x barazohet 170 zbres 45
+x barazohet 7 zbres 3
+x barazohet 0.3 shtoni 0.1
+x barazohet 6 zbres 3
+x barazohet 5 zbres 4
+x barazohet 9 shtoni 7
+x barazohet 12 shtoni 21
+x barazohet 56 shtoni 7
+x barazohet 6 shtoni 3
+x barazohet 4 shtoni 2
+x barazohet 8 zbres 5
+x barazohet 10 zbres 3
+x barazohet 6 zbres 2
+x barazohet 9 shtoni 7
+x barazohet 4 shtoni 12
+x barazohet 10 shtoni 5
+x barazohet 3 shtoni 3
+x barazohet 3 shtoni 2
+x barazohet 10 shtoni 10
+x barazohet 2 shtoni 3
+x barazohet 4 shtoni 6
+x barazohet 2 shtoni 5
+x barazohet 10 shtoni 10
+x barazohet 6 shtoni 10
+x barazohet 16 shtoni 1
+x barazohet 16 shtoni 10
+x barazohet 12 shtoni 43
+x barazohet 3 shtoni 3
+x barazohet 11 shtoni 9
+x barazohet 9 shtoni 9
+x barazohet 34 shtoni 4
+x barazohet 2 shtoni 1
+x barazohet 5 shtoni 6
+x barazohet 8 shtoni 7
+x barazohet 2 shtoni 4
+x barazohet 3 shtoni 6
+x barazohet 6 shtoni 7
+x barazohet 8 shtoni 8
+x barazohet 15 shtoni 7
+x barazohet 15 shtoni 7
+x barazohet 5 shtoni 4
+x barazohet 67 shtoni 32
+x barazohet 14 shtoni 42
+x barazohet 1900 shtoni 700
+x barazohet 120 shtoni 25
+x barazohet 32 shtoni 45
+x barazohet 156 shtoni 90
+x barazohet 1234 shtoni 456
+x barazohet 9 shtoni 10
+x barazohet 5 shtoni 3
+x barazohet 6 shtoni 10
+x barazohet 2 shtoni 5
+x barazohet 34 shtoni 4
+x barazohet 5 shtoni 2
+x barazohet 17 zbres 6
+x barazohet 7 zbres 6
+x barazohet 3 zbres 2
+x barazohet 12 zbres 6
+x barazohet 7 zbres 3
+x barazohet 4 zbres 1
+x barazohet 8 zbres 4
+x barazohet 6 zbres 6
+x barazohet 123 zbres 90
+x barazohet 12 zbres 4
+x barazohet 8 zbres 6
+x barazohet 91 zbres 16
+x barazohet 13 zbres 5
+x barazohet 23 zbres 4
+x barazohet 55 zbres 5
+x barazohet 10 zbres 2
+x barazohet 8 zbres 3
+x barazohet 21 zbres 2
+x barazohet 123 zbres 4
+x barazohet 25 zbres 5
+x barazohet 45 zbres 4
+x barazohet 2 zbres 1
+x barazohet 3 zbres 1
+x barazohet 12 zbres 3
+x barazohet 5 zbres 4
+x barazohet 45 zbres 12
+x barazohet 12 zbres 8
+x barazohet 5 zbres 3
+x barazohet 5 zbres 3
+x barazohet 5 zbres 3
+x barazohet 15 zbres 14
+x barazohet 3 shtoni 2
+x barazohet 9 shtoni 5
+x barazohet 56 shtoni 75
+x barazohet 12 shtoni 10
+x barazohet 10 shtoni 7
+x barazohet 16 shtoni 3
+x barazohet 3 shtoni 5
+x barazohet 2 shtoni 6
+x barazohet 7 shtoni 4
+x barazohet 8 shtoni 5
+x barazohet 3 shtoni 4
+x barazohet 7 shtoni 2
+x barazohet 5 shtoni 2
+x barazohet 6 shtoni 8
+x barazohet 6 shtoni 6
+x barazohet 5 zbres 3
+x barazohet 6 zbres 2
+x barazohet 2 zbres 1
+x barazohet 14 zbres 12
+x barazohet 40 zbres 20
+x barazohet 34 zbres 10
+x barazohet 40 zbres 20
+x barazohet 56 zbres 19
+x barazohet 60 zbres 25
+x barazohet 65 zbres 30
+x barazohet 10 zbres 9
+x barazohet 12 zbres 2
+x barazohet 4 zbres 3
+x barazohet 5 zbres 1
+x barazohet 6 zbres 3
+x barazohet 12 zbres 7
+x barazohet 7 zbres 2
+x barazohet 6 zbres 3
+x barazohet 9 zbres 4
+x barazohet 6 zbres 5
+x barazohet 12 shtoni 3
+x barazohet 10 shtoni 2
+x barazohet 4 shtoni 1
+x barazohet 2 shtoni 6
+x barazohet 3 shtoni 3
+x barazohet 13 shtoni 2
+x barazohet 2 shtoni 6
+x barazohet 5 shtoni 7
+x barazohet 7 shtoni 4
+x barazohet 6 shtoni 5
+x barazohet 12 zbres 6
+x barazohet 24 zbres 12
+x barazohet 21 zbres 10
+x barazohet 20 zbres 12
+x barazohet 10 zbres 6
+x barazohet 100 zbres 50
+x barazohet 12 zbres 5
+x barazohet 125 zbres 90
+x barazohet 15 zbres 11
+x barazohet 245 zbres 150
+x barazohet 5 shtoni 4
+x barazohet 6 shtoni 3
+x barazohet 2 shtoni 2
+x barazohet 8 shtoni 6
+x barazohet 9 shtoni 8
+x barazohet 7 shtoni 6
+x barazohet 8 shtoni 7
+x barazohet 6 shtoni 4
+x barazohet 4 shtoni 3
+x barazohet 5 shtoni 5
+x barazohet 10 zbres 2
+x barazohet 23 zbres 9
+x barazohet 34 zbres 19
+x barazohet 22 zbres 11
+x barazohet 67 zbres 5
+x barazohet 12 zbres 3
+x barazohet 17 zbres 4
+x barazohet 50 zbres 12
+x barazohet 56 zbres 45
+x barazohet 23 zbres 14
+x barazohet 34 zbres 12
+x barazohet 6 zbres 2
+x barazohet 50 zbres 20
+x barazohet 41 zbres 32
+x barazohet 67 zbres 23
+x barazohet 40 zbres 30
+x barazohet 15 zbres 10
+x barazohet 34 zbres 23
+x barazohet 23 zbres 16
+x barazohet 17 zbres 6
+x barazohet 0.4 shtoni 0.4
+x barazohet 0.3 shtoni 0.5
+x barazohet 0.6 shtoni 0.6
+x barazohet 0.2 shtoni 0.7
+x barazohet 0.1 shtoni 0.2
+x barazohet 10 zbres 4
+x barazohet 6 zbres 5
+x barazohet 7 zbres 2
+x barazohet 5 zbres 1
+x barazohet 8 zbres 1
+x barazohet 56 shtoni 10
+x barazohet 40 shtoni 20
+x barazohet 25 shtoni 35
+x barazohet 50 shtoni 43
+x barazohet 65 shtoni 45
+x barazohet 12 shtoni 3
+x barazohet 34 shtoni 4
+x barazohet 54 shtoni 23
+x barazohet 81 shtoni 7
+x barazohet 18 shtoni 12
+x barazohet 5 zbres 2
+x barazohet 15 zbres 12
+x barazohet 50 zbres 25
+x barazohet 4 zbres 2
+x barazohet 15 zbres 1
+x barazohet 19 zbres 6
+x barazohet 12 zbres 3
+x barazohet 6 zbres 5
+x barazohet 5 zbres 2
+x barazohet 10 zbres 4
+x barazohet 100 zbres 150
+x barazohet 12 zbres 8
+x barazohet 15 zbres 5
+x barazohet 18 zbres 12
+x barazohet 15 zbres 4
+x barazohet 12 zbres 4
+x barazohet 25 zbres 14
+x barazohet 100 zbres 20
+x barazohet 50 zbres 40
+x barazohet 30 zbres 24
+x barazohet 25 shtoni 15
+x barazohet 50 shtoni 24
+x barazohet 10 shtoni 12
+x barazohet 5 shtoni 10
+x barazohet 10 shtoni 10
+x barazohet 5 zbres 2
+x barazohet 10 zbres 5
+x barazohet 8 zbres 3
+x barazohet 25 zbres 15
+x barazohet 14 zbres 7
+x barazohet 15 zbres 9
+x barazohet 25 shtoni 5
+x barazohet 12 zbres 3 shtoni 5
+x barazohet 50 zbres 17
+x barazohet 5 shtoni 11
+x barazohet 8 shumohen 2
+x barazohet 46 zbres 19
+x barazohet 27 zbres 12
+x barazohet 14 zbres 7
+x barazohet 18 ndajnë 2
+x barazohet 19 zbres 12
+x barazohet 4 shtoni 4
+x barazohet 24 ndajnë 6
+x barazohet 120 ndajnë 10
+x barazohet 18 ndajnë 2
+x barazohet 57 ndajnë 3
+x barazohet 75 ndajnë 3
+x barazohet 2 shumohen 38 zbres 38
+x barazohet 81 ndajnë 9
+x barazohet 35 ndajnë 5
+x barazohet 40 ndajnë 4
+x barazohet 48 ndajnë 4
+x barazohet 64 ndajnë 4
+x barazohet 12 zbres 5
+x barazohet 20 zbres 5 zbres 4
+x barazohet 10 shtoni 13
+x barazohet 3 shtoni 1 shtoni 2
+x barazohet 175 shtoni 25
+x barazohet 320 shtoni 270
+x barazohet 12 shumohen 12
+x barazohet 2 shtoni 2 shtoni 4
+x barazohet 88 shtoni 69
+x barazohet 31 zbres 10
+x barazohet 11 zbres 10
+x barazohet 71 zbres 25
+x barazohet 256 zbres 150
+x barazohet 965 zbres 213
+x barazohet 221 zbres 119
+x barazohet 35 zbres 6 zbres 3 zbres 4
+x barazohet 10 shtoni 6 shtoni 5
+x barazohet 6 shumohen 3
+x barazohet 25 shumohen 20
+x barazohet 4 shumohen (1 shtoni 2)
+x barazohet 5 shumohen 11
+x barazohet 5 shumohen 2 shumohen 5
+x barazohet 35 shumohen 5 shumohen 2
+x barazohet 40 shumohen 8
+x barazohet 80 ndajnë 5
+x barazohet 780 ndajnë 20 barazohet 39
+x barazohet 24 ndajnë 2
+x barazohet 24 ndajnë 12
+x barazohet 200 ndajnë 5
+x barazohet 250 zbres 125 shtoni 35
+x barazohet (12 shumohen 2) ndajnë 4
+x barazohet 05 shumohen 7
+x barazohet 72 zbres 64
+x barazohet (54 shtoni 4) ndajnë 2 zbres 5
+x barazohet 50 ndajnë 10
+x barazohet 75 shtoni 10
+x barazohet 45 shumohen 5
+x barazohet 10 zbres 8
+x barazohet 6 shumohen 10
+x barazohet 15 zbres 10 zbres 1 zbres 2
+x barazohet 12 zbres (7 ndajnë 2)
+x barazohet 25 shumohen 10
+x barazohet 65 zbres 13
+x barazohet 90 zbres 17
+x barazohet 22 zbres 6
+x barazohet 18 zbres 8
+x barazohet 18 zbres 6
+x barazohet 22 zbres 6
+x barazohet 18 shtoni 6
+x barazohet 11 shtoni 7
+x barazohet 28 zbres 8
+x barazohet 3 zbres 2
+x barazohet 45 zbres 9
+x barazohet 69 zbres 20
+x barazohet 9 zbres 4
+x barazohet 32 zbres 10
+x barazohet 20 zbres 7
+x barazohet 58 zbres 17
+x barazohet 63 zbres 13
+x barazohet 9 shtoni 5
+x barazohet 51 zbres 15
+x barazohet 19 zbres 7
+x barazohet 27 zbres 2 shtoni 9
+x barazohet 14 zbres 10
+x barazohet 23 zbres 9
+x barazohet 7 shumohen 3
+x barazohet 31 zbres 21
+x barazohet 14 zbres 2
+x barazohet 25 shtoni 7
+x barazohet 31 shtoni 6
+x barazohet 74 zbres 18
+x barazohet 22 zbres 4
+x barazohet 18 zbres 6
+x barazohet 18 shtoni 5
+x barazohet 3 shtoni 6
+x barazohet 26 zbres 2
+x barazohet 16 zbres 7
+x barazohet 32 shtoni 13
+x barazohet 46 ndajnë 2
+x barazohet 5 shtoni 4
+x barazohet 9 zbres 6 shtoni 7
+x barazohet 11 shumohen 23
+x barazohet 12 shumohen 8
+x barazohet 16 shumohen 6
+x barazohet 7 shumohen 9
+x barazohet 9 shumohen 6 shumohen 5
+x barazohet 150 ndajnë 15
+x barazohet 6 shumohen 2
+x barazohet 35 shumohen 5
+x barazohet 9 shumohen 3
+x barazohet 82 ndajnë 2
+x barazohet 48 ndajnë 8
+x barazohet 200 shumohen 5
+x barazohet 74 zbres 50
+x barazohet 12 shtoni 14
+x barazohet 5 shumohen 6
+x barazohet 20 shumohen 1
+x barazohet 7 shtoni 6
+x barazohet 2 shumohen 24
+x barazohet 24 shtoni 15
+x barazohet 11 zbres 8
+x barazohet 4.3 zbres 3.2
+x barazohet 160 zbres 50
+x barazohet 12 zbres 8
+x barazohet 10 shtoni 8
+x barazohet 13 zbres 3
+x barazohet 11 zbres 3
+x barazohet 7 zbres 6
+x barazohet 300 zbres 250
+x barazohet 15 zbres 8
+x barazohet 18 zbres 10
+x barazohet 16 zbres 53
+x barazohet 2 shtoni 3
+x barazohet 6 shtoni 8
+x barazohet 11 shtoni 10
+x barazohet 23 shtoni 2
+x barazohet 19 zbres 12
+x barazohet 11 shtoni 2
+x barazohet 4 shtoni 6
+x barazohet 8 shtoni 12
+x barazohet 3 shtoni 12
+x barazohet 30 zbres 10
+x barazohet 8 zbres 4
+x barazohet 15 shtoni 9
+x barazohet 15 zbres 4
+x barazohet 112 zbres 72
+x barazohet 30 zbres 16
+x barazohet 5 shtoni 10
+x barazohet 8 zbres 2
+x barazohet 7.5 zbres 6
+x barazohet 7 zbres 4
+x barazohet 15 zbres 9
+x barazohet 10 shtoni 6
+x barazohet 11.7 zbres 1.6
+x barazohet 1 zbres 0.25
+x barazohet 6 zbres 5
+x barazohet 15 shtoni 8
+x barazohet 210 zbres 40
+x barazohet 20 shtoni 21
+x barazohet 6 shtoni 8
+x barazohet 100 zbres 40
+x barazohet 9 zbres 6
+x barazohet 13 zbres 3
+x barazohet 8 shtoni 14
+x barazohet 4 shtoni 30
+x barazohet 10 zbres 4
+x barazohet 16 zbres 3
+x barazohet 12 zbres 11
+x barazohet 2.6 zbres 0.7
+x barazohet 34 zbres 9
+x barazohet 13 zbres 7
+x barazohet 15 zbres 3
+x barazohet 5 zbres 3
+x barazohet 19 zbres 14
+x barazohet 112 zbres 15
+x barazohet 25 zbres 2
+x barazohet 13
+x barazohet 78 shtoni 56
+x barazohet 4 shumohen 80
+x barazohet 12 zbres 7
+x barazohet 75 ndajnë 5
+x barazohet 200 shumohen 7
+x barazohet 50 zbres 11 zbres 7
+x barazohet 18 shtoni 2
+x barazohet 5 shtoni 4
+x barazohet 20 zbres 6
+x barazohet 28 shtoni 4
+x barazohet 22 zbres 4
+x barazohet 25 shtoni 4
+x barazohet 4 zbres 2
+x barazohet 64 zbres 4
+y barazohet x zbres 20
+x barazohet 22 zbres 24
+x barazohet 20 shtoni 6
+x barazohet 44 zbres 5
+x barazohet 25 zbres 4
+x barazohet 42 shtoni 6
+x barazohet 65 zbres 4
+x barazohet 25 zbres 8
+x barazohet 44 zbres 8
+x barazohet 20 zbres 4
+x barazohet 44 shtoni 6
+x barazohet 4 shtoni 25 shtoni 5
+x barazohet 50 zbres 44
+x barazohet 6 zbres 4
+x barazohet 4
+x barazohet 44 zbres 20
+x barazohet 22 zbres 2
+x barazohet 42 zbres 24
+x barazohet 40 ndajnë 2
+x barazohet 24 shtoni 22
+x barazohet 22 shtoni 22
+x barazohet 6 ndajnë 20
+x barazohet 200 ndajnë 5
+x barazohet (22 shumohen 4) ndajnë 22
+x barazohet 64 ndajnë 5
+x barazohet 55 ndajnë 6
+x barazohet 40 zbres (40 ndajnë 2)
+x barazohet 60 ndajnë 5
+x barazohet 200 ndajnë 20
+x barazohet 20 ndajnë 4
+x barazohet 60 ndajnë 5
+x barazohet 40 ndajnë 4
+x barazohet 5 zbres 2 zbres 2
+x barazohet 20 shtoni 22
+x barazohet 4 shtoni 2 shtoni 4
+x barazohet 285 zbres 50
+x barazohet 400 shtoni 240
+x barazohet 22 shumohen 12
+x barazohet 4 shtoni 2 shtoni 4
+x barazohet 22 shtoni 6
+x barazohet 22 zbres 20
+x barazohet 44 zbres 5
+x barazohet 42 zbres 25
+x barazohet 256 zbres 250
+x barazohet 665 zbres 224
+x barazohet 222 zbres 226
+x barazohet 45 zbres 6 zbres 4 zbres 4
+x barazohet 20 shtoni 6 shtoni 5
+x barazohet 6 shumohen 4
+x barazohet 4 shumohen (1 shtoni 2)
+x barazohet 5 shumohen 22
+x barazohet 5 shumohen 2 shumohen 5
+x barazohet 45 shumohen 5 shumohen 2
+x barazohet 480 ndajnë 20
+x barazohet 24 ndajnë 2
+x barazohet 250 zbres 205 shtoni 45
+x barazohet 20 ndajnë 2
+x barazohet 05 shumohen 4
+x barazohet 42 zbres 64
+x barazohet (54 shtoni 4) shumohen 0.5 zbres 5
+x barazohet 50 ndajnë 20
+x barazohet 45 shtoni 20
+x barazohet 45 shumohen 5
+x barazohet 20 zbres 8 zbres 1
+x barazohet 6 shumohen 20
+x barazohet 25 zbres 20 zbres 1 zbres 2
+x barazohet 20 zbres 4
+x barazohet 25 shumohen 20
+x barazohet 65 zbres 24
+x barazohet 60 zbres 24
+x barazohet 22 zbres 6
+x barazohet 28 zbres 8
+x barazohet 28 shtoni 6
+x barazohet 22 zbres 6
+x barazohet 28 shtoni 6
+x barazohet 22 shtoni 4
+x barazohet 28 zbres 8
+x barazohet 4 zbres 2
+x barazohet 45 zbres 6
+x barazohet 66 zbres 20
+x barazohet 6 zbres 4
+x barazohet 42 zbres 20
+x barazohet 20 zbres 4
+x barazohet 58 zbres 24
+x barazohet 64 zbres 24
+x barazohet 6 shtoni 5
+x barazohet 52 zbres 25
+x barazohet 26 zbres 4
+x barazohet 24 zbres 2 shtoni 6
+x barazohet 24 zbres 20 shtoni 6
+x barazohet 24 zbres 6
+x barazohet 4 shumohen 4
+x barazohet 42 zbres 22
+x barazohet 11 zbres 2
+x barazohet 25 shtoni 4
+x barazohet 42 shtoni 6
+x barazohet 44 zbres 28
+x barazohet 22 zbres 4
+x barazohet 28 zbres 6
+x barazohet 28 shtoni 5
+x barazohet 4 shtoni 6
+x barazohet 26 zbres 4
+x barazohet 42 shtoni 24
+x barazohet 46 shumohen 0.5
+x barazohet 5 shtoni 4
+x barazohet 6 zbres 6 shtoni 4
+x barazohet 22 shumohen 24
+x barazohet 20 shumohen 8
+x barazohet 6 shumohen 26
+x barazohet 4 shumohen 6
+x barazohet (6 shumohen 5) ndajnë 6
+x barazohet 250 ndajnë 25
+x barazohet 45 shumohen 5
+x barazohet 6 shumohen y shtoni 1
+x barazohet 48 ndajnë 8
+x barazohet 50 zbres 44
+x barazohet 24 shtoni 20
+x barazohet 1 shumohen 20
+x barazohet 4 shtoni 6
+x barazohet 5 shtoni 7 shtoni 3
+x barazohet 9 shtoni 4 shtoni 9
+x barazohet 482 zbres 20
+x barazohet 900 shtoni 490
+x barazohet 44 shumohen 12
+x barazohet 9 shtoni 2 shtoni 9
+x barazohet 44 shtoni 4
+x barazohet 44 zbres 40
+x barazohet 99 zbres 2
+x barazohet 94 zbres 42
+x barazohet 12 shumohen 14
+x barazohet 25 zbres 49
+x barazohet 40 zbres 49
+x barazohet 55 zbres 4
+x barazohet 15 shumohen 30
+x barazohet 16 zbres 3
+x barazohet 58 shtoni 24
+x barazohet 17 zbres 10
+x barazohet 256 ndajnë 8
+x barazohet 16 shtoni 37
+x barazohet 129 shtoni 9
+x barazohet 85 shumohen 15
+x barazohet 241 zbres (x zbres 1)
+x barazohet 111 zbres 34
+x barazohet 50 ndajnë 2
+x barazohet 52 shumohen 3
+x barazohet 520 ndajnë 52
+x barazohet 19 zbres 8
+x barazohet 7 shumohen 7
+x barazohet (5 shumohen 7) ndajnë 5
+x barazohet 22 shumohen 4
+x barazohet 61
+x barazohet 12 ndajnë 2
+x barazohet 100 ndajnë 25
+x barazohet 12 shumohen 12
+x barazohet 2 shumohen 48
+x barazohet 50 shtoni 85
+x barazohet 6 zbres 2
+x barazohet 32 ndajnë 2
+x barazohet 9 shumohen 17
+x barazohet 37 zbres 12
+x barazohet 8 shtoni 7
+x barazohet 20 shtoni 10
+x barazohet 2 shtoni 0
+x barazohet 2 shumohen 2
+x barazohet 70 ndajnë 7
+x barazohet 3 shumohen 340
+x barazohet 120 shumohen 7
+x barazohet 8 shumohen y
+x barazohet 5 shumohen 64
+x barazohet 2 shumohen 750
+x barazohet 30 shumohen 5
+x barazohet 1050 ndajnë 50
+x barazohet 20 ndajnë 2
+x barazohet 4 shumohen 90
+x barazohet 2 shumohen 7
+x barazohet 25 shumohen 2 shumohen 5
+x barazohet 2 shumohen 3 shumohen 350
+x barazohet 6 shumohen 8 shumohen 15
+x barazohet 2 shumohen 4
+x barazohet 8 shumohen 7
+x barazohet 7 shumohen 5
+x barazohet 3 shumohen 3 shumohen 1
+x barazohet 3 shumohen 3 shumohen 5
+x barazohet 2 shumohen 40
+x barazohet 5 shumohen 2
+x barazohet 50 zbres 25
+x barazohet 31 shtoni 3
+x barazohet 2 shumohen 75
+x barazohet 99 zbres 62
+x barazohet 782 zbres 624
+x barazohet 79 zbres 0
+x barazohet 20 zbres 19
+x barazohet 100 zbres 75
+x barazohet 98 zbres 21
+x barazohet 56 zbres 41
+x barazohet 10 shumohen 2
+x barazohet 2 shumohen 14
+x barazohet 4 shumohen 50
+x barazohet 25 shumohen 25
+x barazohet 3 shumohen 12
+x barazohet 6 shumohen 6
+x barazohet 12 shumohen 12
+x barazohet 4 shumohen 13
+x barazohet 32 shumohen 5
+x barazohet 8 shumohen 11
+x barazohet 14
+x barazohet (500 shumohen 50) ndajnë 500
+x barazohet 16 shumohen 3
+x barazohet 3 shumohen 11 shumohen 2
+x barazohet 54 shumohen 2
+x barazohet 30 shumohen 30
+x barazohet 25 shumohen 26
+x barazohet 2 shumohen 125
+x barazohet 170 shumohen 30
+x barazohet 5 shumohen 10
+x barazohet 9 shumohen 9
+x barazohet 4 shumohen 17
+x barazohet 84 shumohen 4
+x barazohet 6 shumohen 60
+x barazohet 60 shumohen 6
+x barazohet 95 zbres 78
+x barazohet 8 zbres 4
+x barazohet 90 ndajnë 2
+x barazohet 10 shumohen 50
+x barazohet 3 shumohen 37
+x barazohet 278 shumohen 21
+x barazohet 50 shumohen 221
+x barazohet 25 ndajnë 2
+x barazohet (478 ndajnë 32) shumohen 1
+x barazohet 27 shumohen (5 ndajnë 2)
+x barazohet 2674 shumohen 36
+x barazohet 15 shumohen 170
+x barazohet 260 ndajnë 20
+x barazohet 15 shumohen 62
+x barazohet 57 ndajnë 2
+x barazohet 42 ndajnë 11
+x barazohet (640 shumohen 110) ndajnë 12
+x barazohet (22 shumohen 226) ndajnë 22
+x barazohet 7 shumohen 126
+x barazohet 154 ndajnë 2
+x barazohet 50 zbres 25
+x barazohet 9 shumohen 5
+x barazohet 18 shumohen 6
+x barazohet 3 shumohen 14
+x barazohet 12 shumohen 100
+x barazohet 782 shtoni 256
+x barazohet 16 shumohen 11
+x barazohet 76 shumohen 5
+x barazohet 10 shtoni 17
+x barazohet 90 shumohen 180
+x barazohet 25 shumohen 177
+x barazohet 29 shumohen 21
+x barazohet 2675 ndajnë 25
+x barazohet 227 ndajnë 7
+x barazohet (2 ndajnë 3) shumohen 200
+x barazohet 7 shumohen 8
+x barazohet 220 shumohen 7
+x barazohet 37 zbres 10
+x barazohet 17 ndajnë 2
+x barazohet 2 shumohen (15 zbres 12)
+x barazohet 36 shumohen 12
+x barazohet 15 zbres 5
+x barazohet 23 zbres 7
+x barazohet 12 shumohen 8
+x barazohet 12 shumohen 5
+x barazohet 12 shumohen 130
+x barazohet 8 shumohen 12
+x barazohet 8 shumohen 3
+x barazohet 1 shumohen 12 shtoni 2 shumohen 7
+x barazohet 12 shtoni (12 zbres 3)
+x barazohet 78 shumohen 12 shtoni 126 shumohen 7
+x barazohet 114 shtoni 6
+x barazohet 35 shumohen 130
+x barazohet 18 zbres 2, y barazohet 18 zbres x
+x barazohet 32 shtoni (32 zbres 3)
+x barazohet 2 shumohen (7 ndajnë 2)
+x barazohet 233 shumohen 6
+x barazohet 35 ndajnë 5
+x barazohet 3 shumohen 38
+x barazohet 900 ndajnë 100
+x barazohet 68 zbres 9
+x barazohet 720 ndajnë 36
+x barazohet 750 ndajnë 15
+x barazohet 25 shumohen 70
+x barazohet 900 ndajnë 45
+x barazohet 12 zbres 9
+x barazohet 263 ndajnë 13
+x barazohet (742 shumohen 1) ndajnë 7
+x barazohet 70 shumohen 157
+x barazohet 7600 ndajnë 850
+x barazohet 12 shtoni 8
+x barazohet 20 zbres 10
+x barazohet 8 zbres 2
+x barazohet 37 zbres 9
+x barazohet 5 zbres 2
+x barazohet 7 zbres 5
+x barazohet 14 zbres 6
+x barazohet 8 zbres 3
+x barazohet 7 zbres 5
+x barazohet 15 zbres 10
+x barazohet 10 shtoni 10
+x barazohet 12 zbres 3
+x barazohet 15 zbres 3
+x barazohet 12 shtoni 3
+x barazohet 12 shtoni 18
+x barazohet 12 shtoni 10
+x barazohet 10 zbres 7
+x barazohet 47 zbres 25
+x barazohet 9 shtoni 16
+x barazohet 34 shtoni 49
+x barazohet 15 zbres 6
+x barazohet 25 zbres 2
+x barazohet 12 zbres 8
+x barazohet 7 zbres 5
+x barazohet 16 zbres 10
+x barazohet 20 zbres 10
+x barazohet 17 shtoni 14
+x barazohet 15 zbres 3
+x barazohet 7 zbres 0.1
+x barazohet 18 zbres 12
+x barazohet 800 shtoni 1700
+x barazohet 10 zbres 3
+x barazohet 14 zbres 3
+x barazohet 20 zbres 4
+x barazohet 15 zbres 9
+x barazohet 38 shtoni 6
+x barazohet 100 zbres 7
+x barazohet 40 shtoni 5
+x barazohet 7 zbres 3
+x barazohet 24 zbres 7
+x barazohet 50 zbres 10
+x barazohet 7 shtoni 3
+x barazohet 36 ndajnë 6
+x barazohet 240 ndajnë 8
+x barazohet 24 ndajnë 3
+x barazohet 56 ndajnë 8
+x barazohet 53 zbres (11 shtoni 4)
+x barazohet (10 shumohen 5) ndajnë (5 shtoni 6)
+x zbres 8 barazohet 7 shumohen ( y zbres 8 ), x barazohet 3 shumohen y
+x shtoni y barazohet 27, y barazohet x shtoni 7
+x barazohet (3 shumohen 4) ndajnë (3 shtoni 4)
+3 shumohen x shtoni 4.5 shumohen y barazohet 1950, x shtoni y barazohet 450
+5 shumohen (x ndajnë 2 zbres 9) barazohet x zbres 9
+10 shumohen (5 shumohen x) shtoni 5 shumohen (x) barazohet 330
+x shtoni y barazohet 52, y barazohet 3 shumohen x
+125 zbres x barazohet 6 shumohen ( 80 zbres x )
+x barazohet (360 zbres 6 shumohen 2) ndajnë 2
+x shumohen 0.05 shtoni y shumohen 0.06 barazohet 520, y barazohet 4 shumohen x 
+x shtoni y barazohet 40, 0.25 shumohen x shtoni 0.5 shumohen y barazohet 0.45 shumohen (x shtoni y)
+x barazohet (4 shumohen 6) ndajnë (4 shtoni 6)
+y shtoni 2 barazohet 2 shumohen ( x shtoni 2 ), y barazohet 6 shumohen x
+x barazohet 0.75 shumohen y, ( x zbres 4 ) barazohet 0.5 shumohen (y zbres 4) shtoni 1
+2 shumohen x shtoni 7.5 shumohen y barazohet 70, x shtoni y barazohet 13
+x shtoni y barazohet 28, x shumohen 0.05 shtoni y shumohen 0.1 barazohet 2.6
+x shtoni 10 barazohet 2 shumohen y, y barazohet x zbres 10
+x shtoni y barazohet 7, 21x shtoni 14y barazohet 119
+0.01 shumohen 75 shumohen (75) barazohet 0.01 shumohen 45 shumohen (75 shtoni x)
+x shtoni y barazohet 200, x shumohen 0.35 shtoni y shumohen 0.72 barazohet 200 shumohen 0.5
+x zbres 3 barazohet 2 shumohen ( y zbres 3 ), x shtoni 7 shtoni y shtoni 7 barazohet 83
+0.01 shumohen 30 shumohen (10 zbres x) shtoni x barazohet 0.01 shumohen 50 shumohen (10)
+x shtoni y barazohet 12, 15 shumohen x shtoni 3 shumohen y barazohet 8(12)
+y shtoni 1 barazohet 3 shumohen (x shtoni 1), y barazohet x shtoni 9
+x shtoni y barazohet 7200, x shumohen 0.08 barazohet 0.1 shumohen y
+x barazohet (2 shumohen 3) ndajnë (2 shtoni 3)
+x shtoni y barazohet 140, 15x shtoni 10y barazohet 1600
+x shtoni (x shtoni 9) barazohet 19
+x barazohet (20 shumohen 30) ndajnë (20 shtoni 30)
+x shtoni 8 barazohet 2 shumohen (x ndajnë 4 shtoni 8)
+42 shtoni x barazohet 2 shumohen (12 shtoni x)
+3 shumohen x zbres 7 barazohet 25 shtoni x
+x shumohen (6 shtoni 3) barazohet 2
+(1.6 shtoni 1.9) shumohen x barazohet 350
+x barazohet 2 shumohen y shtoni 7, x shumohen 0.25 shtoni y shumohen 0.1 barazohet 10.15
+x shtoni (x zbres 5) barazohet 33
+x shtoni 0.5 shumohen x barazohet 16 ndajnë 40
+0.37 shumohen x shtoni 0.2 shumohen (20 zbres x) barazohet 7.06
+x barazohet (130 shumohen 100 shumohen 150) ndajnë (130 shumohen 100 shtoni 100 shumohen 150 shtoni 150 shumohen 130)
+3 shumohen (8 shtoni x) barazohet 36 shtoni x
+(x zbres 5 ) zbres 5 shtoni (x zbres 5) ndajnë 4 zbres 5 barazohet 45
+x shtoni y barazohet 529, 25 shumohen x shtoni 15 shumohen y barazohet 9745
+0.02 shumohen x shtoni 0.04 shumohen y barazohet 92, y barazohet x shtoni 800
+x barazohet (3 shumohen 4) ndajnë (3 shtoni 4)
+x shtoni y barazohet 91, 3 shumohen x barazohet 4 shumohen y
+x barazohet y shtoni 5, y shtoni 10 barazohet x zbres y shtoni 24
+39 shtoni x barazohet 3 shumohen ( 9 shtoni x )
+x barazohet y zbres 4, x shtoni y barazohet 41
+x shtoni y barazohet 21, 0.05 shumohen x shtoni 0.1 shumohen y barazohet 1.65
+x barazohet 3 shtoni 2 shumohen y, (x shtoni 5) shtoni (y shtoni 5) barazohet 28
+16 shtoni x barazohet 3 shumohen ( 2 shtoni x )
+38 zbres x barazohet 7 shumohen ( 14 zbres x )
+x shtoni y barazohet 60, 2 shumohen x barazohet 3 shumohen y
+(10 shtoni x) barazohet (1 ndajnë 5) shumohen (45 shtoni x) shtoni 5
+x shtoni 15 barazohet 2 shumohen ( y shtoni 15 ), x barazohet 5 shumohen y
+x shtoni (x shtoni 63) barazohet 345,
+x shtoni y barazohet 28, y barazohet 3 shumohen x
+x barazohet (10 shumohen 20) ndajnë (10 shtoni 20)
+x shtoni y barazohet 53, x barazohet y zbres 3
+x shtoni y barazohet 12, 5 shumohen x shtoni 10 shumohen y barazohet 100
+x shtoni y barazohet 56, x zbres y barazohet 24
+x barazohet y, 0.10 shumohen x barazohet 0.25 shumohen y zbres 1.8
+(x zbres 10) shtoni (y zbres 10) barazohet 60, y barazohet 4 shumohen x
+24 zbres x barazohet 3 shumohen ( 18 zbres x )
+x shtoni (x zbres 3) barazohet 11
+x shtoni y barazohet 50, 0.05 shumohen x shtoni 0.10 shumohen y barazohet 4.30
+x shtoni 2 barazohet 2 ndajnë 3 shumohen (x shtoni 2), y barazohet x zbres 6
+3 shumohen (8 shtoni x) barazohet 42 shtoni x
+x shtoni y barazohet 2, 0.08 shumohen (x shtoni y) barazohet 0.1 shumohen x shtoni 0.05 shumohen y
+x shtoni (6 shumohen x zbres 4) barazohet 10
+x shtoni y barazohet 12, 5x shtoni 10y barazohet 100
+y shtoni 12 barazohet 2 shumohen ( x shtoni 12 ), y barazohet 3 shumohen x
+x barazohet 4 shumohen y, x shtoni 5 barazohet 3 shumohen (y shtoni 5)
+36 shtoni x barazohet 2 shumohen ( 11 shtoni x )
+x zbres 4 shtoni y zbres 4 barazohet 21, y barazohet x shtoni 5
+(x zbres 9) shtoni (y zbres 9) barazohet 6, y barazohet 2 shumohen x
+y shtoni x barazohet 84, y barazohet ( 2 shumohen x shtoni 3 )
+y shtoni 20 barazohet 2 shumohen ( x shtoni 20 ), y barazohet 4 shumohen x
+x barazohet 3 shumohen (21 zbres x) shtoni 1
+x zbres 3 barazohet 3 shumohen (y zbres 3) shtoni 1, x shtoni 4 barazohet 2 shumohen (y shtoni 4) shtoni 2
+4 shumohen x barazohet y, 7 shumohen ( x zbres 6 ) barazohet y zbres 6
+x zbres 5 barazohet 3 shumohen ( y zbres 5 ), x shtoni 10 barazohet 2 shumohen ( y shtoni 10 )
+40 shtoni x barazohet 2 shumohen (12 shtoni x)
+x barazohet 3 shumohen (444 zbres x)
+y zbres 1 barazohet 3 shumohen (x zbres 1), y shtoni 1 barazohet 2 shumohen ( x shtoni 1 )
+64 shumohen x barazohet 56 shumohen x shtoni 56
+x barazohet 3 shumohen y, x zbres 6 barazohet 5 shumohen (y zbres 6)
+x shtoni y barazohet 40, y barazohet x shtoni 12
+y barazohet x zbres 15, 4 shumohen ( y zbres 10 ) barazohet ( x zbres 10 )
+2 shumohen x zbres 1 barazohet 26 zbres x, y barazohet 26 zbres x
+x barazohet (6 shumohen 5) ndajnë (6 shtoni 5)
+x barazohet (10 shumohen 15) ndajnë (15 zbres 10)
+70 shumohen x zbres 50 shumohen x barazohet 60
+3 shumohen x shtoni x barazohet 100
+x barazohet y zbres 5, y shtoni 1 barazohet 3 shumohen (x zbres 4)
+x barazohet (8 shumohen 12) ndajnë (8 shtoni 12)
+x barazohet (3 shumohen 5) ndajnë (3 shtoni 5)
+x barazohet (3 shumohen 4) ndajnë (3 shtoni 4)
+x shtoni y barazohet 20, x zbres 2 barazohet y
+x shtoni y barazohet 72, y barazohet 7 shumohen x
+x shtoni 8 barazohet 2 shumohen (x shtoni 10)
+3 shumohen (x zbres 6) shtoni 5 barazohet 2 shumohen x
+6 shtoni x barazohet 4 shumohen (30 shtoni x)
+x shtoni 2 shumohen y barazohet 128, 20 shumohen x shtoni 35 shumohen y barazohet 2280
+x barazohet (65 zbres 55) ndajnë 1
+47 shumohen x barazohet 58 shumohen ( x zbres 2 )
+x barazohet (460) ndajnë (55 shtoni 60)
+36 zbres (3 shumohen y shtoni 3) barazohet 0
+(y zbres 10) shtoni (x zbres 10) barazohet 25, y barazohet (x shtoni 5)
+x shtoni 5 barazohet 2(x shtoni 10)
+x barazohet 3 shumohen 30 ndajnë 10
+y zbres 5 barazohet 5 shumohen ( x zbres 5 ), y shtoni 3 barazohet 3 shumohen ( x shtoni 3 ) zbres 8
+x shtoni (x zbres 4) barazohet 22
+x shtoni y barazohet 280, 0.14 shumohen x shtoni 0.07 shumohen y barazohet 0.13 shumohen (x shtoni y)
+x barazohet 2 shumohen (35 zbres 10)
+x barazohet (60 shumohen 0.15 zbres 60 shumohen 0.1) ndajnë 0.1
+x barazohet 4 shumohen (69 shtoni x) zbres 6
+x barazohet (4 shumohen 6) ndajnë (4 shtoni 6)
+x shtoni 3 barazohet 2 shumohen ( y shtoni 3 ), y barazohet (21 zbres x)
+x shumohen 0.08 shtoni (x shtoni 1260) shumohen 0.12 barazohet x shumohen 0.12 shtoni (x shtoni 1260) shumohen 0.08
+2 shumohen x zbres 9 barazohet 5 shumohen (x zbres 9)
+x ndajnë 18 shtoni x ndajnë 12 barazohet 1
+8 shumohen ( 12 zbres x ) barazohet ( 40 zbres x )
+x shtoni y barazohet 60, 0.2 shumohen x shtoni 0.35 shumohen y barazohet 0.25 shumohen 60
+x barazohet (70 shumohen 30) ndajnë (70 shtoni 30)
+x shtoni y barazohet 80, 40 shumohen x shtoni 70 shumohen y barazohet 80 shumohen 49
+45 shumohen (y shtoni 2) barazohet 60 shumohen y, x barazohet 60 shumohen y
+(7 ndajnë 3 shtoni 8 ndajnë 5) shumohen x barazohet 59
+x barazohet (10 shumohen 14) ndajnë (10 shtoni 14)
+8 shtoni 2 barazohet 2 shumohen ( x shtoni 2 )
+(3 shumohen y shtoni 5) barazohet 2 shumohen (y shtoni 5)
+2 shumohen x shtoni 4 barazohet 3 shumohen (x zbres 3)
+x shtoni y barazohet 29, x barazohet (2 shumohen y shtoni 5)
+x shtoni y barazohet 54, x zbres y barazohet 22
+x barazohet (12 shumohen 10) ndajnë (12 shtoni 10)
+x shtoni (2 shumohen x shtoni 8) barazohet 56
+x shtoni y barazohet 48, y barazohet 3 shumohen x
+x barazohet 27 shtoni y, x zbres 1 barazohet 2 shumohen ( y zbres 1 )
+x shtoni 6 barazohet 32 zbres x
+x barazohet (240) ndajnë (82.1 shtoni 109.071)
+60 shumohen x shtoni 64 shumohen x barazohet 310
+x shtoni (x shtoni 5) barazohet 27
+x shtoni y barazohet 100, 0.75 shumohen 100 barazohet 0.3 shumohen x shtoni 0.9 shumohen y
+154 shtoni x barazohet 3 shumohen (32 shtoni x)
+x barazohet (120 zbres 15) ndajnë 3
+5x shtoni 8y barazohet 480, x shtoni y barazohet 75
+33 shtoni x barazohet 4 shumohen (6 shtoni x)
+(1 ndajnë 6) shumohen (y zbres 8) barazohet (1 ndajnë 10) shumohen (y shtoni 8)
+x barazohet (3 shumohen 5) ndajnë (3 shtoni 5)
+x barazohet (110) ndajnë (22 shtoni 22)
+y barazohet 7 shumohen x, y shtoni 8 barazohet 3 shumohen (x shtoni 8)
+x shtoni y barazohet 45, y barazohet 2 shumohen x shtoni 9
+t barazohet (2 ndajnë 3) shumohen f, 2 shumohen f zbres 2 shumohen t barazohet 8
+x shtoni 2 barazohet 2 shumohen ( x zbres 3 )
+x zbres 5 barazohet 2 shumohen y, x shtoni 7 barazohet 5 shumohen y
+x shtoni 5x barazohet 72
+y shtoni 6 barazohet 5 shumohen ( x shtoni 6 ), y barazohet 7 shumohen x
+x barazohet (3 shumohen 4) ndajnë (3 shtoni 4)
+x shtoni 5 barazohet 1 ndajnë 2 shumohen (x shtoni 8)
+x shtoni (x zbres 32) barazohet 70
+x barazohet y shtoni 3, 0.05 shumohen x shtoni 0.10 shumohen y barazohet 0.01 shumohen 45
+x shtoni y barazohet 39, 0.6 shumohen x shtoni 0.54 shumohen y barazohet 0.58 shumohen 39
+x barazohet (4 shumohen 6) ndajnë (4 shtoni 6)
+(0.01 shumohen 100) shumohen x shtoni (0.01 shumohen 10 shumohen 2) barazohet (0.01 shumohen 25) shumohen (x shtoni 2)
+x barazohet 8 shumohen 3
+3 shumohen x shtoni 1 shumohen y barazohet 27, y barazohet x shtoni 3
+x shtoni y barazohet 25, 0.05x shtoni 0.1y barazohet 1.95
+x barazohet 5 shumohen (216 zbres x)
+x barazohet 4 shumohen y, x zbres y barazohet 42
+7 shumohen ( 11 zbres x ) barazohet 59 zbres x
+0.25 shumohen x shtoni 2 shumohen x shumohen 0.05 barazohet 4.90
+40 zbres x barazohet 3 shumohen (26 zbres x)
+2 shumohen x shtoni 14 barazohet 47 zbres x
+0.05 shumohen x shtoni 0.01 shumohen y barazohet 2.58, y barazohet ( 2 shumohen x zbres 36 )
+2x shtoni 4(40 zbres x) barazohet 100
+n shtoni d barazohet 34, 0.1 shumohen n shtoni 0.05 shumohen d barazohet 2.5
+x barazohet y shtoni 7, x shtoni y barazohet 41
+x shtoni y barazohet 320, 5x shtoni 2y barazohet 1255
+x barazohet 10 shtoni 2 shumohen y, (x zbres 1) shtoni 4 barazohet 3 shumohen (y zbres 1)
+x barazohet (10 shumohen 12) ndajnë (12 zbres 10)
+x barazohet (4 shumohen 6) ndajnë (4 shtoni 6)
+48 zbres x barazohet 4 shumohen (15 zbres x)
+x shtoni (x ndajnë 3 shtoni 10) barazohet 46
+x shtoni y barazohet 66, x barazohet 3 shumohen y shtoni 2
+x shtoni 3 barazohet 3 shumohen ( y shtoni 3 ), x zbres 1 barazohet 7 shumohen ( y zbres 1 )
+y zbres 7 barazohet 11 shumohen (x zbres 7), y barazohet 4 shumohen x
+x barazohet (2 shumohen 3) ndajnë (2 shtoni 3)
+y barazohet 2 shumohen x, y shtoni x barazohet 9
+y shtoni 10 barazohet 2 shumohen ( x shtoni 10 ), y barazohet 4 shumohen x
+x barazohet (2 shumohen 3) ndajnë (2 shtoni 3)
+x barazohet 2 shumohen (x zbres 5)
+x barazohet (7 shumohen 5) ndajnë (7 shtoni 5)
+x barazohet y shtoni 5, (x zbres 5) shtoni (y zbres 5) barazohet 25
+x shtoni y barazohet 40, 0.3 shumohen x shtoni 0.8 shumohen y barazohet 0.45 shumohen 40
+x shumohen 0.08 shtoni (9000 zbres x) shumohen 0.09 barazohet 770
+x shumohen 10 shtoni y shumohen 5 barazohet 440, x shtoni y barazohet 56
+x shtoni y barazohet 200, 2x shtoni 4y barazohet 540
+x shtoni y barazohet 15, 4 shumohen x shtoni 2 shumohen y barazohet 42
+x barazohet (30 shumohen 45) ndajnë (30 shtoni 45)
+x shumohen 0.08 shtoni (5000 zbres x) shumohen 0.17 barazohet 490
+x shtoni y barazohet 45, 0.25 shumohen x shtoni 0.1 shumohen y barazohet 8.85
+0.5 shumohen x shtoni 0.25 shumohen 0.5 shumohen x barazohet 3600
+x barazohet y shtoni 5, x shtoni y barazohet 21
+x barazohet y shtoni 6, x shtoni y barazohet 26
+4 shumohen y shtoni 7 barazohet 3 shumohen (y shtoni 7) zbres 5
+x barazohet (5 shumohen 6) ndajnë (5 shtoni 6)
+x barazohet 4 shumohen y, x zbres y barazohet 27
+w shtoni l barazohet 130, w zbres 3 shumohen lw barazohet 14
+x shtoni (x zbres 3) barazohet 15
+x shtoni y barazohet 100, 0.10 shumohen x shtoni .25 shumohen y barazohet 19.75
+x barazohet (100 shumohen 10) ndajnë (25 zbres 10)
+x shtoni y barazohet 24, 20x shtoni 5y barazohet 285
+x barazohet 2 shumohen y, (x zbres 10) barazohet 3 shumohen (y zbres 10)
+80 zbres x barazohet 3 shumohen (54 zbres x)
+x shtoni 28 barazohet 62 zbres x
+x shtoni y barazohet 40, 0.8 shumohen x shtoni 0.3 shumohen y barazohet 0.5 shumohen 40
+x barazohet (8 shumohen 12) ndajnë 15
+4x shtoni 6y barazohet 2876, x shtoni y barazohet 525
+x barazohet 2 shumohen y, x shtoni y barazohet 177
+x shtoni (x zbres 27) barazohet 69
+3 shumohen x shtoni 4 shumohen y barazohet 10, 2 shumohen x shtoni 3 shumohen y barazohet 7
+x barazohet y shtoni 12, x shtoni y barazohet 150
+x shtoni y barazohet 15, 2x shtoni 4y barazohet 48
+x barazohet (466 zbres x) zbres 212
+x barazohet 0.4 shumohen y, x shtoni y barazohet 35
+x shtoni y barazohet 2000, 9 shumohen x shtoni 11 shumohen y barazohet 20960
+2 shumohen x shtoni 4 shumohen y barazohet 56, x shtoni y barazohet 21
+x shtoni y barazohet 201, 8x shtoni 4y barazohet 964
+x barazohet (980 zbres 560) ndajnë 28
+x barazohet 16000 ndajnë 0.8
+x shtoni y barazohet 22, 2x shtoni 4y barazohet 60
+x barazohet 55 zbres 44
+x barazohet (715) ndajnë (11)
+x barazohet 1 ndajnë 4
+2 shumohen x shtoni 4 shumohen y barazohet 50, x shtoni y barazohet 18
+x shtoni (x zbres 5) barazohet 70
+x shtoni y barazohet 185, x barazohet 19 shtoni y
+x barazohet 27 zbres 5 zbres 5
+x barazohet 34 zbres 8
+x barazohet (29 zbres 4) ndajnë 5
+x shtoni y barazohet 17, 7x shtoni 8y barazohet 130
+x barazohet 90 ndajnë 120
+x shtoni y barazohet 11, 2 shumohen x shtoni 4 shumohen y barazohet 38
+6 shumohen x shtoni 3 shumohen y barazohet 3, 2 shumohen x shtoni 5 shumohen y barazohet 3
+x shtoni y barazohet 105, x zbres 25 barazohet y
+x barazohet 12.0 ndajnë 3.5
+x barazohet 24 ndajnë 2
+x barazohet 2 shumohen (42 zbres x)
+5.5 shumohen x shtoni 3.5 shumohen y barazohet 83.5, x shtoni y barazohet 21
+6 shumohen x shtoni 5 shumohen y barazohet 213, 2x shtoni 9y barazohet 269
+x barazohet 2 shumohen (66 zbres x)
+x shtoni y barazohet 345, y barazohet x shtoni 69
+x shtoni y barazohet 41, 2 shumohen x shtoni 4 shumohen y barazohet 100
+x shtoni y barazohet 254, 28 shumohen x shtoni 12 shumohen y barazohet 3864
+x shtoni 3 shumohen x barazohet 600
+x barazohet 4 shumohen y, x shtoni y barazohet 30
+x barazohet (500) ndajnë (6)
+x shtoni y barazohet 40, 2 shumohen x shtoni 4 shumohen y barazohet 126
+x shtoni y barazohet 13, 2x shtoni 4y barazohet 30
+x shtoni y barazohet 50.0, ((60.0 shumohen 0.01) shumohen x) shtoni ((90.0 shumohen 0.01) shumohen y) barazohet 32.4
+x shtoni 3 barazohet 41 zbres x
+x barazohet 301 zbres 27
+x barazohet 77.75 zbres 9.5
+x barazohet 41.5 zbres 38.5
+4x shtoni 6y barazohet 2840, x shtoni y barazohet 563
+x shumohen 12 shtoni y shumohen 10 barazohet 9780, x shtoni y barazohet 900
+x barazohet (85 shtoni 20) ndajnë 15
+x barazohet 26935 shtoni 69
+x barazohet 13 shumohen (9 shtoni 10 shtoni 3)
+x barazohet 17 shtoni 48 shtoni 25 zbres 49
+x barazohet 6 shumohen 6 shtoni 8 shumohen 18
+x barazohet 91 zbres 24 zbres 6 zbres 11
+x barazohet 61 zbres 26 zbres 7
+x barazohet 85 zbres 10 shumohen 5
+x barazohet 8 shtoni 13 zbres 2 zbres 18
+x barazohet 20 shumohen 6 zbres 2 shumohen 1
+x barazohet 10 shumohen 16 shtoni 1 shumohen 16 shtoni 3 shumohen 16
+x barazohet 54 zbres (15 shtoni 25)
+x barazohet 21 zbres 4 zbres 8
+x barazohet 24 shumohen 2 shtoni 14 shumohen 3
+x barazohet 9 shtoni 3
+x barazohet 9 shtoni 4
+x barazohet 0.625 zbres 0.5
+x barazohet 9 shumohen 56
+x barazohet 122 shumohen 4
+x barazohet 45 shumohen 8
+x barazohet 83 shumohen 6
+x barazohet 4 shumohen 246
+x barazohet 5 shumohen 28
+x barazohet 378 shumohen 6
+x barazohet 934 shumohen 7
+x barazohet 8 shumohen 478
+x barazohet 80 ndajnë 8
+x barazohet 700 ndajnë 100
+x barazohet 81 ndajnë 9
+x barazohet 420 ndajnë 7
+x barazohet 30 ndajnë 5
+x barazohet 72 ndajnë 9
+x barazohet 35 ndajnë 5
+x barazohet 36 ndajnë 4
+x barazohet 63 ndajnë 9
+x barazohet 88 ndajnë 8
+x barazohet 140 ndajnë 14
+x barazohet 35 ndajnë 5
+x barazohet 18 ndajnë 2
+x barazohet 12 ndajnë 3
+x barazohet 380 zbres 57
+x barazohet 2778 shtoni 489
+x barazohet 93 zbres 15
+x barazohet 121 zbres 22
+x barazohet 183 shtoni 593
+x barazohet 20 zbres 8 zbres 3
+x barazohet 34 shumohen 4
+x barazohet 3 shumohen 1250
+x barazohet 127 zbres 88
+x barazohet 22 shumohen 11
+x barazohet (5 shumohen 2) ndajnë 1
+x barazohet 7 shumohen 3
+x barazohet 7 shumohen 4
+x barazohet 77.75 zbres 9.5
+x barazohet 84 ndajnë 12
+x barazohet 70 shtoni 27
+x barazohet 28 shtoni 54
+x barazohet 8 shtoni 2
+x barazohet 12 shtoni 4
+x barazohet 6 shtoni 16
+x barazohet 9 zbres 4
+x barazohet 6 zbres 4
+x barazohet 9 zbres 7
+x barazohet 7 zbres 5
+x barazohet 9 zbres 6
+x barazohet 8 zbres 6
+x barazohet 6 zbres 3
+x barazohet 9 zbres 2
+x barazohet 6 shtoni 9 zbres 3
+x barazohet 9 shtoni 5 zbres 2
+x barazohet 9 zbres 5 shtoni 2
+x barazohet 7 shtoni 8 zbres 4
+x barazohet 7 zbres 8 shtoni 4
+x barazohet 8 zbres 7 shtoni 4
+x barazohet (5 shtoni 3) zbres 6
+x barazohet 6 zbres 5 shtoni 3
+x barazohet 4 shtoni 9 zbres 5
+x barazohet 5 shtoni 9 zbres 4
+x barazohet 44 zbres 24
+x barazohet 14 zbres 11
+x barazohet 43 zbres 15
+x barazohet 31 zbres 24
+x barazohet 37 zbres 10
+x barazohet 10 shtoni 33 zbres 24
+x barazohet 24 shtoni 33
+x barazohet 46 shtoni 47 zbres 12
+x barazohet 46 shtoni 47 zbres 12
+x barazohet 47 shtoni 12 zbres 46
+x barazohet 27 shtoni 41 zbres 20
+x barazohet 27 shtoni 20 zbres 41
+x barazohet 27 shtoni 41 zbres 20
+x barazohet 11 shtoni 17 zbres 16
+x barazohet 35 shtoni 56
+x barazohet 56 shtoni 22
+x barazohet 13 shtoni 55
+x barazohet 67 shtoni 33
+x barazohet 74 shtoni 86
+x barazohet 7 shtoni 4
+x barazohet 9 zbres 6
+x barazohet 8 shtoni 2
+x barazohet 7 shtoni 3
+x barazohet 8 shtoni 2
+x barazohet 35 shtoni 18
+x barazohet 87 shtoni 13
+x barazohet 64 shtoni 14
+x barazohet 42 zbres 17
+x barazohet 98 shtoni 93
+x barazohet 79 shtoni 63
+x barazohet 760 shtoni 418
+x barazohet 139 zbres 113
+x barazohet 676 shtoni 224
+x barazohet 4 shtoni 3
+x barazohet 9 zbres 4
+x barazohet 8 zbres 3
+x barazohet 9 shtoni 2
+x barazohet 8 shtoni 3
+x barazohet 9 shtoni 3
+x barazohet 7 shtoni 3
+x barazohet 9 shtoni 4
+x barazohet 9 shtoni 2
+x barazohet 43 shtoni 27
+x barazohet 33 shtoni 26
+x barazohet 46 shtoni 25
+x barazohet 128 shtoni 9.85
+x barazohet 95 shtoni 6.52 zbres 4.95
+x barazohet 8723 zbres 5973
+x barazohet 6444 zbres 1346
+x barazohet 6522 zbres 5165
+x barazohet 3884 zbres 2871
+x barazohet 5106 zbres 1986
+x barazohet 97741 zbres 20817
+x barazohet 26935 shtoni 69
+x barazohet 14507 zbres 213
+x barazohet 64535 shtoni 522
+x barazohet 90171 zbres 16320
+x barazohet 49952 zbres 918
+x barazohet 61921 zbres 49500
+x barazohet 63093 zbres 2041
+x barazohet 14797 zbres 4969
+x barazohet 2000 shtoni 1426
+x barazohet 7341 shtoni 4221
+x barazohet 9792 shtoni 3513
+x barazohet 1472 shtoni 12
+x barazohet 9570 shtoni 3867
+x barazohet 600 shtoni 8917
+x barazohet 1576 shtoni 344
+x barazohet 816 shtoni 1339
+x barazohet 6048 zbres 193
+x barazohet 9437 shtoni 6922
+x barazohet 8582 shtoni 2647
+x barazohet 7422 shtoni 723
+x barazohet 1416 shtoni 4636
+x barazohet 5155 shtoni 45
+x barazohet 5816 shtoni 3103
+x barazohet 3263 shtoni 809
+x barazohet 0.75 shtoni 0.5
+x barazohet 0.875 shtoni 0.75
+x barazohet 10 zbres 5.1
+x barazohet 8.8 zbres 1
+x barazohet 6.8 zbres 3
+x barazohet 10.2 zbres 8.6
+x barazohet 3.25 zbres 0.25
+x barazohet 2.3333333333333335 shtoni 1
+x barazohet 8.2 zbres 1.6
+x barazohet 0.9 shtoni 0.7
+x barazohet 8.11 shtoni 5.91
+x barazohet 9.8 shtoni 5.2
+x barazohet 3.42 shtoni 2.2
+x barazohet 8.7 zbres 4
+x barazohet 4.1 shtoni 2.4
+x barazohet 4.4 zbres 2.86
+x barazohet 49 shtoni 13
+x barazohet 39 shtoni 24
+x barazohet 32 shtoni 23 zbres 38
+x barazohet 42 zbres 18 shtoni 9
+x barazohet 33 shtoni 87 shtoni 75
+x barazohet 86 zbres 25
+x barazohet 57 zbres 41
+x barazohet 32 zbres 25
+x barazohet 792 shtoni 233
+x barazohet 100 shtoni 783 shtoni 271
+x barazohet 9 shtoni 3
+x barazohet 7 shtoni 3 zbres 4
+x barazohet 7 shtoni 3
+x barazohet 8 shtoni 4
+x barazohet 6 shtoni 4
+x barazohet 14.54 zbres 11.76
+x barazohet 56 zbres 13.6
+x barazohet 52 zbres 6
+x barazohet 7 shtoni 2
+x barazohet 95 shtoni 32 shtoni 31
+x barazohet 9 shtoni 15
+x barazohet 61 shtoni 24
+x barazohet 9 zbres 2
+x barazohet 7 zbres 5
+x barazohet 6 zbres 2
+x barazohet 7 shtoni 3 zbres 6
+x barazohet 7 zbres 3 zbres 6
+x barazohet 3 shtoni 7 shtoni 6
+x barazohet 9 shtoni 8 zbres 7
+x barazohet 8 shtoni 7 zbres 9
+x barazohet 9 zbres 2 shtoni 4
+x barazohet 5 shtoni 6 zbres 7
+x barazohet 7 shtoni (6 zbres 5)
+x barazohet 33 zbres 6 zbres 23
+x barazohet 18 shtoni 26 zbres 40
+x barazohet 18 shtoni 40 zbres 26
+x barazohet 26 shtoni 40 zbres 18
+x barazohet 15 zbres 11 shtoni 13
+x barazohet 10 shtoni 46 zbres 16
+x barazohet 46 zbres 10 shtoni 16
+x barazohet 41 shtoni 87
+x barazohet 9 shtoni 2
+x barazohet 9 zbres 2 zbres 5
+x barazohet 7 zbres 2
+x barazohet 5 zbres 2
+x barazohet 8 zbres 3
+x barazohet 76 zbres 3
+x barazohet 77 zbres 2
+x barazohet 47 zbres 7
+x barazohet 40 zbres 7
+x barazohet 15 zbres 3
+x barazohet 18 zbres 9
+x barazohet 51 zbres 6
+x barazohet 56 zbres 9
+x barazohet 63 zbres 18
+x barazohet 46 shtoni 5
+x barazohet 75 shtoni 52
+x barazohet 67 shtoni 52
+x barazohet 96 shtoni 3
+x barazohet 47 shtoni 5
+x barazohet 87 shtoni 7
+x barazohet 95 shtoni 3
+x barazohet 95 shtoni 42
+x barazohet 88 zbres 4
+x barazohet 67 shtoni 9
+x barazohet 59 shtoni 9
+x barazohet 62 shtoni 52
+x barazohet 36 shtoni 7
+x barazohet 88 shtoni 70
+x barazohet 50 shtoni 7
+x barazohet 76 shtoni 72
+x barazohet 86 zbres 41
+x barazohet 62 shtoni 33
+x barazohet 60 shtoni 35
+x barazohet 3 ndajnë 2
+x barazohet 6 ndajnë 2
+x barazohet 4 ndajnë 3
+x barazohet 7 ndajnë 5
+x barazohet 10 ndajnë 2
+x barazohet 14 shumohen 2
+x barazohet 3 shumohen 24
+x barazohet 2 shumohen 18
+x barazohet 35 shumohen 7
+x barazohet 2 shumohen 12
+x barazohet 4 shumohen 12
+x barazohet 3 shumohen 21
+x barazohet 12 shumohen 12
+x barazohet 36 shumohen 12
+x barazohet 3 shumohen 15
+x barazohet 24 shumohen 8
+x barazohet 20 shumohen 5
+x barazohet 20 shumohen 4
+x barazohet 6 shumohen 54
+x barazohet 51 shtoni 36
+x barazohet 88 zbres 5
+x barazohet 7 zbres 5 shtoni 18
+x barazohet 5 zbres 3 shtoni 9
+x barazohet 63 shtoni 7
+x barazohet 47 shtoni 42
+x barazohet 48 shtoni 35 shtoni 14
+x barazohet 55 shtoni 35
+x barazohet 20 shtoni 7 zbres 11
+x barazohet 87 shtoni 9
+x barazohet 6 ndajnë 2
+x barazohet 8 shumohen 40
+x barazohet 9 shtoni 12 shtoni 3
+x barazohet 40 shumohen 5
+x barazohet 84 zbres 2
+x barazohet 3 ndajnë 2
+x barazohet 3 shumohen 6
+x barazohet 12 shumohen 6
+x barazohet 6 shumohen 24
+x barazohet 20 shumohen 4
+x barazohet 80 shumohen 16
+x barazohet 80 shumohen 10
+x barazohet 256 shumohen 32
+x barazohet 5 shumohen 4
+x barazohet 25 ndajnë 5
+x barazohet 80 shumohen 10
+x barazohet 40 shumohen 8
+x barazohet 4 shumohen 3
+x barazohet 7 shtoni 5
+x barazohet 4 zbres 2
+x barazohet 7 shtoni 11
+x barazohet 6 ndajnë 2
+x barazohet 6 shtoni 3
+x barazohet 5 shtoni 3
+x barazohet 2 shtoni 1
+x barazohet 4 shtoni 2
+x barazohet 24 zbres 14
+x barazohet 29 shtoni 17
+x barazohet 5 ndajnë 3
+x barazohet 3 ndajnë 2
+x barazohet 15 zbres 11
+x barazohet 5 ndajnë 3
+x barazohet 10 zbres 8
+x barazohet 10 shtoni 3
+x barazohet 16 zbres 12
+x barazohet 15 zbres 7
+x barazohet 21 zbres 17
+x barazohet 542 zbres 387
+x barazohet 34 zbres 28
+x barazohet 63 zbres 50
+x barazohet 324 shtoni 2920
+x barazohet 698 zbres 105
+x barazohet 425 zbres 275
+x barazohet 12 zbres 8
+x barazohet 22 zbres 13
+x barazohet 20 zbres 13
+x barazohet 26 zbres 17
+x barazohet 26 zbres 6
+x barazohet 54 zbres 23
+x barazohet 10 shtoni 5 zbres 4
+x barazohet 10 zbres 5 zbres 4
+x barazohet 14 zbres 6
+x barazohet 22 zbres 15
+x barazohet 12 zbres 5
+x barazohet 18 zbres 4
+x barazohet 17 zbres 14
+x barazohet 47 zbres 22
+x barazohet 3 ndajnë 2
+x barazohet 87 shtoni 8
+x barazohet 49 shtoni 18
+x barazohet 129 shtoni 140
+x barazohet 54 zbres 12
+x barazohet 25 shtoni 11
+x barazohet 18 zbres 9
+x barazohet 5 shtoni 28
+x barazohet 31 zbres 14
+x barazohet 11 shtoni 43
+x barazohet 30 shtoni 8
+x barazohet 58 shtoni 16
+x barazohet 86 shtoni 36
+x barazohet 58 shtoni 24
+x barazohet 21 zbres 14
+x barazohet 42 shtoni 29
+x barazohet 41 zbres 38
+x barazohet 25 shtoni 18
+x barazohet 34 shtoni 47
+x barazohet 35 zbres 28
+x barazohet 58 zbres 37
+x barazohet 78 zbres 42
+x barazohet 18 shtoni 44
+x barazohet 60 shtoni 34
+x barazohet 22 zbres 14
+x barazohet 356 shtoni 112
+x barazohet 210 shtoni 58
+x barazohet 31 zbres 22
+x barazohet 39 zbres 22
+x barazohet 56 shtoni 105
+x barazohet 54 shtoni 16
+x barazohet 142 shtoni 31
+x barazohet 304 shtoni 276
+x barazohet 13 shtoni 38
+x barazohet 40 shtoni 117
+x barazohet 8 ndajnë 4
+x barazohet 187 shtoni 134
+x barazohet 50 shtoni 35
+x barazohet 73 zbres 70
+x barazohet 64 zbres 41
+x barazohet 58 zbres 19
+x barazohet 45 shtoni 32
+x barazohet 50 zbres 12
+x barazohet 64 shtoni 86
+x barazohet 67 shtoni 90
+x barazohet 35 shtoni 65
+x barazohet 16 shtoni 7
+x barazohet 19 shtoni 25
+x barazohet 38 zbres 10
+x barazohet 99 ndajnë 2
+x barazohet 125 shtoni 64
+x barazohet 78 zbres 32 barazohet 46
+x barazohet 50 ndajnë 6
+x barazohet 50 shumohen 0.05
+x barazohet 8 ndajnë 3
+x barazohet 7 ndajnë 3
+x barazohet 42 shtoni 21
+x barazohet 223 shtoni 388
+x barazohet 50 shtoni 45
+x barazohet 5 ndajnë 4
+x barazohet 3 shtoni 1
+x barazohet 5 ndajnë 3
+x barazohet 31 zbres 19
+x barazohet 78 shtoni 19
+x barazohet 50 shtoni 20
+x barazohet 479 shtoni 134
+x barazohet 47 shtoni 34
+x barazohet 39 shtoni 61
+x barazohet 27 shtoni 35 zbres 2 shumohen x
+x barazohet 58 zbres 37
+x barazohet 73 zbres 55
+x barazohet 397 ndajnë 12
+x barazohet 37 ndajnë 19
+x barazohet 136 ndajnë 18
+x barazohet 27 ndajnë 16
+x barazohet 14 ndajnë 6
+x barazohet 52 ndajnë 15
+x barazohet 312 ndajnë 146
+x barazohet 45 shumohen 9
+x barazohet 261 ndajnë 23
+x barazohet 21 shumohen 8
+x barazohet 303 ndajnë 28
+x barazohet 84 ndajnë 139
+x barazohet 544 ndajnë 32
+x barazohet 5 shumohen 4
+x barazohet 4 shumohen 10 zbres 6
+x barazohet 4 shtoni 6
+x barazohet 5 shumohen 15
+x barazohet 500 ndajnë 6
+x barazohet 3 shumohen 18
+x barazohet 11 shumohen 143
+x barazohet 12 ndajnë 8
+x barazohet 150 shumohen 5
+x barazohet 4 shumohen 60
+x barazohet 12 ndajnë 5
+x barazohet 20 ndajnë 5
+x barazohet (7 shumohen 4) ndajnë 1
+x barazohet 120 ndajnë 10
+x barazohet 3 shumohen 10
+x barazohet 100 ndajnë 4
+x barazohet 3 shumohen 63
+x barazohet 80 shumohen 0.04
+x barazohet 3 shumohen 4 shtoni 5
+x barazohet 3 shumohen 12
+x barazohet 252 shumohen 4
+x barazohet 35 shtoni 83
+x barazohet 22 ndajnë 10
+x barazohet 8 shumohen 96
+x barazohet 71 ndajnë 6
+x barazohet 4 shumohen 648
+x barazohet 11 shumohen 143
+x barazohet 5 shtoni 4.28
+x barazohet 4 shumohen 48
+x barazohet 250 ndajnë 5
+x barazohet 5256 zbres 2987
+x barazohet 4 shumohen 4.8
+x barazohet 3409 shtoni 145
+x barazohet 45 ndajnë 8
+x barazohet 124 ndajnë 3
+x barazohet 34 shumohen 6
+x barazohet 15 ndajnë 5
+x barazohet 127 shtoni 88
+x barazohet 37 ndajnë 8
+x barazohet (16 shtoni 14) shumohen 5
+x barazohet 3 shumohen 3.75
+x barazohet 17 ndajnë 4
+x barazohet 30 ndajnë 4
+x barazohet 212 zbres 68
+x barazohet 212 shtoni 280
+x barazohet 600 shtoni 327
+x barazohet 532 shtoni 750
+x barazohet 45 ndajnë 23
+x barazohet 15 ndajnë 12
+x barazohet 10 zbres 7 shumohen x
+x barazohet 15 ndajnë 12
+x barazohet 31 ndajnë 12
+x barazohet (55 shumohen 36) ndajnë 1
+x barazohet 504 ndajnë 4
+x barazohet 24 shumohen 6
+x barazohet 120 shumohen 10
+x barazohet 18 shumohen 2
+x barazohet 42 ndajnë 3
+x barazohet 8 ndajnë 4
+x barazohet 21 ndajnë 3
+x barazohet 23 ndajnë 2
+x barazohet 8 ndajnë 2
+x barazohet 15 ndajnë 3
+x barazohet 247 ndajnë 25
+x barazohet 2650 shumohen 10
+x barazohet 2080 shtoni 17
+x barazohet 115 ndajnë 12
+x barazohet 14240 shumohen 8
+x barazohet 219 shumohen 3
+x barazohet 860 shtoni 367
+x barazohet 2186 zbres 1209
+x barazohet 187 zbres 156
+x barazohet 563 shtoni 147
+x barazohet 2436 shumohen 3
+x barazohet 28.3 ndajnë 5
+x barazohet 13 shtoni 5 zbres 10
+x barazohet 36 shtoni 37 shtoni 70
+x barazohet 29 shtoni 16 shtoni 38
+x barazohet 23 shtoni 32 shtoni 44
+x barazohet 9 shtoni 21 shtoni 29
+x barazohet 4 shtoni 21 shtoni 23
+x barazohet 39 zbres 4 zbres 26
+x barazohet 13 shtoni 17 shtoni 15
+x barazohet 29 shtoni 20 shtoni 34
+x barazohet 47 shtoni 40 shtoni 25
+x barazohet 10 shtoni 4 shtoni 42
+x barazohet 42 zbres 4 shtoni 10
+x barazohet 33 shtoni 32 shtoni 4
+x barazohet 37 shtoni 16 shtoni 19
+x barazohet 41 shtoni 33 shtoni 2
+x barazohet 41 zbres 2 zbres 33
+x barazohet 36 zbres 19 zbres 14
+x barazohet 9 shtoni 3 zbres 6
+x barazohet 48 zbres 15 zbres 11
+x barazohet 34 shtoni 13 shtoni 20
+x barazohet 5 shtoni 5 zbres 2
+x barazohet 48 zbres 34 zbres 3
+x barazohet 49 zbres 6 zbres 25
+x barazohet 28 shtoni 36 shtoni 4
+x barazohet 28 shtoni 36 zbres 4
+x barazohet 45 zbres 14 zbres 8
+x barazohet 7 shumohen 5 zbres 3 shumohen 5
+x barazohet (7 shtoni 3) ndajnë 9
+x barazohet (2 shumohen 5) ndajnë 4
+x barazohet (6 shtoni 4) ndajnë 9
+x barazohet 6 shumohen 9 zbres 4 shumohen 9
+x barazohet (6 shtoni 2) ndajnë 6
+x barazohet 6 shumohen 6 zbres 2 shumohen 6
+x barazohet 6 shumohen 8 zbres 3 shumohen 8
+x barazohet 6 shumohen 8 zbres 2 shumohen 8
+x barazohet 7 shumohen (8 zbres 2)
+x barazohet 7 shumohen (7 zbres 3)
+x barazohet 6 shumohen (21 shtoni 15)
+x barazohet 41 shumohen 9 shtoni 22 shumohen 9
+x barazohet 9 shumohen 4 shtoni 7 shumohen 4
+x barazohet (47 zbres 7) ndajnë 6
+x barazohet 4 shumohen 7 shtoni 10 shumohen 7
+x barazohet 16 zbres 7
+x barazohet 11 shumohen 5 shtoni 5
+x barazohet 6 ndajnë 3
+x barazohet 3 shumohen (12 shtoni 7)
+x barazohet 8 shumohen 7
+x barazohet 9 shumohen (13 shtoni 4)
+x barazohet (10 zbres 5) ndajnë 3
+x barazohet 3 shumohen 10 zbres 3 shumohen 5
+x barazohet (7 shumohen 9) ndajnë 4
+x barazohet 57 shumohen 6 zbres 27 shumohen 6
+x barazohet (57 shtoni 27) ndajnë 6
+x barazohet 18 shumohen 5 zbres 3 shumohen 5
+x barazohet (18 shtoni 3) ndajnë 5
+x barazohet 17 shtoni 5 shumohen 30
+x barazohet (79 shtoni 23) ndajnë 7
+x barazohet (18 shtoni 8) ndajnë 2
+x barazohet (93 shtoni 21) ndajnë 8
+x barazohet (72 shumohen 5) zbres (32 shumohen 5)
+x barazohet (11 shtoni 41) ndajnë 6
+x barazohet 8 shumohen (65 zbres 17)
+x barazohet (65 shtoni 17) ndajnë 8
+x barazohet (66 shtoni 10) ndajnë 8
+x barazohet 9 shumohen (108 zbres 36)
+x barazohet 35 zbres 19
+x barazohet (18 shtoni 12) ndajnë 3
+x barazohet 44 shumohen 8 zbres 12 shumohen 8
+x barazohet (44 shtoni 12) ndajnë 8
+x barazohet (40 shtoni 20) ndajnë 4
+x barazohet 34 shtoni 86
+x barazohet 49 zbres 21
+x barazohet 45 shumohen 5
+x barazohet 110 shumohen 22
+x barazohet 390 shumohen 30
+x barazohet 46 shumohen 276
+x barazohet 5 ndajnë 3
+x barazohet 7 ndajnë 4
+x barazohet 29 ndajnë 7
+x barazohet  barazohet 8 ndajnë 4
+x barazohet 4.45 shumohen 4 zbres 66
+x barazohet 11.73 zbres 10.22
+x barazohet 128 zbres 9.85
+x barazohet 13.99 shtoni 12.14 zbres 7.43
+x barazohet 142.46 shtoni 8.89 zbres 7
+x barazohet 20 zbres 8.25 shtoni 9.24
+x barazohet 20 zbres 8.77 zbres 10.97
+x barazohet 5.92 shumohen 2 shtoni 6.79 shtoni 20
+x barazohet 20 zbres (5.92 shumohen 2 shtoni 6.79)
+x barazohet 9.14 shtoni 6.81 shtoni 20
+x barazohet 20 zbres 9.14 zbres 6.81
+x barazohet 26935 zbres 69
+x barazohet (9 shtoni 10 shtoni 3) ndajnë 13
+x barazohet 48 shtoni 25 zbres 17 zbres 49
+x barazohet 6 shumohen 6 shtoni 8 shumohen 18
+x barazohet 910 shtoni 24 shtoni 6 shtoni 11
+x barazohet 91 zbres 24 zbres 6 shtoni 11
+x barazohet 91 zbres 24 zbres 6 shtoni 11
+x barazohet 91 zbres 6 shtoni 24 zbres 11
+x barazohet 15 shtoni 13 shtoni 8 shtoni 21
+x barazohet 61 zbres 26 zbres 7
+x barazohet 61 shtoni 26 zbres 7
+x barazohet 85 zbres 10 shumohen 5
+x barazohet 8 shtoni 13 shtoni 2 shtoni 18
+x barazohet 8 shtoni 13 zbres 2 shtoni 18
+x barazohet 8 shtoni 13 zbres 18 shtoni 2
+x barazohet 20 shumohen 6 shtoni 2 shumohen 1
+x barazohet 16 ndajnë (10 shtoni 1 shtoni 3) 
+x barazohet 10 shumohen 16 zbres 3 shumohen 16
+x barazohet 9 zbres 3
+x barazohet 9 shumohen 10 shtoni 7 shumohen 5
+x barazohet 0.625 shtoni 0.5
+x barazohet 56 ndajnë 9
+x barazohet 122 ndajnë 4
+x barazohet 83 ndajnë 6
+x barazohet 28 ndajnë 5
+x barazohet 378 ndajnë 6
+x barazohet 49 ndajnë 9
+x barazohet 81 shumohen 9
+x barazohet 30 shumohen 5
+x barazohet 6 shumohen 54
+x barazohet 9 shumohen 72
+x barazohet 48 shumohen 6
+x barazohet 88 shumohen 8
+x barazohet 48 shumohen 8
+x barazohet 3 shumohen 12
+x barazohet 593 zbres 183
+x barazohet 34 ndajnë 4
+x barazohet 1 ndajnë 3 shumohen 1250
+x barazohet 127 shtoni 88
+x barazohet 7 ndajnë 4
+x barazohet 77.75 shtoni 9.5
+x barazohet 70 zbres 27
+x barazohet 54 zbres 28
+x barazohet 8 zbres 2
+x barazohet 12 zbres 4
+x barazohet 55 zbres 22
+x barazohet 86 zbres 34
+x barazohet 16 zbres 6
+x barazohet 4 shtoni 9
+x barazohet 9 shtoni 8
+x barazohet 4 shtoni 6
+x barazohet 9 shtoni 7
+x barazohet 7 shtoni 5
+x barazohet 9 shtoni 6
+x barazohet 2 shtoni 3
+x barazohet 6 shtoni 8
+x barazohet 6 shtoni 3
+x barazohet 2 shtoni 9
+x barazohet 3 shtoni 6 shtoni 9
+x barazohet 9 shtoni 5 shtoni 2
+x barazohet 7 shtoni 8 shtoni 4
+x barazohet 5 shtoni 6 shtoni 3
+x barazohet 4 shtoni 5 shtoni 9
+x barazohet 44 shtoni 24
+x barazohet 11 shtoni 14
+x barazohet 20 shtoni 21
+x barazohet 15 shtoni 43
+x barazohet 31 shtoni 24
+x barazohet 37 shtoni 10
+x barazohet 36 shtoni 11
+x barazohet 40 shtoni 41
+x barazohet 10 shtoni 24 shtoni 33
+x barazohet 46 shtoni 47 shtoni 12
+x barazohet 27 shtoni 41 zbres 20
+x barazohet 11 shtoni 17 shtoni 16
+x barazohet 56 zbres 35
+x barazohet 56 zbres 22
+x barazohet 55 zbres 13
+x barazohet 67 zbres 33
+x barazohet 86 zbres 74
+x barazohet 7 zbres 4
+x barazohet 6 shtoni 9
+x barazohet 8 zbres 2
+x barazohet 7 zbres 3
+x barazohet 8 zbres 2
+x barazohet 35 zbres 18
+x barazohet 87 zbres 13
+x barazohet 64 zbres 14
+x barazohet 42 shtoni 17
+x barazohet 98 zbres 93
+x barazohet 79 zbres 63
+x barazohet 760 zbres 418
+x barazohet 139 shtoni 113
+x barazohet 676 zbres 224
+x barazohet 4 zbres 3
+x barazohet 9 shtoni 4
+x barazohet 8 zbres 3
+x barazohet 9 zbres 2
+x barazohet 8 zbres 3
+x barazohet 9 zbres 3
+x barazohet 7 zbres 3
+x barazohet 9 zbres 4
+x barazohet 9 zbres 2
+x barazohet 43 zbres 27
+x barazohet 33 zbres 26
+x barazohet 46 zbres 25
+x barazohet 5.2 shtoni 4.23
+x barazohet 145.16 shtoni 5.84
+x barazohet 5.71 shtoni 6.59
+x barazohet 10.22 shtoni 11.73
+x barazohet 5.36 shtoni 5.1
+x barazohet 14.25 shtoni 4.75
+x barazohet 128 shtoni 9.85
+x barazohet 13.99 shtoni 12.14 shtoni 7.43
+x barazohet 95 shtoni 4.95 shtoni 6.52
+x barazohet 5973 shtoni 8723
+x barazohet 1346 shtoni 6444
+x barazohet 3884 shtoni 2871
+x barazohet 1986 shtoni 5106
+x barazohet 20817 shtoni 97741
+x barazohet 26935 zbres 69
+x barazohet 14507 shtoni 213
+x barazohet 90171 shtoni 16320
+x barazohet 49952 shtoni 918
+x barazohet 61921 shtoni 49500
+x barazohet 2041 shtoni 63093
+x barazohet 712261 shtoni 259378
+x barazohet 14797 shtoni 4969
+x barazohet 2000 zbres 1426
+x barazohet 7341 zbres 4221
+x barazohet 1472 zbres 12
+x barazohet 9570 zbres 3867
+x barazohet 1200 zbres 600
+x barazohet 8500 zbres 2650
+x barazohet 7422 zbres 723
+x barazohet 4636 zbres 1416
+x barazohet 5155 zbres 45
+x barazohet 5816 zbres 3103
+x barazohet 0.25 shtoni 0.25
+x barazohet 0.75 zbres 0.5
+x barazohet 0.4 zbres 0.2
+x barazohet 0.6 zbres 0.4
+x barazohet 3 shtoni 6.8
+x barazohet 8 shtoni 7
+x barazohet 8.2 shtoni 1.6
+x barazohet 3.42 zbres 2.2
+x barazohet 49 zbres 13
+x barazohet 39 zbres 9 zbres 24
+x barazohet 32 zbres 23
+x barazohet 18 shtoni 42
+x barazohet 86 zbres 25
+x barazohet 50 shtoni 7 zbres 44
+x barazohet 25 shtoni 32
+x barazohet 792 zbres 233
+x barazohet 7 zbres 3
+x barazohet 7 zbres 3
+x barazohet 8 zbres 4
+x barazohet 6 zbres 4
+x barazohet 7 zbres 2
+x barazohet 95 zbres 32
+x barazohet 2 shtoni 9
+x barazohet 7 shtoni 3 shtoni 6
+x barazohet 2 shtoni 9 shtoni 4
+x barazohet 9 zbres 2
+x barazohet 7 shtoni 7
+x barazohet 7 shtoni 2
+x barazohet 4 shtoni 4
+x barazohet 7 shtoni 8
+x barazohet 4 shtoni 3
+x barazohet 2 shtoni 5
+x barazohet 8 shtoni 3
+x barazohet 2 shtoni 2
+x barazohet 4 shtoni 5
+x barazohet 3 shtoni 76
+x barazohet 77 shtoni 2
+x barazohet 7 shtoni 47
+x barazohet 40 shtoni 7
+x barazohet 15 shtoni 3
+x barazohet 9 shtoni 18
+x barazohet 51 shtoni 6
+x barazohet 9 shtoni 5
+x barazohet 18 shtoni 63
+x barazohet 75 zbres 52
+x barazohet 67 zbres 52
+x barazohet 47 zbres 5
+x barazohet 87 zbres 7
+x barazohet 95 zbres 3
+x barazohet 95 zbres 42
+x barazohet 88 zbres 4
+x barazohet 67 zbres 9
+x barazohet 59 zbres 9
+x barazohet 62 zbres 52
+x barazohet 88 zbres 70
+x barazohet 50 zbres 7
+x barazohet 76 zbres 72
+x barazohet 86 zbres 41
+x barazohet 62 zbres 33
+x barazohet 60 zbres 35
+x barazohet 2 shumohen 3
+x barazohet 2 shumohen 6
+x barazohet 3 shumohen 4
+x barazohet 7 shumohen 5
+x barazohet (14 shtoni 2 zbres 1) ndajnë 2
+x barazohet 24 ndajnë 3
+x barazohet 21 ndajnë 3
+x barazohet 51 zbres 36
+x barazohet 9 shtoni 8
+x barazohet 3 shtoni 5
+x barazohet 63 shtoni 7
+x barazohet 48 zbres 35
+x barazohet 55 zbres 35
+x barazohet 20 zbres 7
+x barazohet 9 ndajnë 3
+x barazohet 40 ndajnë 5
+x barazohet 3 shumohen 2
+x barazohet 6 ndajnë 3
+x barazohet 24 ndajnë 6
+x barazohet 20 ndajnë 4
+x barazohet 80 ndajnë 16
+x barazohet 80 ndajnë 10
+x barazohet 256 ndajnë 32
+x barazohet 5 ndajnë 4
+x barazohet 25 ndajnë 5
+x barazohet 80 ndajnë 10
+x barazohet 40 ndajnë 8
+x barazohet (4 shumohen 60) ndajnë 3
+x barazohet 7 zbres 5
+x barazohet 11 zbres 7
+x barazohet 2 shumohen 6
+x barazohet 6 zbres 3
+x barazohet 5 zbres 3
+x barazohet 5 shumohen 3
+x barazohet 3 shumohen 2
+x barazohet 15 zbres 11
+x barazohet 2 shumohen 8
+x barazohet 5 shumohen 3
+x barazohet 15 shtoni 7
+x barazohet 21 shtoni 17
+x barazohet 542 shtoni 387
+x barazohet 34 shtoni 28
+x barazohet 63 shtoni 50
+x barazohet 12 shtoni 8
+x barazohet 30 shtoni 10
+x barazohet 26 shtoni 6
+x barazohet 54 shtoni 23
+x barazohet 10 zbres (4 shtoni 5)
+x barazohet 14 shtoni 6
+x barazohet 22 shtoni 15
+x barazohet 12 shtoni 12
+x barazohet 18 shtoni 4
+x barazohet 22 shtoni 47
+x barazohet 87 zbres 8
+x barazohet 129 zbres 110
+x barazohet 18 zbres 9
+x barazohet 24 zbres 18
+x barazohet 43 zbres 11
+x barazohet 30 zbres 8
+x barazohet 86 zbres 36
+x barazohet 58 zbres 24
+x barazohet 47 zbres 34
+x barazohet 28 shtoni 35
+x barazohet 58 shtoni 37
+x barazohet 60 zbres 34
+x barazohet 210 zbres 58
+x barazohet 23 zbres 6
+x barazohet 31 shtoni 22
+x barazohet 105 zbres 56
+x barazohet 142 zbres 31
+x barazohet 117 zbres 40
+x barazohet 41 shtoni 64
+x barazohet 58 zbres 19
+x barazohet 45 zbres 32
+x barazohet 50 shtoni 12
+x barazohet 86 zbres 64
+x barazohet 90 zbres 67
+x barazohet 16 zbres 7
+x barazohet 25 zbres 19
+x barazohet 17 zbres 8
+x barazohet 38 shtoni 10
+x barazohet 50 zbres 45
+x barazohet 78 zbres 19
+x barazohet 47 zbres 34
+x barazohet 61 zbres 39
+x barazohet 27 shtoni 35
+x barazohet 58 shtoni 37
+x barazohet 73 zbres 55
+x barazohet 37 shumohen 19
+x barazohet 45 ndajnë 9
+x barazohet 261 shumohen 23
+x barazohet 150 shumohen 15
+x barazohet 20 shumohen 5
+x barazohet 4 shumohen 7
+x barazohet 22 shumohen 10
+x barazohet 15 shumohen 5
+x barazohet 127 zbres 88
+x barazohet 12 shumohen 3
+x barazohet 55 shumohen 6
+x barazohet 34 zbres 3 shtoni 48
+x barazohet 49 shtoni 6 zbres 25
+x barazohet 38 zbres 20 shtoni 28
+x barazohet 28 zbres 4 shtoni 36
+x barazohet 14 zbres 8 shtoni 45
+x barazohet 6 shumohen (6 shtoni 2)
+x barazohet (21 shtoni 15) ndajnë 6
+x barazohet 3 shumohen 5
+x barazohet 3 shumohen 6

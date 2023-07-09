@@ -1,8 +1,9 @@
 import os
+import json
 import argparse
 import traceback
 from pathlib import Path
-from math import ceil
+from collections import OrderedDict
 
 from sklearn.model_selection import train_test_split
 import numpy as np
@@ -23,60 +24,83 @@ lang_dict = {
     "hi" : "Hindi",
     "as" : "Assamese",
     "al" : "Albanian",
-    "zh" : "Chinese",
-    "bn" : "Bengali",
-    "fa" : "Persian",
-    "ar" : "Arabic",
-    "ne" : "Nepali",
-    "dv" : "Dhivehi"
+    "zh" : "Chinese"
 }
 
 
-def dataset_split(file1, file2, out_path, train_size=0.6, test_size=0.3):
-  test_size = test_size/(1-train_size)
-  target,source = [],[]
-  target = open(file1).read().splitlines()
-  target = list(filter(None, target))
-  source = open(file2).read().splitlines()
-  source = list(filter(None, source))
+def create_json_file(equation_file, mwp_file, output_file, seed_len_ratio, language):
 
-  print("len(source): ",len(source))
-  print("len(target): ",len(target))
+    equations = open(equation_file).read().splitlines()
+    mwps = open(mwp_file).read().splitlines()
 
-  target_df = pd.DataFrame(target,columns=["Target"])
-  source_df = pd.DataFrame(source,columns=["Source"])
+    num_eqs = len(equations)
+    num_mwps = len(mwps)
+    assert num_eqs == num_mwps , f"Lengths don't match"
 
-  X_train, X_rem, y_train, y_rem = train_test_split(target_df,source_df, train_size=train_size, random_state=1)
-  X_valid, X_test, y_valid, y_test = train_test_split(X_rem,y_rem, test_size=test_size, random_state=1)
+    combined_data=[]
 
-  # print(X_train.shape), print(y_train.shape)
-  # print(X_valid.shape), print(y_valid.shape)
-  # print(X_test.shape), print(y_test.shape)
-
-  np.savetxt(os.path.join(out_path, 'train.target'), X_train.values, fmt='%s')
-  np.savetxt(os.path.join(out_path, 'train.source'), y_train.values, fmt='%s')
-
-  np.savetxt(os.path.join(out_path, 'val.target'), X_valid.values, fmt='%s')
-  np.savetxt(os.path.join(out_path, 'val.source'), y_valid.values, fmt='%s')
-
-  np.savetxt(os.path.join(out_path, 'test.target'), X_test.values, fmt='%s')
-  np.savetxt(os.path.join(out_path, 'test.source'), y_test.values, fmt='%s')
-
-def generate_seeded_dataset(input_file, output_file, ratio, language):
     if language == "Chinese":
-        with open(input_file, 'r') as f_target, open(output_file, 'w') as f_source:
-            for target_line in f_target:
-                source_line = target_line.strip()
-                source_line = jieba.lcut(source_line)
-                source_line = "".join(source_line[:round(len(source_line) * ratio)])
-                f_source.write('%s\n' % source_line)
+        for i in range(len(equations)):
+            od = OrderedDict()
+            od['id'] = i
+            od['mwp'] = mwps[i]
+            od['equation'] = equations[i]
+            mwp_temp = mwps[i].strip()
+            source_line = jieba.lcut(mwp_temp)
+            od['mwp_start'] = "".join(source_line[:round(len(source_line) * seed_len_ratio)])
 
+            combined_data.append(od)
     else:
-        with open(input_file, 'r') as f_target, open(output_file, 'w') as f_source:
-            for target_line in f_target:
-                source_line = target_line.strip().split()
-                source_line = " ".join(source_line[:round(len(source_line) * ratio)])
-                f_source.write('%s\n' % source_line)
+
+        for i in range(len(equations)):
+            od = OrderedDict()
+            od['id'] = i
+            od['mwp'] = mwps[i]
+            od['equation'] = equations[i]
+            mwp_words = mwps[i].split()
+            od['mwp_start'] = " ".join(mwp_words[:round(len(mwp_words) * seed_len_ratio)])
+
+            combined_data.append(od)
+
+    with open(output_file, "w") as outfile:
+        json.dump(combined_data, outfile)
+
+def dataset_split(json_file, out_path, train_size=0.6, test_size=0.3):
+  test_size = test_size/(1-train_size)
+
+  with open(json_file) as jf:
+    samples = json.load(jf)
+
+  mwps = [sample['mwp'] for sample in samples]
+  equations = [sample['equation'] for sample in samples]
+  source_mwp = [sample['mwp_start'] for sample in samples]
+
+  source1_df = pd.DataFrame(source_mwp, columns=["Source1"])
+  target1_df = pd.DataFrame(mwps, columns=["Target1"])
+
+  source2_df = pd.DataFrame(mwps, columns=["Source2"])
+  target2_df = pd.DataFrame(equations, columns=["Target2"])
+
+
+  X1_train, X1_rem, y1_train, y1_rem = train_test_split(target1_df, source1_df, train_size=train_size, random_state=1)
+  X1_valid, X1_test, y1_valid, y1_test = train_test_split(X1_rem,y1_rem, test_size=test_size, random_state=1)
+
+  X2_train, X2_rem, y2_train, y2_rem = train_test_split(target2_df, source2_df, train_size=train_size, random_state=1)
+  X2_valid, X2_test, y2_valid, y2_test = train_test_split(X2_rem,y2_rem, test_size=test_size, random_state=1)
+
+  np.savetxt(os.path.join(out_path, 'train.target1'), X1_train.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'train.source1'), y1_train.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'val.target1'), X1_valid.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'val.source1'), y1_valid.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'test.target1'), X1_test.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'test.source1'), y1_test.values, fmt='%s')
+
+  np.savetxt(os.path.join(out_path, 'train.target2'), X2_train.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'train.source2'), y2_train.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'val.target2'), X2_valid.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'val.source2'), y2_valid.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'test.target2'), X2_test.values, fmt='%s')
+  np.savetxt(os.path.join(out_path, 'test.source2'), y2_test.values, fmt='%s')
 
 
 def main():
@@ -93,14 +117,23 @@ def main():
                         type=str,
                         help="Path to prepared dataset directory",
                         default="./")
+    parser.add_argument('--equation_file',
+                        required=False,
+                        type=str,
+                        help="Name of the file containing equations",
+                        default="Simple-Equations.txt")
     parser.add_argument('--language',
                         help='Language of the model. Default: {}'.format('en'),
-                        choices=['en', 'si', 'ta', 'as', 'ur','hi', 'or', 'al', 'zh', 'dv', 'bn', 'fa', 'ar', 'ne'],
+                        choices=['en', 'si', 'ta', 'as', 'ur','hi', 'or', 'al', 'zh'],
                         default='en')
     parser.add_argument('--mwp_type',
                         help='Language of the model.',
                         choices=['Simple', 'Algebraic', 'Combine'],
                         default='Simple')
+    parser.add_argument('--equation_type',
+                        help='Equations are word or algebraic.',
+                        choices=['word', 'algebraic'],
+                        default='algebraic')
     parser.add_argument('--experiment',
                         type=str,
                         help='One word name to identify the experement',
@@ -137,14 +170,23 @@ def main():
     Path(output_dataset_path).mkdir(parents=True, exist_ok=True)
 
     datain_file = "{}-{}.txt".format(args.mwp_type, language)
-    dataout_file = "target_{}_{}_{}.txt".format(args.experiment, args.seed_len, language)
-    input_file = os.path.join(args.data_dir, datain_file)
-    output_file = os.path.join(output_dataset_path, dataout_file)
+    json_file = "{}-{}-{}.json".format(args.mwp_type, language, args.seed_len)
+    json_output_file = os.path.join(output_dataset_path, json_file)
 
+
+    if(args.equation_type == 'word'):
+        equation_file = "{}-{}-{}.txt".format(args.mwp_type, "Equations", language)
+    else:
+        equation_file = "{}-{}.txt".format(args.mwp_type, "Equations")
+
+    equation_file = os.path.join(args.data_dir, equation_file)
+    mwp_file = os.path.join(args.data_dir, datain_file)
     # Generate inputs and labels corresponding to model anhd dataset
-    generate_seeded_dataset(input_file, output_file, args.seed_len, language)
+    create_json_file(equation_file, mwp_file, json_output_file, args.seed_len,language)
+
+    # generate_seeded_dataset(input_file, output_file, args.seed_len)
     # Create train-val-test split
-    dataset_split(input_file, output_file, output_dataset_path, train_size=args.train_split, test_size=args.test_split)
+    dataset_split(json_output_file, output_dataset_path, train_size=args.train_split, test_size=args.test_split)
 
 # If calling script then execute
 if __name__ == "__main__":

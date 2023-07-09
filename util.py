@@ -62,6 +62,36 @@ def visualize(tbx, pred_dict: Union[Dict, List], step, split, num_visuals):
                      global_step=step)
 
 
+def save_preds(preds: List[Tuple[str,str,str,str,str]], save_dir, file_name='predictions.csv'):
+    """Save predictions `preds` to a CSV file named `file_name` in `save_dir`.
+
+    Args:
+        preds (list): List of predictions each of the form (source, target, actual),
+        save_dir (str): Directory in which to save the predictions file.
+        file_name (str): File name for the CSV file.
+    Returns:
+        save_path (str): Path where CSV file was saved.
+    """
+    save_path = os.path.join(save_dir, file_name)
+    np.savetxt(save_path, np.array(preds), delimiter='@', fmt='%s')
+
+    return save_path
+
+def save_preds(preds: List[Tuple[str,str,str,str]], save_dir, file_name='predictions.csv'):
+    """Save predictions `preds` to a CSV file named `file_name` in `save_dir`.
+
+    Args:
+        preds (list): List of predictions each of the form (source, target, actual),
+        save_dir (str): Directory in which to save the predictions file.
+        file_name (str): File name for the CSV file.
+    Returns:
+        save_path (str): Path where CSV file was saved.
+    """
+    save_path = os.path.join(save_dir, file_name)
+    np.savetxt(save_path, np.array(preds), delimiter='@', fmt='%s')
+
+    return save_path
+
 def save_preds(preds: List[Tuple[str,str,str]], save_dir, file_name='predictions.csv'):
     """Save predictions `preds` to a CSV file named `file_name` in `save_dir`.
 
@@ -69,7 +99,6 @@ def save_preds(preds: List[Tuple[str,str,str]], save_dir, file_name='predictions
         preds (list): List of predictions each of the form (source, target, actual),
         save_dir (str): Directory in which to save the predictions file.
         file_name (str): File name for the CSV file.
-
     Returns:
         save_path (str): Path where CSV file was saved.
     """

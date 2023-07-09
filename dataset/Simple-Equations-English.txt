@@ -1,0 +1,3160 @@
+x equal 9 substract 7
+x equal 10 substract 8
+x equal 16 substract 12
+x equal 20 substract 7
+x equal 18 substract 7
+x equal 9 substract 4
+x equal 12 substract 7
+x equal 20 substract 10
+x equal 13 substract 7
+x equal 10 substract 9
+x equal 8 substract 5
+x equal 12 substract 6
+x equal 13 substract 4
+x equal 15 substract 4
+x equal 34 substract 9
+x equal 12 substract 9
+x equal 9 substract 3
+x equal 12 substract 4
+x equal 8 substract 6
+x equal 14 substract 9
+x equal 11 substract 9
+x equal 9 substract 8
+x equal 16 substract 12
+x equal 10 substract 4
+x equal 15 substract 7
+x equal 9 substract 4
+x equal 12 substract 5
+x equal 15 substract 6
+x equal 13 substract 7
+x equal 12 substract 9
+x equal 8 substract 5
+x equal 10 substract 4
+x equal 20 substract 6
+x equal 15 substract 4
+x equal 34 substract 9
+x equal 15 substract 9
+x equal 10 substract 6
+x equal 12 substract 8
+x equal 8 substract 2
+x equal 12 substract 9
+x equal 10 substract 8
+x equal 10 substract 6
+x equal 4 substract 2
+x equal 10 substract 7
+x equal 15 substract 7
+x equal 9 substract 4
+x equal 10 substract 7
+x equal 15 substract 10
+x equal 11 substract 7
+x equal 9 substract 6
+x equal 20 substract 5
+x equal 13 substract 6
+x equal 11 substract 4
+x equal 12 substract 6
+x equal 34 substract 9
+x equal 40 substract 20
+x equal 25 substract 9
+x equal 30 substract 19
+x equal 25 substract 2
+x equal 20 substract 5
+x equal 15 substract 10
+x equal 13 substract 6
+x equal 12 substract 4
+x equal 9 substract 6
+x equal 30 substract 10
+x equal 25 substract 20
+x equal 20 substract 9
+x equal 25 substract 20
+x equal 21 substract 1
+x equal 20 substract 3
+x equal 15 substract 9
+x equal 6 substract 3
+x equal 5 substract 2
+x equal 15 substract 6
+x equal 15 substract 7
+x equal 6 substract 4
+x equal 9 substract 7
+x equal 20 substract 10
+x equal 11 substract 7
+x equal 12 substract 6
+x equal 15 substract 11
+x equal 13 substract 6
+x equal 11 substract 4
+x equal 16 substract 6
+x equal 12 substract 8
+x equal 44 substract 18
+x equal 28 substract 6
+x equal 14 substract 5
+x equal 20 substract 3
+x equal 18 substract 7
+x equal 15 substract 7
+x equal 11 substract 6
+x equal 6 substract 5
+x equal 11 substract 8
+x equal 36 substract 25
+x equal 100 substract 23
+x equal 89 substract 78
+x equal 15 substract 10
+x equal 12 substract 8
+x equal 11 substract 5
+x equal 9 add 7
+x equal 16 add 12
+x equal 20 add 7
+x equal 18 add 7
+x equal 9 add 4
+x equal 12 add 7
+x equal 20 add 10
+x equal 13 add 7
+x equal 10 add 9
+x equal 10 add 8
+x equal 5 add 10
+x equal 15 add 12
+x equal 20 add 7
+x equal 12 add 8
+x equal 11 add 7
+x equal 13 add 7
+x equal 12 add 8
+x equal 11 add 7
+x equal 10 add 9
+x equal 19 add 8
+x equal 12 add 8
+x equal 3 add 1
+x equal 20 add 7
+x equal 12 add 9
+x equal 8 add 4
+x equal 12 add 7
+x equal 20 add 8
+x equal 15 add 8
+x equal 12 add 10
+x equal 11 add 10
+x equal 8 add 10
+x equal 20 add 8
+x equal 20 add 17
+x equal 12 add 8
+x equal 12 add 7
+x equal 10 add 7
+x equal 11 add 8
+x equal 15 add 8
+x equal 14 add 19
+x equal 19 add 9
+x equal 10 add 8
+x equal 15 add 11
+x equal 24 add 15
+x equal 16 add 7
+x equal 10 add 4
+x equal 11 add 5
+x equal 20 add 10
+x equal 13 add 8
+x equal 5 add 9
+x equal 20 add 5
+x equal 13 add 6
+x equal 11 add 4
+x equal 12 add 6
+x equal 34 add 9
+x equal 40 add 20
+x equal 25 add 9
+x equal 30 add 19
+x equal 25 add 2
+x equal 20 add 5
+x equal 15 add 10
+x equal 13 add 6
+x equal 12 add 5
+x equal 15 add 6
+x equal 15 add 9
+x equal 25 add 20
+x equal 20 add 9
+x equal 25 add 15
+x equal 20 add 4
+x equal 21 add 6
+x equal 13 add 6
+x equal 12 add 3
+x equal 8 add 5
+x equal 11 add 7
+x equal 15 add 9
+x equal 40 add 20
+x equal 25 add 9
+x equal 30 add 19
+x equal 25 add 2
+x equal 12 add 6
+x equal 19 add 8
+x equal 13 add 6
+x equal 11 add 5
+x equal 12 add 7
+x equal 11 add 9
+x equal 33 add 18
+x equal 30 add 5
+x equal 25 add 12
+x equal 25 add 5
+x equal 20 add 12
+x equal 12 add 6
+x equal 11 add 10
+x equal 13 add 30
+x equal 15 add 8
+x equal 11 add 3
+x equal 11 add 6
+x equal 20 add 11
+x equal 11 add 9
+x equal 2 add 9
+x equal 0.7 substract 0.6
+x equal 7 substract 5
+x equal 7 substract 3
+x equal 8 substract 5
+x equal 1 substract 0.6
+x equal 8.1111 substract 2.444
+x equal 7 substract 5
+x equal 3 substract 2
+x equal 0.7 substract 0.6
+x equal 20 substract 10
+x equal 16 substract 11
+x equal 11 substract 8
+x equal 13 substract 7
+x equal 15 substract 8
+x equal 12.5 substract 11
+x equal 12.444 substract 8.1111
+x equal 15 substract 7
+x equal 12 substract 3
+x equal 1.6 substract 0.7
+x equal 20 substract 10
+x equal 0.1227 substract 0.6345
+x equal 7 substract 5
+x equal 8 substract 2
+x equal 8.5 substract 5
+x equal 10 substract 0.6
+x equal 8.1111 substract 2.444
+x equal 7 substract 5
+x equal 3 substract 2
+x equal 8 substract 1
+x equal 20 substract 10
+x equal 10 substract 6
+x equal 8 substract 5
+x equal 7 substract 4
+x equal 8 substract 6
+x equal 1 substract 0.6
+x equal 8.1111 substract 2.444
+x equal 17 substract 6
+x equal 3 substract 2
+x equal 0.7 substract 0.6
+x equal 11 substract 5
+x equal 1.7 substract 1.6
+x equal 9 substract 5
+x equal 8 substract 3
+x equal 10 substract 5
+x equal 1.5 substract 0.6
+x equal 6.1111 substract 2.444
+x equal 7 substract 5
+x equal 3 substract 2
+x equal 1.7 substract 0.6
+x equal 20 substract 8
+x equal 16 substract 11
+x equal 21 substract 18
+x equal 13 substract 7
+x equal 15 substract 12
+x equal 12.444 substract 8.1111
+x equal 15 substract 7
+x equal 12 substract 5
+x equal 2.6 substract 0.7
+x equal 12 substract 5
+x equal 18 substract 12
+x equal 11 substract 8
+x equal 15 substract 5
+x equal 20 substract 10
+x equal 12.5 substract 10
+x equal 12.444 substract 8.1111
+x equal 15 substract 7
+x equal 15 substract 7
+x equal 16 substract 10
+x equal 20 substract 14
+x equal 18 substract 12
+x equal 21 substract 20
+x equal 14 substract 8
+x equal 20 substract 14
+x equal 12.5 substract 12
+x equal 9.444 substract 4.1111
+x equal 16 substract 8
+x equal 6 substract 1
+x equal 2.9 substract 0.9
+x equal 12 substract 5
+x equal 0.8 substract 0.554
+x equal 7.2 substract 5
+x equal 11.7 substract 3.5
+x equal 18 substract 15
+x equal 11 substract 4.6
+x equal 9 substract 4
+x equal 3 substract 2
+x equal 1.7 substract 0.9
+x equal 16 substract 8
+x equal 7.3 substract 5.4
+x equal 7.4 substract 3.2
+x equal 5.333333 substract 5
+x equal 1.5 substract 0.4
+x equal 8.1111 substract 1.444
+x equal 4.3 substract 3.2
+x equal 6.2 substract 2.2
+x equal 11.7 substract 1.6
+x equal 15 substract 8
+x equal 0.625 substract 0.25
+x equal 2 substract 1.5
+x equal 12 substract 10
+x equal 0.625 substract 0.25
+x equal 120 substract 60
+x equal 100 substract 40
+x equal 12 substract 0.25
+x equal 5 substract 3
+x equal 5 substract 4
+x equal 20 substract 10
+x equal 1.25 substract 0.625
+x equal 3.5 substract 2
+x equal 2 add 5
+x equal 160 substract 120
+x equal 140 substract 100
+x equal 12 substract 10
+x equal 6 substract 5
+x equal 8 substract 5
+x equal 30 substract 20
+x equal 2.25 substract 1.625
+x equal 2.5 substract 2
+x equal 15 substract 12
+x equal 1.25 substract 0.625
+x equal 120 substract 160
+x equal 100 substract 140
+x equal 3.25 substract 3
+x equal 13 substract 6
+x equal 8 substract 5
+x equal 20 substract 40
+x equal 1.625 substract 0.25
+x equal 2 substract 1.5
+x equal 11 substract 10
+x equal 1 substract 0.25
+x equal 120 substract 30
+x equal 90 substract 40
+x equal 12 substract 1.25
+x equal 15 substract 3
+x equal 4 substract 3
+x equal 2000 substract 1000
+x equal 0.625 substract 1.25
+x equal 5 substract 7.5
+x equal 5 substract 2
+x equal 0.625 substract 0.25
+x equal 160 substract 120
+x equal 140 substract 100
+x equal 12 substract 9
+x equal 6 substract 5
+x equal 8 substract 3
+x equal 30 substract 20
+x equal 4.625 substract 2.25
+x equal 7.1 substract 3.5
+x equal 5.5 substract 5
+x equal 4 substract 1
+x equal 60 substract 40
+x equal 150 substract 140
+x equal 9 substract 6
+x equal 15 substract 10
+x equal 10 substract 9
+x equal 40 substract 30
+x equal 0.625 substract 2.25
+x equal 5 substract 7.5
+x equal 8 substract 5
+x equal 1.25 substract 0.625
+x equal 160 substract 100
+x equal 120 substract 50
+x equal 14 substract 10
+x equal 8 substract 4
+x equal 8 substract 4
+x equal 20 substract 10
+x equal 3 substract 2.25
+x equal 8.1 substract 4.5
+x equal 6.5 substract 5
+x equal 5 substract 2
+x equal 60 substract 40
+x equal 250 substract 120
+x equal 9 substract 6
+x equal 5 substract 3
+x equal 9 substract 9
+x equal 25 substract 25
+x equal 4 substract 3.25
+x equal 8.1 substract 3.5
+x equal 7.5 substract 6
+x equal 15 substract 12
+x equal 60 substract 40
+x equal 260 substract 100
+x equal 10 substract 8
+x equal 15 substract 13
+x equal 4 substract 1
+x equal 15 substract 14.69
+x equal 3.625 substract 1.25
+x equal 5.534 substract 4.2
+x equal 5 substract 2
+x equal 55 substract 45
+x equal 150 substract 137
+x equal 11.2 substract 6
+x equal 11.5 substract 9
+x equal 4 substract 2
+x equal 53 substract 30
+x equal 0.4 substract 0.1
+x equal 8 substract 5
+x equal 6 substract 5
+x equal 10 substract 6
+x equal 60 substract 50
+x equal 7 substract 5
+x equal 64 substract 55
+x equal 40 substract 24
+x equal 600 substract 500
+x equal 12 substract 10
+x equal 8 substract 6
+x equal 20 substract 16
+x equal 14 substract 6
+x equal 16 substract 10
+x equal 150 substract 60
+x equal 15 substract 10
+x equal 75000 substract 64000
+x equal 64 substract 40
+x equal 1500 substract 600
+x equal 21 substract 11
+x equal 2.4 substract 2.1
+x equal 10 substract 5
+x equal 8 substract 3
+x equal 14 substract 6
+x equal 160 substract 150
+x equal 6 substract 4
+x equal 640 substract 550
+x equal 400000 substract 500000
+x equal 1600 substract 1500
+x equal 10 substract 10
+x equal 0.4 substract 0.1
+x equal 8 substract 5
+x equal 16 substract 15
+x equal 11 substract 8
+x equal 40 substract 20
+x equal 17 substract 15
+x equal 64 substract 60
+x equal 140 substract 124
+x equal 500 substract 400
+x equal 11 substract 9
+x equal 0.6 substract 0.1
+x equal 8 substract 5
+x equal 16 substract 15
+x equal 10 substract 6
+x equal 160 substract 50
+x equal 7 substract 4
+x equal 64 substract 55
+x equal 40 substract 24
+x equal 60 substract 50
+x equal 12 substract 10
+x equal 8 substract 4
+x equal 20 substract 16
+x equal 10 substract 4
+x equal 10 substract 5
+x equal 150 substract 50
+x equal 25 substract 10
+x equal 63 substract 55
+x equal 1600 substract 400
+x equal 21 substract 12
+x equal 7 substract 0.1
+x equal 80 substract 5
+x equal 20 substract 14
+x equal 15 substract 8
+x equal 200 substract 100
+x equal 10 substract 4
+x equal 60 substract 24
+x equal 60 substract 25
+x equal 600 substract 500
+x equal 13 substract 9
+x equal 8 substract 8
+x equal 25 substract 20
+x equal 15 substract 6
+x equal 14 substract 6
+x equal 150 substract 100
+x equal 26 substract 11
+x equal 85000 substract 54000
+x equal 65 substract 60
+x equal 1600 substract 500
+x equal 6 substract 5
+x equal 18 substract 16
+x equal 19 substract 15
+x equal 13 substract 10
+x equal 20 substract 12
+x equal 150 substract 100
+x equal 20 substract 11
+x equal 70000 substract 60000
+x equal 65.36 substract 60
+x equal 2000 substract 800
+x equal 6 substract 5
+x equal 8.6 substract 7.5
+x equal 25 substract 25
+x equal 23 substract 8
+x equal 13 substract 5
+x equal 165 substract 110
+x equal 13 substract 6
+x equal 25000 substract 12000
+x equal 168 substract 80
+x equal 650 substract 250
+x equal 17 substract 10
+x equal 7 substract 4
+x equal 20 substract 6
+x equal 7 substract 4
+x equal 11 substract 8
+x equal 12 substract 4
+x equal 7 substract 5
+x equal 12 substract 6
+x equal 8 substract 4
+x equal 15 substract 10
+x equal 18 substract 12
+x equal 7 substract 4
+x equal 15 substract 8
+x equal 7 substract 4
+x equal 10 substract 9
+x equal 11 substract 4
+x equal 8 substract 5
+x equal 15 substract 6
+x equal 10 substract 6
+x equal 6 substract 2
+x equal 18 substract 12
+x equal 7 substract 4
+x equal 20 substract 6
+x equal 17 substract 14
+x equal 11 substract 8
+x equal 12 substract 8
+x equal 7 substract 5
+x equal 12 substract 8
+x equal 18 substract 4
+x equal 15 substract 10
+x equal 20 substract 12
+x equal 17 substract 4
+x equal 20 substract 6
+x equal 12 substract 10
+x equal 12 substract 4
+x equal 5 substract 3
+x equal 10 substract 6
+x equal 8 substract 6
+x equal 14 substract 1
+x equal 18 substract 12
+x equal 8 substract 3
+x equal 10 substract 6
+x equal 10 substract 4
+x equal 11 substract 8
+x equal 20 substract 10
+x equal 7 substract 5
+x equal 20 substract 10
+x equal 10 substract 4
+x equal 15 substract 10
+x equal 18 substract 5
+x equal 8 substract 5
+x equal 20 substract 6
+x equal 17 substract 14
+x equal 12 substract 8
+x equal 12 substract 8
+x equal 8 substract 4
+x equal 2 multiply 60 substract 1
+x equal 2 multiply 60 substract 45
+x equal 12 substract 8
+x equal 15 substract 12
+x equal 15 substract 8
+x equal 8 substract 4
+x equal 11 substract 10
+x equal 12 substract 8
+x equal 5 substract 3
+x equal 10 substract 5
+x equal 8 substract 5
+x equal 12 substract 2
+x equal 16 substract 10
+x equal 9 substract 5
+x equal 10 substract 8
+x equal 20 substract 15
+x equal 3 substract 2
+x equal 9 substract 5
+x equal 3 multiply 60 substract 2 multiply 60
+x equal 2 multiply 60 substract 45
+x equal 14 substract 5
+x equal 20 substract 15
+x equal 10 substract 5
+x equal 11 substract 7
+x equal 10 substract 4
+x equal 12 substract 9
+x equal 5 substract 4
+x equal 6 substract 3
+x equal 50 substract 10
+x equal 12 substract 5
+x equal 20 substract 4
+x equal 15 substract 4
+x equal 16 substract 10
+x equal 17 substract 6
+x equal 19 substract 12
+x equal 120 substract 80
+x equal 16 substract 9
+x equal 12 substract 11
+x equal 3 multiply 60 substract 1
+x equal 5 multiply 60 substract 55
+x equal 15 substract 7
+x equal 25 substract 13
+x equal 9 add 7
+x equal 10 add 8
+x equal 9 add 7
+x equal 900 add 1700
+x equal 9 add 10
+x equal 10 add 10
+x equal 12 add 7
+x equal 12 substract 7
+x equal 15 add 7
+x equal 20 add 10
+x equal 9 add 6
+x equal 8 add 7
+x equal 10 add 6
+x equal 800 add 1700
+x equal 6 add 10
+x equal 10 add 30
+x equal 10 add 11
+x equal 10 add 6
+x equal 12 add 7
+x equal 11 add 9
+x equal 8 add 7
+x equal 11 add 8
+x equal 9 add 3
+x equal 9000 add 1700
+x equal 18 add 10
+x equal 10 add 20
+x equal 11 add 7
+x equal 3 add 12
+x equal 15 add 7
+x equal 20 add 12
+x equal 9 add 2
+x equal 20 add 8
+x equal 10 add 7
+x equal 1900 add 700
+x equal 9 add 10
+x equal 2 add 2
+x equal 11 substract 8
+x equal 12 add 5
+x equal 10 add 7
+x equal 20 add 10
+x equal 9 add 7
+x equal 10 add 8
+x equal 6 add 7
+x equal 900 add 1700
+x equal 9 add 10
+x equal 10 add 10
+x equal 12 add 4
+x equal 20 substract 8
+x equal 15 add 7
+x equal 20 add 10
+x equal 10 add 6
+x equal 10 add 8
+x equal 12 add 4
+x equal 800 add 1700
+x equal 10 add 10
+x equal 10 add 30
+x equal 10 add 11
+x equal 15 substract 8
+x equal 12 add 8
+x equal 11 add 9
+x equal 9 add 7
+x equal 15 add 7
+x equal 8 add 4
+x equal 90 add 170
+x equal 9 add 10
+x equal 15 add 9
+x equal 11 add 5
+x equal 15 add 9
+x equal 5 add 7
+x equal 18 add 9
+x equal 11 add 8
+x equal 11 add 9
+x equal 12 add 4
+x equal 600 add 1800
+x equal 6 add 9
+x equal 6 add 20
+x equal 8 add 9
+x equal 20 substract 9
+x equal 16 add 7
+x equal 12 add 7
+x equal 11 add 8
+x equal 15 add 10
+x equal 8 add 5
+x equal 250 add 1800
+x equal 10 add 10
+x equal 10 add 10
+x equal 11 add 8
+x equal 25 substract 8
+x equal 18 add 9
+x equal 18 add 4
+x equal 15 add 20
+x equal 25 add 5
+x equal 45 add 8
+x equal 500 add 700
+x equal 12 add 3
+x equal 100 add 5
+x equal 5 add 14
+x equal 2 add 8
+x equal 5 add 7
+x equal 17 add 5
+x equal 7 substract 3
+x equal 8 substract 3
+x equal 10 substract 5
+x equal 11 substract 3
+x equal 12 substract 3
+x equal 7 substract 6
+x equal 18 substract 3
+x equal 14 substract 3
+x equal 16 substract 3
+x equal 13 substract 3
+x equal 10 substract 8
+x equal 3 substract 2
+x equal 12 substract 5
+x equal 13 substract 3
+x equal 12 substract 8
+x equal 10 substract 3
+x equal 15 substract 3
+x equal 9 substract 6
+x equal 17 substract 13
+x equal 8 substract 3
+x equal 9 substract 4
+x equal 13 substract 3
+x equal 11 substract 3
+x equal 7 substract 6
+x equal 15 substract 3
+x equal 12 substract 3
+x equal 2 substract 1
+x equal 10 substract 3
+x equal 17 substract 5
+x equal 10 substract 3
+x equal 9 substract 5
+x equal 10 substract 5
+x equal 7 substract 6
+x equal 20 substract 3
+x equal 12 substract 4
+x equal 15 substract 3
+x equal 12 substract 6
+x equal 8 substract 3
+x equal 9 substract 4
+x equal 11 substract 5
+x equal 11 substract 3
+x equal 9 substract 3
+x equal 7 substract 6
+x equal 155 substract 3
+x equal 14 substract 3
+x equal 12 substract 3
+x equal 11 substract 4
+x equal 17 substract 5
+x equal 9 substract 4
+x equal 9 substract 6
+x equal 10 substract 3
+x equal 12 substract 6
+x equal 13 substract 6
+x equal 300 substract 250
+x equal 15 substract 3
+x equal 8 substract 6
+x equal 9 substract 4
+x equal 8 substract 4
+x equal 12 substract 5
+x equal 6 substract 3
+x equal 7 substract 6
+x equal 230 substract 7
+x equal 20 substract 3
+x equal 11 substract 4
+x equal 11 substract 5
+x equal 15 substract 5
+x equal 10 substract 5
+x equal 9 substract 6
+x equal 10 substract 4
+x equal 12 substract 7
+x equal 14 substract 5
+x equal 430 substract 400
+x equal 15 substract 6
+x equal 15 substract 4
+x equal 9 substract 5
+x equal 20 substract 9
+x equal 9 substract 4
+x equal 10 substract 8
+x equal 12 substract 4
+x equal 11 substract 7
+x equal 12 substract 7
+x equal 400 substract 315
+x equal 11 substract 4
+x equal 13 substract 3
+x equal 25 substract 15
+x equal 18 substract 4
+x equal 15 substract 9
+x equal 15 substract 3
+x equal 8 substract 5
+x equal 5 substract 2
+x equal 100 substract 50
+x equal 18 substract 4
+x equal 5 substract 3
+x equal 80 substract 25
+x equal 9 substract 4
+x equal 10 substract 6
+x equal 20 substract 4
+x equal 20 substract 8
+x equal 12 substract 5
+x equal 90 substract 4
+x equal 19 substract 4
+x equal 10 substract 6
+x equal 9 substract 4
+x equal 20 substract 12
+x equal 9 substract 4
+x equal 10 substract 6
+x equal 20 substract 4
+x equal 20 substract 8
+x equal 12 substract 3
+x equal 10 substract 4
+x equal 6 substract 3
+x equal 11 substract 6
+x equal 10 substract 7
+x equal 30 substract 8
+x equal 9 substract 4
+x equal 10 substract 6
+x equal 20 substract 4
+x equal 18 substract 10
+x equal 12 substract 8
+x equal 100 substract 40
+x equal 15 substract 14
+x equal 10 substract 6
+x equal 19 substract 14
+x equal 20 substract 12
+x equal 19 substract 4
+x equal 12 substract 6
+x equal 20 substract 4
+x equal 18 substract 10
+x equal 11 substract 5
+x equal 100 substract 40
+x equal 19 substract 14
+x equal 10 substract 9
+x equal 9 substract 4
+x equal 10 substract 2
+x equal 10 substract 5
+x equal 10 substract 6
+x equal 21 substract 4
+x equal 15 substract 8
+x equal 12 substract 5
+x equal 90 substract 4
+x equal 15 substract 4
+x equal 12 substract 8
+x equal 8 substract 4
+x equal 20 substract 10
+x equal 18 substract 9
+x equal 11 substract 6
+x equal 20 substract 4
+x equal 18 substract 10
+x equal 10 substract 5
+x equal 100 substract 40
+x equal 20 substract 16
+x equal 8 substract 9
+x equal 10 substract 4
+x equal 11 substract 3
+x equal 20 substract 14
+x equal 12 substract 6
+x equal 15 substract 8
+x equal 18 substract 11
+x equal 12 substract 6
+x equal 100 substract 40
+x equal 20 substract 8
+x equal 10 substract 9
+x equal 10 substract 5
+x equal 9 substract 7
+x equal 15 substract 7
+x equal 11 substract 8
+x equal 15 substract 5
+x equal 20 substract 11
+x equal 9 substract 5
+x equal 100 substract 40
+x equal 15 substract 8
+x equal 9 substract 9
+x equal 11 substract 5
+x equal 12 substract 3
+x equal 11 substract 9
+x equal 12 add 5
+x equal 18 substract 5
+x equal 14 substract 4
+x equal 91 substract 61
+x equal 6 substract 2
+x equal 11 substract 7
+x equal 9 substract 7
+x equal 10 substract 6
+x equal 100 substract 50
+x equal 112 substract 72
+x equal 210 substract 40
+x equal 25 substract 8
+x equal 20 substract 5
+x equal 900 substract 400
+x equal 55 substract 40
+x equal 5 substract 2
+x equal 12 substract 4
+x equal 2 substract 1
+x equal 30 substract 16
+x equal 20 substract 8
+x equal 12 substract 4
+x equal 10 substract 4
+x equal 15 substract 2
+x equal 22 substract 16
+x equal 15 substract 10
+x equal 30 substract 16
+x equal 2
+x equal 30 substract 16
+x equal 30 substract 16
+x equal 10 substract 10
+x equal 12 substract 4
+x equal 8 substract 2
+x equal 10 substract 5
+x equal 22 substract 16
+x equal 12 substract 8
+x equal 11 substract 8
+x equal 3 substract 2
+x equal 10 substract 9
+x equal 25 substract 10
+x equal 10 substract 18
+x equal 12 substract 4
+x equal 10 substract 5
+x equal 15 substract 2
+x equal 20 substract 16
+x equal 15 substract 3
+x equal 13 substract 8
+x equal 15 substract 5
+x equal 15 substract 5
+x equal 8 substract 4
+x equal 10 substract 4
+x equal 16 substract 2
+x equal 5 substract 2
+x equal 15 substract 2
+x equal 30 substract 16
+x equal 2
+x equal 15 substract 8
+x equal 30 substract 16
+x equal 10 substract 8
+x equal 12 substract 8
+x equal 10 substract 4
+x equal 12 substract 3
+x equal 20 substract 8
+x equal 15 substract 10
+x equal 30 substract 16
+x equal 3 substract 1
+x equal 30 substract 16
+x equal 15 substract 10
+x equal 15 substract 9
+x equal 8 substract 5
+x equal 9 substract 4
+x equal 15 substract 4
+x equal 5 substract 2
+x equal 14 substract 9
+x equal 30 substract 16
+x equal 9 substract 2
+x equal 20 substract 8
+x equal 14 substract 2
+x equal 9 substract 8
+x equal 11 substract 8
+x equal 12 substract 5
+x equal 11 substract 4
+x equal 16 substract 4
+x equal 16 substract 10
+x equal 20 substract 15
+x equal 5 substract 2
+x equal 5 substract 4
+x equal 20 substract 10
+x equal 18 substract 10
+x equal 8 substract 5
+x equal 19 substract 14
+x equal 20 substract 4
+x equal 14 substract 5
+x equal 20 substract 4
+x equal 25 substract 5
+x equal 12 substract 5
+x equal 20 substract 15
+x equal 12 substract 11
+x equal 11 substract 7
+x equal 12 substract 7
+x equal 9 substract 5
+x equal 9 substract 7
+x equal 12 substract 7
+x equal 14 substract 11
+x equal 11 substract 9
+x equal 3 substract 2
+x equal 19 substract 16
+x equal 3 substract 1
+x equal 100 substract 80
+x equal 15 substract 8
+x equal 14 substract 4
+x equal 120 substract 30
+x equal 200 substract 80
+x equal 5 substract 2
+x equal 30 substract 16
+x equal 3 substract 1
+x equal 30 substract 16
+x equal 30 substract 16
+x equal 20 substract 8
+x equal 78 substract 34
+x equal 92 substract 5
+x equal 14 substract 10
+x equal 56 substract 16
+x equal 53 substract 16
+x equal 35 substract 2
+x equal 90 substract 21
+x equal 67 substract 58
+x equal 61 substract 59
+x equal 79 substract 6
+x equal 85 substract 13
+x equal 18 substract 6
+x equal 74 substract 63
+x equal 87 substract 20
+x equal 86 substract 81
+x equal 58 substract 6
+x equal 73 substract 2
+x equal 89 substract 23
+x equal 74 substract 2
+x equal 5155 substract 45
+x equal 6 add 8
+x equal 6 add 9
+x equal 3 add 5
+x equal 9 add 6
+x equal 2 add 9
+x equal 8 add 9
+x equal 18 add 47
+x equal 45 add 11
+x equal 41 add 40
+x equal 18 add 41
+x equal 9 add 3
+x equal 6 add 8
+x equal 6 add 9
+x equal 5 add 10
+x equal 4 add 6
+x equal 2 add 3
+x equal 33 add 44
+x equal 41 add 30
+x equal 99 add 5
+x equal 40 add 9
+x equal 10 substract 7
+x equal 8 substract 3
+x equal 12 substract 8
+x equal 11 substract 7
+x equal 8 add 4
+x equal 25 add 8
+x equal 6 add 8
+x equal 11 add 10
+x equal 13 add 9
+x equal 6 add 8
+x equal 9 add 8
+x equal 6 add 10
+x equal 12 add 18
+x equal 11 add 14
+x equal 8 add 4
+x equal 11 add 8
+x equal 6 add 8
+x equal 12 add 10
+x equal 36 add 8
+x equal 9 add 8
+x equal 10 add 10
+x equal 12 add 18
+x equal 14 add 15
+x equal 23 add 13
+x equal 45 add 8
+x equal 12 add 45
+x equal 12 add 10
+x equal 13 add 11
+x equal 36 add 8
+x equal 12 add 13
+x equal 22 add 10
+x equal 14 add 36
+x equal 6 add 8
+x equal 8 add 12
+x equal 12 add 8
+x equal 11 add 10
+x equal 13 add 9
+x equal 6 add 8
+x equal 6 equal 12
+x equal 18 add 41
+x equal 4 add 6
+x equal 33 add 44
+x equal 3 add 12
+X equal 9 add 6
+x equal 2 add 9
+x equal 12 add 8
+x equal 12 add 13
+x equal 45 add 11
+x equal 41 add 12
+x equal 12 add 13
+x equal 9 add 56
+x equal 10 add 7
+x equal 6 add 13
+x equal 5 add 10
+x equal 4 add 6
+x equal 12 add 6
+x equal 11 add 11
+x equal 12 add 15
+x equal 87 add 15
+x equal 40 add 19
+x equal 10 substract 7
+x equal 20 substract 3
+x equal 24 substract 12
+x equal 13  substract 8
+x equal 10 substract 7
+x equal 25 substract 6
+x equal 30 substract 15
+x equal 12 substract 8
+x equal 10 substract 8
+x equal 11  substract 5
+x equal 10 substract 12
+x equal 12 substract 6
+x equal 12 substract 8
+x equal 200 substract 12
+x equal 40 substract 12
+x equal 24 substract 10
+x equal 10 substract 9
+x equal 10 substract 3
+x equal 24 substract 13
+x equal 23 substract 12
+x equal 11 substract 8
+x equal 20 substract 3
+x equal 112 substract 15
+x equal 52 substract 45
+x equal 89 substract 7
+x equal 25 substract 6
+x equal 14 substract 10
+x equal 10 substract 8
+x equal 11 substract 9
+x equal 13 substract 9
+x equal 12 substract 6
+x equal 12 substract 8
+x equal 169 substract 135
+x equal 40 substract 12
+x equal 12 substract 10
+x equal 4 add 4
+x equal 2 add 3
+x equal 5 add 7
+x equal 7 add 4
+x equal 9 substract 7
+x equal 10 add 8
+x equal 16 substract 12
+x equal 20 substract 7
+x equal 18 substract 7
+x equal 12 add 7
+x equal 13 substract 7
+x equal 8 substract 6
+x equal 9 substract 8
+x equal 13 substract 8
+x equal 15 substract 9
+x equal 18 add 7
+x equal 10 substract 7
+x equal 20 add 5
+x equal 4 substract 2
+x equal 34 substract 9
+x equal 40 substract 20
+x equal 25 substract 9
+x equal 30 add 19
+x equal 25 substract 2
+x equal 20 substract 5
+x equal 15 add 7
+x equal 13 substract 6
+x equal 12 substract 4
+x equal 9 substract 6
+x equal 30 substract 10
+x equal 45 substract 20
+x equal 20 substract 9
+x equal 25 substract 2
+x equal 21 substract 3
+x equal 20 substract 3
+x equal 9 substract 7
+x equal 6 substract 3
+x equal 5 substract 2
+x equal 15 substract 6
+x equal 15 add 7
+x equal 6 add 4
+x equal 11 add 7
+x equal 12 add 6
+x equal 15 add 11
+x equal 13 add 6
+x equal 11 add 4
+x equal 16 add 64
+x equal 11 add 5
+x equal 9 add 3
+x equal 12 add 8
+x equal 44 add 11
+x equal 28 add 4
+x equal 14 add 5
+x equal 20 add 8
+x equal 18 add 5
+x equal 11 add 6
+x equal 6 add 5
+x equal 11 add 8
+x equal 36 substract 25
+x equal 40 substract 23
+x equal 15 substract 10
+x equal 12 substract 8
+x equal 11 substract 5
+x equal 20 substract 7
+x equal 3 substract 1
+x equal 15 substract 9
+x equal 20 substract 7
+x equal 10 substract 3
+x equal 4 substract 2
+x equal 10 substract 3
+x equal 13 substract 8
+x equal 20 add 10
+x equal 9 substract 6
+x equal 5 substract 2
+x equal 11 add 3
+x equal 16 substract 12
+x equal 34 substract 23
+x equal 15 substract 9
+x equal 4 substract 2
+x equal 12 add 2
+x equal 34 add 5
+x equal 22 add 4
+x equal 30 substract 12
+x equal 50 substract 30
+x equal 45 substract 20
+x equal 20 substract 9
+x equal 25 substract 2
+x equal 25 substract 12
+x equal 28 add 8
+x equal 44 add 11
+x equal 18 add 5
+x equal 0.7 add 0.4
+x equal 3 add 2
+x equal 2 add 5
+x equal 0.3 add 0.1
+x equal 7 substract 5
+x equal 17 substract 6
+x equal 3 add 2
+x equal 2 add 5
+x equal 5 add 2
+x equal 2 add 5
+x equal 10 substract 2
+x equal 20 substract 8
+x equal 12 substract 5
+x equal 5 add 2
+x equal 3 add 2
+x equal 15 substract 7
+x equal 7 substract 4
+x equal 12 substract 6
+x equal 10 substract 3
+x equal 13 substract 10
+x equal 10 substract 8
+x equal 15 substract 10
+x equal 12 substract 5
+x equal 28 substract 22
+x equal 4 substract 2
+x equal 0.3 add 0.1
+x equal 7 substract 5
+x equal 0.625 substract 0.25
+x equal 1 add 0.500 
+x equal 5 substract 1
+x equal 2 substract 0.5
+x equal 0.625 substract 0.25
+x equal 140 substract 100
+x equal 100 substract 30
+x equal 18 substract 12
+x equal 11 substract 4
+x equal 11 substract 10
+x equal (12 multiply 5) divide (12 substract 5)
+x equal 230 substract 100
+x equal 18 substract 5
+x equal 12 substract 3
+x equal 5 substract 4
+x equal 56 substract 23
+x equal 12 substract 11
+x equal 17 substract 14
+x equal 7 substract 4
+x equal 123 substract 23
+x equal 170 substract 45
+x equal 7 substract 3
+x equal 0.3 add 0.1
+x equal 6 substract 3
+x equal 5 substract 4
+x equal 9 add 7
+x equal 12 add 21
+x equal 56 add 7
+x equal 6 add 3
+x equal 4 add 2
+x equal 8 substract 5
+x equal 10 substract 3
+x equal 6 substract 2
+x equal 9 add 7
+x equal 4 add 12
+x equal 10 add 5
+x equal 3 add 3
+x equal 3 add 2
+x equal 10 add 10
+x equal 2 add 3
+x equal 4 add 6
+x equal 2 add 5
+x equal 10 add 10
+x equal 6 add 10
+x equal 16 add 1
+x equal 16 add 10
+x equal 12 add 43
+x equal 3 add 3
+x equal 11 add 9
+x equal 9 add 9
+x equal 34 add 4
+x equal 2 add 1
+x equal 5 add 6
+x equal 8 add 7
+x equal 2 add 4
+x equal 3 add 6
+x equal 6 add 7
+x equal 8 add 8
+x equal 15 add 7
+x equal 15 add 7
+x equal 5 add 4
+x equal 67 add 32
+x equal 14 add 42
+x equal 1900 add 700
+x equal 120 add 25
+x equal 32 add 45
+x equal 156 add 90
+x equal 1234 add 456
+x equal 9 add 10
+x equal 5 add 3
+x equal 6 add 10
+x equal 2 add 5
+x equal 34 add 4
+x equal 5 add 2
+x equal 17 substract 6
+x equal 7 substract 6
+x equal 3 substract 2
+x equal 12 substract 6
+x equal 7 substract 3
+x equal 4 substract 1
+x equal 8 substract 4
+x equal 6 substract 6
+x equal 123 substract 90
+x equal 12 substract 4
+x equal 8 substract 6
+x equal 91 substract 16
+x equal 13 substract 5
+x equal 23 substract 4
+x equal 55 substract 5
+x equal 10 substract 2
+x equal 8 substract 3
+x equal 21 substract 2
+x equal 123 substract 4
+x equal 25 substract 5
+x equal 45 substract 4
+x equal 2 substract 1
+x equal 3 substract 1
+x equal 12 substract 3
+x equal 5 substract 4
+x equal 45 substract 12
+x equal 12 substract 8
+x equal 5 substract 3
+x equal 5 substract 3
+x equal 5 substract 3
+x equal 15 substract 14
+x equal 3 add 2
+x equal 9 add 5
+x equal 56 add 75
+x equal 12 add 10
+x equal 10 add 7
+x equal 16 add 3
+x equal 3 add 5
+x equal 2 add 6
+x equal 7 add 4
+x equal 8 add 5
+x equal 3 add 4
+x equal 7 add 2
+x equal 5 add 2
+x equal 6 add 8
+x equal 6 add 6
+x equal 5 substract 3
+x equal 6 substract 2
+x equal 2 substract 1
+x equal 14 substract 12
+x equal 40 substract 20
+x equal 34 substract 10
+x equal 40 substract 20
+x equal 56 substract 19
+x equal 60 substract 25
+x equal 65 substract 30
+x equal 10 substract 9
+x equal 12 substract 2
+x equal 4 substract 3
+x equal 5 substract 1
+x equal 6 substract 3
+x equal 12 substract 7
+x equal 7 substract 2
+x equal 6 substract 3
+x equal 9 substract 4
+x equal 6 substract 5
+x equal 12 add 3
+x equal 10 add 2
+x equal 4 add 1
+x equal 2 add 6
+x equal 3 add 3
+x equal 13 add 2
+x equal 2 add 6
+x equal 5 add 7
+x equal 7 add 4
+x equal 6 add 5
+x equal 12 substract 6
+x equal 24 substract 12
+x equal 21 substract 10
+x equal 20 substract 12
+x equal 10 substract 6
+x equal 100 substract 50
+x equal 12 substract 5
+x equal 125 substract 90
+x equal 15 substract 11
+x equal 245 substract 150
+x equal 5 add 4
+x equal 6 add 3
+x equal 2 add 2
+x equal 8 add 6
+x equal 9 add 8
+x equal 7 add 6
+x equal 8 add 7
+x equal 6 add 4
+x equal 4 add 3
+x equal 5 add 5
+x equal 10 substract 2
+x equal 23 substract 9
+x equal 34 substract 19
+x equal 22 substract 11
+x equal 67 substract 5
+x equal 12 substract 3
+x equal 17 substract 4
+x equal 50 substract 12
+x equal 56 substract 45
+x equal 23 substract 14
+x equal 34 substract 12
+x equal 6 substract 2
+x equal 50 substract 20
+x equal 41 substract 32
+x equal 67 substract 23
+x equal 40 substract 30
+x equal 15 substract 10
+x equal 34 substract 23
+x equal 23 substract 16
+x equal 17 substract 6
+x equal 0.4 add 0.4
+x equal 0.3 add 0.5
+x equal 0.6 add 0.6
+x equal 0.2 add 0.7
+x equal 0.1 add 0.2
+x equal 10 substract 4
+x equal 6 substract 5
+x equal 7 substract 2
+x equal 5 substract 1
+x equal 8 substract 1
+x equal 56 add 10
+x equal 40 add 20
+x equal 25 add 35
+x equal 50 add 43
+x equal 65 add 45
+x equal 12 add 3
+x equal 34 add 4
+x equal 54 add 23
+x equal 81 add 7
+x equal 18 add 12
+x equal 5 substract 2
+x equal 15 substract 12
+x equal 50 substract 25
+x equal 4 substract 2
+x equal 15 substract 1
+x equal 19 substract 6
+x equal 12 substract 3
+x equal 6 substract 5
+x equal 5 substract 2
+x equal 10 substract 4
+x equal 100 substract 150
+x equal 12 substract 8
+x equal 15 substract 5
+x equal 18 substract 12
+x equal 15 substract 4
+x equal 12 substract 4
+x equal 25 substract 14
+x equal 100 substract 20
+x equal 50 substract 40
+x equal 30 substract 24
+x equal 25 add 15
+x equal 50 add 24
+x equal 10 add 12
+x equal 5 add 10
+x equal 10 add 10
+x equal 5 substract 2
+x equal 10 substract 5
+x equal 8 substract 3
+x equal 25 substract 15
+x equal 14 substract 7
+x equal 15 substract 9
+x equal 25 add 5
+x equal 12 substract 3 add 5
+x equal 50 substract 17
+x equal 5 add 11
+x equal 8 multiply 2
+x equal 46 substract 19
+x equal 27 substract 12
+x equal 14 substract 7
+x equal 18 divide 2
+x equal 19 substract 12
+x equal 4 add 4
+x equal 24 divide 6
+x equal 120 divide 10
+x equal 18 divide 2
+x equal 57 divide 3
+x equal 75 divide 3
+x equal 2 multiply 38 substract 38
+x equal 81 divide 9
+x equal 35 divide 5
+x equal 40 divide 4
+x equal 48 divide 4
+x equal 64 divide 4
+x equal 12 substract 5
+x equal 20 substract 5 substract 4
+x equal 10 add 13
+x equal 3 add 1 add 2
+x equal 175 add 25
+x equal 320 add 270
+x equal 12 multiply 12
+x equal 2 add 2 add 4
+x equal 88 add 69
+x equal 31 substract 10
+x equal 11 substract 10
+x equal 71 substract 25
+x equal 256 substract 150
+x equal 965 substract 213
+x equal 221 substract 119
+x equal 35 substract 6 substract 3 substract 4
+x equal 10 add 6 add 5
+x equal 6 multiply 3
+x equal 25 multiply 20
+x equal 4 multiply (1 add 2)
+x equal 5 multiply 11
+x equal 5 multiply 2 multiply 5
+x equal 35 multiply 5 multiply 2
+x equal 40 multiply 8
+x equal 80 divide 5
+x equal 780 divide 20 equal 39
+x equal 24 divide 2
+x equal 24 divide 12
+x equal 200 divide 5
+x equal 250 substract 125 add 35
+x equal (12 multiply 2) divide 4
+x equal 05 multiply 7
+x equal 72 substract 64
+x equal (54 add 4) divide 2 substract 5
+x equal 50 divide 10
+x equal 75 add 10
+x equal 45 multiply 5
+x equal 10 substract 8
+x equal 6 multiply 10
+x equal 15 substract 10 substract 1 substract 2
+x equal 12 substract (7 divide 2)
+x equal 25 multiply 10
+x equal 65 substract 13
+x equal 90 substract 17
+x equal 22 substract 6
+x equal 18 substract 8
+x equal 18 substract 6
+x equal 22 substract 6
+x equal 18 add 6
+x equal 11 add 7
+x equal 28 substract 8
+x equal 3 substract 2
+x equal 45 substract 9
+x equal 69 substract 20
+x equal 9 substract 4
+x equal 32 substract 10
+x equal 20 substract 7
+x equal 58 substract 17
+x equal 63 substract 13
+x equal 9 add 5
+x equal 51 substract 15
+x equal 19 substract 7
+x equal 27 substract 2 add 9
+x equal 14 substract 10
+x equal 23 substract 9
+x equal 7 multiply 3
+x equal 31 substract 21
+x equal 14 substract 2
+x equal 25 add 7
+x equal 31 add 6
+x equal 74 substract 18
+x equal 22 substract 4
+x equal 18 substract 6
+x equal 18 add 5
+x equal 3 add 6
+x equal 26 substract 2
+x equal 16 substract 7
+x equal 32 add 13
+x equal 46 divide 2
+x equal 5 add 4
+x equal 9 substract 6 add 7
+x equal 11 multiply 23
+x equal 12 multiply 8
+x equal 16 multiply 6
+x equal 7 multiply 9
+x equal 9 multiply 6 multiply 5
+x equal 150 divide 15
+x equal 6 multiply 2
+x equal 35 multiply 5
+x equal 9 multiply 3
+x equal 82 divide 2
+x equal 48 divide 8
+x equal 200 multiply 5
+x equal 74 substract 50
+x equal 12 add 14
+x equal 5 multiply 6
+x equal 20 multiply 1
+x equal 7 add 6
+x equal 2 multiply 24
+x equal 24 add 15
+x equal 11 substract 8
+x equal 4.3 substract 3.2
+x equal 160 substract 50
+x equal 12 substract 8
+x equal 10 add 8
+x equal 13 substract 3
+x equal 11 substract 3
+x equal 7 substract 6
+x equal 300 substract 250
+x equal 15 substract 8
+x equal 18 substract 10
+x equal 16 substract 53
+x equal 2 add 3
+x equal 6 add 8
+x equal 11 add 10
+x equal 23 add 2
+x equal 19 substract 12
+x equal 11 add 2
+x equal 4 add 6
+x equal 8 add 12
+x equal 3 add 12
+x equal 30 substract 10
+x equal 8 substract 4
+x equal 15 add 9
+x equal 15 substract 4
+x equal 112 substract 72
+x equal 30 substract 16
+x equal 5 add 10
+x equal 8 substract 2
+x equal 7.5 substract 6
+x equal 7 substract 4
+x equal 15 substract 9
+x equal 10 add 6
+x equal 11.7 substract 1.6
+x equal 1 substract 0.25
+x equal 6 substract 5
+x equal 15 add 8
+x equal 210 substract 40
+x equal 20 add 21
+x equal 6 add 8
+x equal 100 substract 40
+x equal 9 substract 6
+x equal 13 substract 3
+x equal 8 add 14
+x equal 4 add 30
+x equal 10 substract 4
+x equal 16 substract 3
+x equal 12 substract 11
+x equal 2.6 substract 0.7
+x equal 34 substract 9
+x equal 13 substract 7
+x equal 15 substract 3
+x equal 5 substract 3
+x equal 19 substract 14
+x equal 112 substract 15
+x equal 25 substract 2
+x equal 13
+x equal 78 add 56
+x equal 4 multiply 80
+x equal 12 substract 7
+x equal 75 divide 5
+x equal 200 multiply 7
+x equal 50 substract 11 substract 7
+x equal 18 add 2
+x equal 5 add 4
+x equal 20 substract 6
+x equal 28 add 4
+x equal 22 substract 4
+x equal 25 add 4
+x equal 4 substract 2
+x equal 64 substract 4
+y equal x substract 20
+x equal 22 substract 24
+x equal 20 add 6
+x equal 44 substract 5
+x equal 25 substract 4
+x equal 42 add 6
+x equal 65 substract 4
+x equal 25 substract 8
+x equal 44 substract 8
+x equal 20 substract 4
+x equal 44 add 6
+x equal 4 add 25 add 5
+x equal 50 substract 44
+x equal 6 substract 4
+x equal 4
+x equal 44 substract 20
+x equal 22 substract 2
+x equal 42 substract 24
+x equal 40 divide 2
+x equal 24 add 22
+x equal 22 add 22
+x equal 6 divide 20
+x equal 200 divide 5
+x equal (22 multiply 4) divide 22
+x equal 64 divide 5
+x equal 55 divide 6
+x equal 40 substract (40 divide 2)
+x equal 60 divide 5
+x equal 200 divide 20
+x equal 20 divide 4
+x equal 60 divide 5
+x equal 40 divide 4
+x equal 5 substract 2 substract 2
+x equal 20 add 22
+x equal 4 add 2 add 4
+x equal 285 substract 50
+x equal 400 add 240
+x equal 22 multiply 12
+x equal 4 add 2 add 4
+x equal 22 add 6
+x equal 22 substract 20
+x equal 44 substract 5
+x equal 42 substract 25
+x equal 256 substract 250
+x equal 665 substract 224
+x equal 222 substract 226
+x equal 45 substract 6 substract 4 substract 4
+x equal 20 add 6 add 5
+x equal 6 multiply 4
+x equal 4 multiply (1 add 2)
+x equal 5 multiply 22
+x equal 5 multiply 2 multiply 5
+x equal 45 multiply 5 multiply 2
+x equal 480 divide 20
+x equal 24 divide 2
+x equal 250 substract 205 add 45
+x equal 20 divide 2
+x equal 05 multiply 4
+x equal 42 substract 64
+x equal (54 add 4) multiply 0.5 substract 5
+x equal 50 divide 20
+x equal 45 add 20
+x equal 45 multiply 5
+x equal 20 substract 8 substract 1
+x equal 6 multiply 20
+x equal 25 substract 20 substract 1 substract 2
+x equal 20 substract 4
+x equal 25 multiply 20
+x equal 65 substract 24
+x equal 60 substract 24
+x equal 22 substract 6
+x equal 28 substract 8
+x equal 28 add 6
+x equal 22 substract 6
+x equal 28 add 6
+x equal 22 add 4
+x equal 28 substract 8
+x equal 4 substract 2
+x equal 45 substract 6
+x equal 66 substract 20
+x equal 6 substract 4
+x equal 42 substract 20
+x equal 20 substract 4
+x equal 58 substract 24
+x equal 64 substract 24
+x equal 6 add 5
+x equal 52 substract 25
+x equal 26 substract 4
+x equal 24 substract 2 add 6
+x equal 24 substract 20 add 6
+x equal 24 substract 6
+x equal 4 multiply 4
+x equal 42 substract 22
+x equal 11 substract 2
+x equal 25 add 4
+x equal 42 add 6
+x equal 44 substract 28
+x equal 22 substract 4
+x equal 28 substract 6
+x equal 28 add 5
+x equal 4 add 6
+x equal 26 substract 4
+x equal 42 add 24
+x equal 46 multiply 0.5
+x equal 5 add 4
+x equal 6 substract 6 add 4
+x equal 22 multiply 24
+x equal 20 multiply 8
+x equal 6 multiply 26
+x equal 4 multiply 6
+x equal (6 multiply 5) divide 6
+x equal 250 divide 25
+x equal 45 multiply 5
+x equal 6 multiply y add 1
+x equal 48 divide 8
+x equal 50 substract 44
+x equal 24 add 20
+x equal 1 multiply 20
+x equal 4 add 6
+x equal 5 add 7 add 3
+x equal 9 add 4 add 9
+x equal 482 substract 20
+x equal 900 add 490
+x equal 44 multiply 12
+x equal 9 add 2 add 9
+x equal 44 add 4
+x equal 44 substract 40
+x equal 99 substract 2
+x equal 94 substract 42
+x equal 12 multiply 14
+x equal 25 substract 49
+x equal 40 substract 49
+x equal 55 substract 4
+x equal 15 multiply 30
+x equal 16 substract 3
+x equal 58 add 24
+x equal 17 substract 10
+x equal 256 divide 8
+x equal 16 add 37
+x equal 129 add 9
+x equal 85 multiply 15
+x equal 241 substract (x substract 1)
+x equal 111 substract 34
+x equal 50 divide 2
+x equal 52 multiply 3
+x equal 520 divide 52
+x equal 19 substract 8
+x equal 7 multiply 7
+x equal (5 multiply 7) divide 5
+x equal 22 multiply 4
+x equal 61
+x equal 12 divide 2
+x equal 100 divide 25
+x equal 12 multiply 12
+x equal 2 multiply 48
+x equal 50 add 85
+x equal 6 substract 2
+x equal 32 divide 2
+x equal 9 multiply 17
+x equal 37 substract 12
+x equal 8 add 7
+x equal 20 add 10
+x equal 2 add 0
+x equal 2 multiply 2
+x equal 70 divide 7
+x equal 3 multiply 340
+x equal 120 multiply 7
+x equal 8 multiply y
+x equal 5 multiply 64
+x equal 2 multiply 750
+x equal 30 multiply 5
+x equal 1050 divide 50
+x equal 20 divide 2
+x equal 4 multiply 90
+x equal 2 multiply 7
+x equal 25 multiply 2 multiply 5
+x equal 2 multiply 3 multiply 350
+x equal 6 multiply 8 multiply 15
+x equal 2 multiply 4
+x equal 8 multiply 7
+x equal 7 multiply 5
+x equal 3 multiply 3 multiply 1
+x equal 3 multiply 3 multiply 5
+x equal 2 multiply 40
+x equal 5 multiply 2
+x equal 50 substract 25
+x equal 31 add 3
+x equal 2 multiply 75
+x equal 99 substract 62
+x equal 782 substract 624
+x equal 79 substract 0
+x equal 20 substract 19
+x equal 100 substract 75
+x equal 98 substract 21
+x equal 56 substract 41
+x equal 10 multiply 2
+x equal 2 multiply 14
+x equal 4 multiply 50
+x equal 25 multiply 25
+x equal 3 multiply 12
+x equal 6 multiply 6
+x equal 12 multiply 12
+x equal 4 multiply 13
+x equal 32 multiply 5
+x equal 8 multiply 11
+x equal 14
+x equal (500 multiply 50) divide 500
+x equal 16 multiply 3
+x equal 3 multiply 11 multiply 2
+x equal 54 multiply 2
+x equal 30 multiply 30
+x equal 25 multiply 26
+x equal 2 multiply 125
+x equal 170 multiply 30
+x equal 5 multiply 10
+x equal 9 multiply 9
+x equal 4 multiply 17
+x equal 84 multiply 4
+x equal 6 multiply 60
+x equal 60 multiply 6
+x equal 95 substract 78
+x equal 8 substract 4
+x equal 90 divide 2
+x equal 10 multiply 50
+x equal 3 multiply 37
+x equal 278 multiply 21
+x equal 50 multiply 221
+x equal 25 divide 2
+x equal (478 divide 32) multiply 1
+x equal 27 multiply (5 divide 2)
+x equal 2674 multiply 36
+x equal 15 multiply 170
+x equal 260 divide 20
+x equal 15 multiply 62
+x equal 57 divide 2
+x equal 42 divide 11
+x equal (640 multiply 110) divide 12
+x equal (22 multiply 226) divide 22
+x equal 7 multiply 126
+x equal 154 divide 2
+x equal 50 substract 25
+x equal 9 multiply 5
+x equal 18 multiply 6
+x equal 3 multiply 14
+x equal 12 multiply 100
+x equal 782 add 256
+x equal 16 multiply 11
+x equal 76 multiply 5
+x equal 10 add 17
+x equal 90 multiply 180
+x equal 25 multiply 177
+x equal 29 multiply 21
+x equal 2675 divide 25
+x equal 227 divide 7
+x equal (2 divide 3) multiply 200
+x equal 7 multiply 8
+x equal 220 multiply 7
+x equal 37 substract 10
+x equal 17 divide 2
+x equal 2 multiply (15 substract 12)
+x equal 36 multiply 12
+x equal 15 substract 5
+x equal 23 substract 7
+x equal 12 multiply 8
+x equal 12 multiply 5
+x equal 12 multiply 130
+x equal 8 multiply 12
+x equal 8 multiply 3
+x equal 1 multiply 12 add 2 multiply 7
+x equal 12 add (12 substract 3)
+x equal 78 multiply 12 add 126 multiply 7
+x equal 114 add 6
+x equal 35 multiply 130
+x equal 18 substract 2, y equal 18 substract x
+x equal 32 add (32 substract 3)
+x equal 2 multiply (7 divide 2)
+x equal 233 multiply 6
+x equal 35 divide 5
+x equal 3 multiply 38
+x equal 900 divide 100
+x equal 68 substract 9
+x equal 720 divide 36
+x equal 750 divide 15
+x equal 25 multiply 70
+x equal 900 divide 45
+x equal 12 substract 9
+x equal 263 divide 13
+x equal (742 multiply 1) divide 7
+x equal 70 multiply 157
+x equal 7600 divide 850
+x equal 12 add 8
+x equal 20 substract 10
+x equal 8 substract 2
+x equal 37 substract 9
+x equal 5 substract 2
+x equal 7 substract 5
+x equal 14 substract 6
+x equal 8 substract 3
+x equal 7 substract 5
+x equal 15 substract 10
+x equal 10 add 10
+x equal 12 substract 3
+x equal 15 substract 3
+x equal 12 add 3
+x equal 12 add 18
+x equal 12 add 10
+x equal 10 substract 7
+x equal 47 substract 25
+x equal 9 add 16
+x equal 34 add 49
+x equal 15 substract 6
+x equal 25 substract 2
+x equal 12 substract 8
+x equal 7 substract 5
+x equal 16 substract 10
+x equal 20 substract 10
+x equal 17 add 14
+x equal 15 substract 3
+x equal 7 substract 0.1
+x equal 18 substract 12
+x equal 800 add 1700
+x equal 10 substract 3
+x equal 14 substract 3
+x equal 20 substract 4
+x equal 15 substract 9
+x equal 38 add 6
+x equal 100 substract 7
+x equal 40 add 5
+x equal 7 substract 3
+x equal 24 substract 7
+x equal 50 substract 10
+x equal 7 add 3
+x equal 36 divide 6
+x equal 240 divide 8
+x equal 24 divide 3
+x equal 56 divide 8
+x equal 53 substract (11 add 4)
+x equal (10 multiply 5) divide (5 add 6)
+x substract 8 equal 7 multiply ( y substract 8 ), x equal 3 multiply y
+x add y equal 27, y equal x add 7
+x equal (3 multiply 4) divide (3 add 4)
+3 multiply x add 4.5 multiply y equal 1950, x add y equal 450
+5 multiply (x divide 2 substract 9) equal x substract 9
+10 multiply (5 multiply x) add 5 multiply (x) equal 330
+x add y equal 52, y equal 3 multiply x
+125 substract x equal 6 multiply ( 80 substract x )
+x equal (360 substract 6 multiply 2) divide 2
+x multiply 0.05 add y multiply 0.06 equal 520, y equal 4 multiply x 
+x add y equal 40, 0.25 multiply x add 0.5 multiply y equal 0.45 multiply (x add y)
+x equal (4 multiply 6) divide (4 add 6)
+y add 2 equal 2 multiply ( x add 2 ), y equal 6 multiply x
+x equal 0.75 multiply y, ( x substract 4 ) equal 0.5 multiply (y substract 4) add 1
+2 multiply x add 7.5 multiply y equal 70, x add y equal 13
+x add y equal 28, x multiply 0.05 add y multiply 0.1 equal 2.6
+x add 10 equal 2 multiply y, y equal x substract 10
+x add y equal 7, 21x add 14y equal 119
+0.01 multiply 75 multiply (75) equal 0.01 multiply 45 multiply (75 add x)
+x add y equal 200, x multiply 0.35 add y multiply 0.72 equal 200 multiply 0.5
+x substract 3 equal 2 multiply ( y substract 3 ), x add 7 add y add 7 equal 83
+0.01 multiply 30 multiply (10 substract x) add x equal 0.01 multiply 50 multiply (10)
+x add y equal 12, 15 multiply x add 3 multiply y equal 8(12)
+y add 1 equal 3 multiply (x add 1), y equal x add 9
+x add y equal 7200, x multiply 0.08 equal 0.1 multiply y
+x equal (2 multiply 3) divide (2 add 3)
+x add y equal 140, 15x add 10y equal 1600
+x add (x add 9) equal 19
+x equal (20 multiply 30) divide (20 add 30)
+x add 8 equal 2 multiply (x divide 4 add 8)
+42 add x equal 2 multiply (12 add x)
+3 multiply x substract 7 equal 25 add x
+x multiply (6 add 3) equal 2
+(1.6 add 1.9) multiply x equal 350
+x equal 2 multiply y add 7, x multiply 0.25 add y multiply 0.1 equal 10.15
+x add (x substract 5) equal 33
+x add 0.5 multiply x equal 16 divide 40
+0.37 multiply x add 0.2 multiply (20 substract x) equal 7.06
+x equal (130 multiply 100 multiply 150) divide (130 multiply 100 add 100 multiply 150 add 150 multiply 130)
+3 multiply (8 add x) equal 36 add x
+(x substract 5 ) substract 5 add (x substract 5) divide 4 substract 5 equal 45
+x add y equal 529, 25 multiply x add 15 multiply y equal 9745
+0.02 multiply x add 0.04 multiply y equal 92, y equal x add 800
+x equal (3 multiply 4) divide (3 add 4)
+x add y equal 91, 3 multiply x equal 4 multiply y
+x equal y add 5, y add 10 equal x substract y add 24
+39 add x equal 3 multiply ( 9 add x )
+x equal y substract 4, x add y equal 41
+x add y equal 21, 0.05 multiply x add 0.1 multiply y equal 1.65
+x equal 3 add 2 multiply y, (x add 5) add (y add 5) equal 28
+16 add x equal 3 multiply ( 2 add x )
+38 substract x equal 7 multiply ( 14 substract x )
+x add y equal 60, 2 multiply x equal 3 multiply y
+(10 add x) equal (1 divide 5) multiply (45 add x) add 5
+x add 15 equal 2 multiply ( y add 15 ), x equal 5 multiply y
+x add (x add 63) equal 345,
+x add y equal 28, y equal 3 multiply x
+x equal (10 multiply 20) divide (10 add 20)
+x add y equal 53, x equal y substract 3
+x add y equal 12, 5 multiply x add 10 multiply y equal 100
+x add y equal 56, x substract y equal 24
+x equal y, 0.10 multiply x equal 0.25 multiply y substract 1.8
+(x substract 10) add (y substract 10) equal 60, y equal 4 multiply x
+24 substract x equal 3 multiply ( 18 substract x )
+x add (x substract 3) equal 11
+x add y equal 50, 0.05 multiply x add 0.10 multiply y equal 4.30
+x add 2 equal 2 divide 3 multiply (x add 2), y equal x substract 6
+3 multiply (8 add x) equal 42 add x
+x add y equal 2, 0.08 multiply (x add y) equal 0.1 multiply x add 0.05 multiply y
+x add (6 multiply x substract 4) equal 10
+x add y equal 12, 5x add 10y equal 100
+y add 12 equal 2 multiply ( x add 12 ), y equal 3 multiply x
+x equal 4 multiply y, x add 5 equal 3 multiply (y add 5)
+36 add x equal 2 multiply ( 11 add x )
+x substract 4 add y substract 4 equal 21, y equal x add 5
+(x substract 9) add (y substract 9) equal 6, y equal 2 multiply x
+y add x equal 84, y equal ( 2 multiply x add 3 )
+y add 20 equal 2 multiply ( x add 20 ), y equal 4 multiply x
+x equal 3 multiply (21 substract x) add 1
+x substract 3 equal 3 multiply (y substract 3) add 1, x add 4 equal 2 multiply (y add 4) add 2
+4 multiply x equal y, 7 multiply ( x substract 6 ) equal y substract 6
+x substract 5 equal 3 multiply ( y substract 5 ), x add 10 equal 2 multiply ( y add 10 )
+40 add x equal 2 multiply (12 add x)
+x equal 3 multiply (444 substract x)
+y substract 1 equal 3 multiply (x substract 1), y add 1 equal 2 multiply ( x add 1 )
+64 multiply x equal 56 multiply x add 56
+x equal 3 multiply y, x substract 6 equal 5 multiply (y substract 6)
+x add y equal 40, y equal x add 12
+y equal x substract 15, 4 multiply ( y substract 10 ) equal ( x substract 10 )
+2 multiply x substract 1 equal 26 substract x, y equal 26 substract x
+x equal (6 multiply 5) divide (6 add 5)
+x equal (10 multiply 15) divide (15 substract 10)
+70 multiply x substract 50 multiply x equal 60
+3 multiply x add x equal 100
+x equal y substract 5, y add 1 equal 3 multiply (x substract 4)
+x equal (8 multiply 12) divide (8 add 12)
+x equal (3 multiply 5) divide (3 add 5)
+x equal (3 multiply 4) divide (3 add 4)
+x add y equal 20, x substract 2 equal y
+x add y equal 72, y equal 7 multiply x
+x add 8 equal 2 multiply (x add 10)
+3 multiply (x substract 6) add 5 equal 2 multiply x
+6 add x equal 4 multiply (30 add x)
+x add 2 multiply y equal 128, 20 multiply x add 35 multiply y equal 2280
+x equal (65 substract 55) divide 1
+47 multiply x equal 58 multiply ( x substract 2 )
+x equal (460) divide (55 add 60)
+36 substract (3 multiply y add 3) equal 0
+(y substract 10) add (x substract 10) equal 25, y equal (x add 5)
+x add 5 equal 2(x add 10)
+x equal 3 multiply 30 divide 10
+y substract 5 equal 5 multiply ( x substract 5 ), y add 3 equal 3 multiply ( x add 3 ) substract 8
+x add (x substract 4) equal 22
+x add y equal 280, 0.14 multiply x add 0.07 multiply y equal 0.13 multiply (x add y)
+x equal 2 multiply (35 substract 10)
+x equal (60 multiply 0.15 substract 60 multiply 0.1) divide 0.1
+x equal 4 multiply (69 add x) substract 6
+x equal (4 multiply 6) divide (4 add 6)
+x add 3 equal 2 multiply ( y add 3 ), y equal (21 substract x)
+x multiply 0.08 add (x add 1260) multiply 0.12 equal x multiply 0.12 add (x add 1260) multiply 0.08
+2 multiply x substract 9 equal 5 multiply (x substract 9)
+x divide 18 add x divide 12 equal 1
+8 multiply ( 12 substract x ) equal ( 40 substract x )
+x add y equal 60, 0.2 multiply x add 0.35 multiply y equal 0.25 multiply 60
+x equal (70 multiply 30) divide (70 add 30)
+x add y equal 80, 40 multiply x add 70 multiply y equal 80 multiply 49
+45 multiply (y add 2) equal 60 multiply y, x equal 60 multiply y
+(7 divide 3 add 8 divide 5) multiply x equal 59
+x equal (10 multiply 14) divide (10 add 14)
+8 add 2 equal 2 multiply ( x add 2 )
+(3 multiply y add 5) equal 2 multiply (y add 5)
+2 multiply x add 4 equal 3 multiply (x substract 3)
+x add y equal 29, x equal (2 multiply y add 5)
+x add y equal 54, x substract y equal 22
+x equal (12 multiply 10) divide (12 add 10)
+x add (2 multiply x add 8) equal 56
+x add y equal 48, y equal 3 multiply x
+x equal 27 add y, x substract 1 equal 2 multiply ( y substract 1 )
+x add 6 equal 32 substract x
+x equal (240) divide (82.1 add 109.071)
+60 multiply x add 64 multiply x equal 310
+x add (x add 5) equal 27
+x add y equal 100, 0.75 multiply 100 equal 0.3 multiply x add 0.9 multiply y
+154 add x equal 3 multiply (32 add x)
+x equal (120 substract 15) divide 3
+5x add 8y equal 480, x add y equal 75
+33 add x equal 4 multiply (6 add x)
+(1 divide 6) multiply (y substract 8) equal (1 divide 10) multiply (y add 8)
+x equal (3 multiply 5) divide (3 add 5)
+x equal (110) divide (22 add 22)
+y equal 7 multiply x, y add 8 equal 3 multiply (x add 8)
+x add y equal 45, y equal 2 multiply x add 9
+t equal (2 divide 3) multiply f, 2 multiply f substract 2 multiply t equal 8
+x add 2 equal 2 multiply ( x substract 3 )
+x substract 5 equal 2 multiply y, x add 7 equal 5 multiply y
+x add 5x equal 72
+y add 6 equal 5 multiply ( x add 6 ), y equal 7 multiply x
+x equal (3 multiply 4) divide (3 add 4)
+x add 5 equal 1 divide 2 multiply (x add 8)
+x add (x substract 32) equal 70
+x equal y add 3, 0.05 multiply x add 0.10 multiply y equal 0.01 multiply 45
+x add y equal 39, 0.6 multiply x add 0.54 multiply y equal 0.58 multiply 39
+x equal (4 multiply 6) divide (4 add 6)
+(0.01 multiply 100) multiply x add (0.01 multiply 10 multiply 2) equal (0.01 multiply 25) multiply (x add 2)
+x equal 8 multiply 3
+3 multiply x add 1 multiply y equal 27, y equal x add 3
+x add y equal 25, 0.05x add 0.1y equal 1.95
+x equal 5 multiply (216 substract x)
+x equal 4 multiply y, x substract y equal 42
+7 multiply ( 11 substract x ) equal 59 substract x
+0.25 multiply x add 2 multiply x multiply 0.05 equal 4.90
+40 substract x equal 3 multiply (26 substract x)
+2 multiply x add 14 equal 47 substract x
+0.05 multiply x add 0.01 multiply y equal 2.58, y equal ( 2 multiply x substract 36 )
+2x add 4(40 substract x) equal 100
+n add d equal 34, 0.1 multiply n add 0.05 multiply d equal 2.5
+x equal y add 7, x add y equal 41
+x add y equal 320, 5x add 2y equal 1255
+x equal 10 add 2 multiply y, (x substract 1) add 4 equal 3 multiply (y substract 1)
+x equal (10 multiply 12) divide (12 substract 10)
+x equal (4 multiply 6) divide (4 add 6)
+48 substract x equal 4 multiply (15 substract x)
+x add (x divide 3 add 10) equal 46
+x add y equal 66, x equal 3 multiply y add 2
+x add 3 equal 3 multiply ( y add 3 ), x substract 1 equal 7 multiply ( y substract 1 )
+y substract 7 equal 11 multiply (x substract 7), y equal 4 multiply x
+x equal (2 multiply 3) divide (2 add 3)
+y equal 2 multiply x, y add x equal 9
+y add 10 equal 2 multiply ( x add 10 ), y equal 4 multiply x
+x equal (2 multiply 3) divide (2 add 3)
+x equal 2 multiply (x substract 5)
+x equal (7 multiply 5) divide (7 add 5)
+x equal y add 5, (x substract 5) add (y substract 5) equal 25
+x add y equal 40, 0.3 multiply x add 0.8 multiply y equal 0.45 multiply 40
+x multiply 0.08 add (9000 substract x) multiply 0.09 equal 770
+x multiply 10 add y multiply 5 equal 440, x add y equal 56
+x add y equal 200, 2x add 4y equal 540
+x add y equal 15, 4 multiply x add 2 multiply y equal 42
+x equal (30 multiply 45) divide (30 add 45)
+x multiply 0.08 add (5000 substract x) multiply 0.17 equal 490
+x add y equal 45, 0.25 multiply x add 0.1 multiply y equal 8.85
+0.5 multiply x add 0.25 multiply 0.5 multiply x equal 3600
+x equal y add 5, x add y equal 21
+x equal y add 6, x add y equal 26
+4 multiply y add 7 equal 3 multiply (y add 7) substract 5
+x equal (5 multiply 6) divide (5 add 6)
+x equal 4 multiply y, x substract y equal 27
+w add l equal 130, w substract 3 multiply lw equal 14
+x add (x substract 3) equal 15
+x add y equal 100, 0.10 multiply x add .25 multiply y equal 19.75
+x equal (100 multiply 10) divide (25 substract 10)
+x add y equal 24, 20x add 5y equal 285
+x equal 2 multiply y, (x substract 10) equal 3 multiply (y substract 10)
+80 substract x equal 3 multiply (54 substract x)
+x add 28 equal 62 substract x
+x add y equal 40, 0.8 multiply x add 0.3 multiply y equal 0.5 multiply 40
+x equal (8 multiply 12) divide 15
+4x add 6y equal 2876, x add y equal 525
+x equal 2 multiply y, x add y equal 177
+x add (x substract 27) equal 69
+3 multiply x add 4 multiply y equal 10, 2 multiply x add 3 multiply y equal 7
+x equal y add 12, x add y equal 150
+x add y equal 15, 2x add 4y equal 48
+x equal (466 substract x) substract 212
+x equal 0.4 multiply y, x add y equal 35
+x add y equal 2000, 9 multiply x add 11 multiply y equal 20960
+2 multiply x add 4 multiply y equal 56, x add y equal 21
+x add y equal 201, 8x add 4y equal 964
+x equal (980 substract 560) divide 28
+x equal 16000 divide 0.8
+x add y equal 22, 2x add 4y equal 60
+x equal 55 substract 44
+x equal (715) divide (11)
+x equal 1 divide 4
+2 multiply x add 4 multiply y equal 50, x add y equal 18
+x add (x substract 5) equal 70
+x add y equal 185, x equal 19 add y
+x equal 27 substract 5 substract 5
+x equal 34 substract 8
+x equal (29 substract 4) divide 5
+x add y equal 17, 7x add 8y equal 130
+x equal 90 divide 120
+x add y equal 11, 2 multiply x add 4 multiply y equal 38
+6 multiply x add 3 multiply y equal 3, 2 multiply x add 5 multiply y equal 3
+x add y equal 105, x substract 25 equal y
+x equal 12.0 divide 3.5
+x equal 24 divide 2
+x equal 2 multiply (42 substract x)
+5.5 multiply x add 3.5 multiply y equal 83.5, x add y equal 21
+6 multiply x add 5 multiply y equal 213, 2x add 9y equal 269
+x equal 2 multiply (66 substract x)
+x add y equal 345, y equal x add 69
+x add y equal 41, 2 multiply x add 4 multiply y equal 100
+x add y equal 254, 28 multiply x add 12 multiply y equal 3864
+x add 3 multiply x equal 600
+x equal 4 multiply y, x add y equal 30
+x equal (500) divide (6)
+x add y equal 40, 2 multiply x add 4 multiply y equal 126
+x add y equal 13, 2x add 4y equal 30
+x add y equal 50.0, ((60.0 multiply 0.01) multiply x) add ((90.0 multiply 0.01) multiply y) equal 32.4
+x add 3 equal 41 substract x
+x equal 301 substract 27
+x equal 77.75 substract 9.5
+x equal 41.5 substract 38.5
+4x add 6y equal 2840, x add y equal 563
+x multiply 12 add y multiply 10 equal 9780, x add y equal 900
+x equal (85 add 20) divide 15
+x equal 26935 add 69
+x equal 13 multiply (9 add 10 add 3)
+x equal 17 add 48 add 25 substract 49
+x equal 6 multiply 6 add 8 multiply 18
+x equal 91 substract 24 substract 6 substract 11
+x equal 61 substract 26 substract 7
+x equal 85 substract 10 multiply 5
+x equal 8 add 13 substract 2 substract 18
+x equal 20 multiply 6 substract 2 multiply 1
+x equal 10 multiply 16 add 1 multiply 16 add 3 multiply 16
+x equal 54 substract (15 add 25)
+x equal 21 substract 4 substract 8
+x equal 24 multiply 2 add 14 multiply 3
+x equal 9 add 3
+x equal 9 add 4
+x equal 0.625 substract 0.5
+x equal 9 multiply 56
+x equal 122 multiply 4
+x equal 45 multiply 8
+x equal 83 multiply 6
+x equal 4 multiply 246
+x equal 5 multiply 28
+x equal 378 multiply 6
+x equal 934 multiply 7
+x equal 8 multiply 478
+x equal 80 divide 8
+x equal 700 divide 100
+x equal 81 divide 9
+x equal 420 divide 7
+x equal 30 divide 5
+x equal 72 divide 9
+x equal 35 divide 5
+x equal 36 divide 4
+x equal 63 divide 9
+x equal 88 divide 8
+x equal 140 divide 14
+x equal 35 divide 5
+x equal 18 divide 2
+x equal 12 divide 3
+x equal 380 substract 57
+x equal 2778 add 489
+x equal 93 substract 15
+x equal 121 substract 22
+x equal 183 add 593
+x equal 20 substract 8 substract 3
+x equal 34 multiply 4
+x equal 3 multiply 1250
+x equal 127 substract 88
+x equal 22 multiply 11
+x equal (5 multiply 2) divide 1
+x equal 7 multiply 3
+x equal 7 multiply 4
+x equal 77.75 substract 9.5
+x equal 84 divide 12
+x equal 70 add 27
+x equal 28 add 54
+x equal 8 add 2
+x equal 12 add 4
+x equal 6 add 16
+x equal 9 substract 4
+x equal 6 substract 4
+x equal 9 substract 7
+x equal 7 substract 5
+x equal 9 substract 6
+x equal 8 substract 6
+x equal 6 substract 3
+x equal 9 substract 2
+x equal 6 add 9 substract 3
+x equal 9 add 5 substract 2
+x equal 9 substract 5 add 2
+x equal 7 add 8 substract 4
+x equal 7 substract 8 add 4
+x equal 8 substract 7 add 4
+x equal (5 add 3) substract 6
+x equal 6 substract 5 add 3
+x equal 4 add 9 substract 5
+x equal 5 add 9 substract 4
+x equal 44 substract 24
+x equal 14 substract 11
+x equal 43 substract 15
+x equal 31 substract 24
+x equal 37 substract 10
+x equal 10 add 33 substract 24
+x equal 24 add 33
+x equal 46 add 47 substract 12
+x equal 46 add 47 substract 12
+x equal 47 add 12 substract 46
+x equal 27 add 41 substract 20
+x equal 27 add 20 substract 41
+x equal 27 add 41 substract 20
+x equal 11 add 17 substract 16
+x equal 35 add 56
+x equal 56 add 22
+x equal 13 add 55
+x equal 67 add 33
+x equal 74 add 86
+x equal 7 add 4
+x equal 9 substract 6
+x equal 8 add 2
+x equal 7 add 3
+x equal 8 add 2
+x equal 35 add 18
+x equal 87 add 13
+x equal 64 add 14
+x equal 42 substract 17
+x equal 98 add 93
+x equal 79 add 63
+x equal 760 add 418
+x equal 139 substract 113
+x equal 676 add 224
+x equal 4 add 3
+x equal 9 substract 4
+x equal 8 substract 3
+x equal 9 add 2
+x equal 8 add 3
+x equal 9 add 3
+x equal 7 add 3
+x equal 9 add 4
+x equal 9 add 2
+x equal 43 add 27
+x equal 33 add 26
+x equal 46 add 25
+x equal 128 add 9.85
+x equal 95 add 6.52 substract 4.95
+x equal 8723 substract 5973
+x equal 6444 substract 1346
+x equal 6522 substract 5165
+x equal 3884 substract 2871
+x equal 5106 substract 1986
+x equal 97741 substract 20817
+x equal 26935 add 69
+x equal 14507 substract 213
+x equal 64535 add 522
+x equal 90171 substract 16320
+x equal 49952 substract 918
+x equal 61921 substract 49500
+x equal 63093 substract 2041
+x equal 14797 substract 4969
+x equal 2000 add 1426
+x equal 7341 add 4221
+x equal 9792 add 3513
+x equal 1472 add 12
+x equal 9570 add 3867
+x equal 600 add 8917
+x equal 1576 add 344
+x equal 816 add 1339
+x equal 6048 substract 193
+x equal 9437 add 6922
+x equal 8582 add 2647
+x equal 7422 add 723
+x equal 1416 add 4636
+x equal 5155 add 45
+x equal 5816 add 3103
+x equal 3263 add 809
+x equal 0.75 add 0.5
+x equal 0.875 add 0.75
+x equal 10 substract 5.1
+x equal 8.8 substract 1
+x equal 6.8 substract 3
+x equal 10.2 substract 8.6
+x equal 3.25 substract 0.25
+x equal 2.3333333333333335 add 1
+x equal 8.2 substract 1.6
+x equal 0.9 add 0.7
+x equal 8.11 add 5.91
+x equal 9.8 add 5.2
+x equal 3.42 add 2.2
+x equal 8.7 substract 4
+x equal 4.1 add 2.4
+x equal 4.4 substract 2.86
+x equal 49 add 13
+x equal 39 add 24
+x equal 32 add 23 substract 38
+x equal 42 substract 18 add 9
+x equal 33 add 87 add 75
+x equal 86 substract 25
+x equal 57 substract 41
+x equal 32 substract 25
+x equal 792 add 233
+x equal 100 add 783 add 271
+x equal 9 add 3
+x equal 7 add 3 substract 4
+x equal 7 add 3
+x equal 8 add 4
+x equal 6 add 4
+x equal 14.54 substract 11.76
+x equal 56 substract 13.6
+x equal 52 substract 6
+x equal 7 add 2
+x equal 95 add 32 add 31
+x equal 9 add 15
+x equal 61 add 24
+x equal 9 substract 2
+x equal 7 substract 5
+x equal 6 substract 2
+x equal 7 add 3 substract 6
+x equal 7 substract 3 substract 6
+x equal 3 add 7 add 6
+x equal 9 add 8 substract 7
+x equal 8 add 7 substract 9
+x equal 9 substract 2 add 4
+x equal 5 add 6 substract 7
+x equal 7 add (6 substract 5)
+x equal 33 substract 6 substract 23
+x equal 18 add 26 substract 40
+x equal 18 add 40 substract 26
+x equal 26 add 40 substract 18
+x equal 15 substract 11 add 13
+x equal 10 add 46 substract 16
+x equal 46 substract 10 add 16
+x equal 41 add 87
+x equal 9 add 2
+x equal 9 substract 2 substract 5
+x equal 7 substract 2
+x equal 5 substract 2
+x equal 8 substract 3
+x equal 76 substract 3
+x equal 77 substract 2
+x equal 47 substract 7
+x equal 40 substract 7
+x equal 15 substract 3
+x equal 18 substract 9
+x equal 51 substract 6
+x equal 56 substract 9
+x equal 63 substract 18
+x equal 46 add 5
+x equal 75 add 52
+x equal 67 add 52
+x equal 96 add 3
+x equal 47 add 5
+x equal 87 add 7
+x equal 95 add 3
+x equal 95 add 42
+x equal 88 substract 4
+x equal 67 add 9
+x equal 59 add 9
+x equal 62 add 52
+x equal 36 add 7
+x equal 88 add 70
+x equal 50 add 7
+x equal 76 add 72
+x equal 86 substract 41
+x equal 62 add 33
+x equal 60 add 35
+x equal 3 divide 2
+x equal 6 divide 2
+x equal 4 divide 3
+x equal 7 divide 5
+x equal 10 divide 2
+x equal 14 multiply 2
+x equal 3 multiply 24
+x equal 2 multiply 18
+x equal 35 multiply 7
+x equal 2 multiply 12
+x equal 4 multiply 12
+x equal 3 multiply 21
+x equal 12 multiply 12
+x equal 36 multiply 12
+x equal 3 multiply 15
+x equal 24 multiply 8
+x equal 20 multiply 5
+x equal 20 multiply 4
+x equal 6 multiply 54
+x equal 51 add 36
+x equal 88 substract 5
+x equal 7 substract 5 add 18
+x equal 5 substract 3 add 9
+x equal 63 add 7
+x equal 47 add 42
+x equal 48 add 35 add 14
+x equal 55 add 35
+x equal 20 add 7 substract 11
+x equal 87 add 9
+x equal 6 divide 2
+x equal 8 multiply 40
+x equal 9 add 12 add 3
+x equal 40 multiply 5
+x equal 84 substract 2
+x equal 3 divide 2
+x equal 3 multiply 6
+x equal 12 multiply 6
+x equal 6 multiply 24
+x equal 20 multiply 4
+x equal 80 multiply 16
+x equal 80 multiply 10
+x equal 256 multiply 32
+x equal 5 multiply 4
+x equal 25 divide 5
+x equal 80 multiply 10
+x equal 40 multiply 8
+x equal 4 multiply 3
+x equal 7 add 5
+x equal 4 substract 2
+x equal 7 add 11
+x equal 6 divide 2
+x equal 6 add 3
+x equal 5 add 3
+x equal 2 add 1
+x equal 4 add 2
+x equal 24 substract 14
+x equal 29 add 17
+x equal 5 divide 3
+x equal 3 divide 2
+x equal 15 substract 11
+x equal 5 divide 3
+x equal 10 substract 8
+x equal 10 add 3
+x equal 16 substract 12
+x equal 15 substract 7
+x equal 21 substract 17
+x equal 542 substract 387
+x equal 34 substract 28
+x equal 63 substract 50
+x equal 324 add 2920
+x equal 698 substract 105
+x equal 425 substract 275
+x equal 12 substract 8
+x equal 22 substract 13
+x equal 20 substract 13
+x equal 26 substract 17
+x equal 26 substract 6
+x equal 54 substract 23
+x equal 10 add 5 substract 4
+x equal 10 substract 5 substract 4
+x equal 14 substract 6
+x equal 22 substract 15
+x equal 12 substract 5
+x equal 18 substract 4
+x equal 17 substract 14
+x equal 47 substract 22
+x equal 3 divide 2
+x equal 87 add 8
+x equal 49 add 18
+x equal 129 add 140
+x equal 54 substract 12
+x equal 25 add 11
+x equal 18 substract 9
+x equal 5 add 28
+x equal 31 substract 14
+x equal 11 add 43
+x equal 30 add 8
+x equal 58 add 16
+x equal 86 add 36
+x equal 58 add 24
+x equal 21 substract 14
+x equal 42 add 29
+x equal 41 substract 38
+x equal 25 add 18
+x equal 34 add 47
+x equal 35 substract 28
+x equal 58 substract 37
+x equal 78 substract 42
+x equal 18 add 44
+x equal 60 add 34
+x equal 22 substract 14
+x equal 356 add 112
+x equal 210 add 58
+x equal 31 substract 22
+x equal 39 substract 22
+x equal 56 add 105
+x equal 54 add 16
+x equal 142 add 31
+x equal 304 add 276
+x equal 13 add 38
+x equal 40 add 117
+x equal 8 divide 4
+x equal 187 add 134
+x equal 50 add 35
+x equal 73 substract 70
+x equal 64 substract 41
+x equal 58 substract 19
+x equal 45 add 32
+x equal 50 substract 12
+x equal 64 add 86
+x equal 67 add 90
+x equal 35 add 65
+x equal 16 add 7
+x equal 19 add 25
+x equal 38 substract 10
+x equal 99 divide 2
+x equal 125 add 64
+x equal 78 substract 32 equal 46
+x equal 50 divide 6
+x equal 50 multiply 0.05
+x equal 8 divide 3
+x equal 7 divide 3
+x equal 42 add 21
+x equal 223 add 388
+x equal 50 add 45
+x equal 5 divide 4
+x equal 3 add 1
+x equal 5 divide 3
+x equal 31 substract 19
+x equal 78 add 19
+x equal 50 add 20
+x equal 479 add 134
+x equal 47 add 34
+x equal 39 add 61
+x equal 27 add 35 substract 2 multiply x
+x equal 58 substract 37
+x equal 73 substract 55
+x equal 397 divide 12
+x equal 37 divide 19
+x equal 136 divide 18
+x equal 27 divide 16
+x equal 14 divide 6
+x equal 52 divide 15
+x equal 312 divide 146
+x equal 45 multiply 9
+x equal 261 divide 23
+x equal 21 multiply 8
+x equal 303 divide 28
+x equal 84 divide 139
+x equal 544 divide 32
+x equal 5 multiply 4
+x equal 4 multiply 10 substract 6
+x equal 4 add 6
+x equal 5 multiply 15
+x equal 500 divide 6
+x equal 3 multiply 18
+x equal 11 multiply 143
+x equal 12 divide 8
+x equal 150 multiply 5
+x equal 4 multiply 60
+x equal 12 divide 5
+x equal 20 divide 5
+x equal (7 multiply 4) divide 1
+x equal 120 divide 10
+x equal 3 multiply 10
+x equal 100 divide 4
+x equal 3 multiply 63
+x equal 80 multiply 0.04
+x equal 3 multiply 4 add 5
+x equal 3 multiply 12
+x equal 252 multiply 4
+x equal 35 add 83
+x equal 22 divide 10
+x equal 8 multiply 96
+x equal 71 divide 6
+x equal 4 multiply 648
+x equal 11 multiply 143
+x equal 5 add 4.28
+x equal 4 multiply 48
+x equal 250 divide 5
+x equal 5256 substract 2987
+x equal 4 multiply 4.8
+x equal 3409 add 145
+x equal 45 divide 8
+x equal 124 divide 3
+x equal 34 multiply 6
+x equal 15 divide 5
+x equal 127 add 88
+x equal 37 divide 8
+x equal (16 add 14) multiply 5
+x equal 3 multiply 3.75
+x equal 17 divide 4
+x equal 30 divide 4
+x equal 212 substract 68
+x equal 212 add 280
+x equal 600 add 327
+x equal 532 add 750
+x equal 45 divide 23
+x equal 15 divide 12
+x equal 10 substract 7 multiply x
+x equal 15 divide 12
+x equal 31 divide 12
+x equal (55 multiply 36) divide 1
+x equal 504 divide 4
+x equal 24 multiply 6
+x equal 120 multiply 10
+x equal 18 multiply 2
+x equal 42 divide 3
+x equal 8 divide 4
+x equal 21 divide 3
+x equal 23 divide 2
+x equal 8 divide 2
+x equal 15 divide 3
+x equal 247 divide 25
+x equal 2650 multiply 10
+x equal 2080 add 17
+x equal 115 divide 12
+x equal 14240 multiply 8
+x equal 219 multiply 3
+x equal 860 add 367
+x equal 2186 substract 1209
+x equal 187 substract 156
+x equal 563 add 147
+x equal 2436 multiply 3
+x equal 28.3 divide 5
+x equal 13 add 5 substract 10
+x equal 36 add 37 add 70
+x equal 29 add 16 add 38
+x equal 23 add 32 add 44
+x equal 9 add 21 add 29
+x equal 4 add 21 add 23
+x equal 39 substract 4 substract 26
+x equal 13 add 17 add 15
+x equal 29 add 20 add 34
+x equal 47 add 40 add 25
+x equal 10 add 4 add 42
+x equal 42 substract 4 add 10
+x equal 33 add 32 add 4
+x equal 37 add 16 add 19
+x equal 41 add 33 add 2
+x equal 41 substract 2 substract 33
+x equal 36 substract 19 substract 14
+x equal 9 add 3 substract 6
+x equal 48 substract 15 substract 11
+x equal 34 add 13 add 20
+x equal 5 add 5 substract 2
+x equal 48 substract 34 substract 3
+x equal 49 substract 6 substract 25
+x equal 28 add 36 add 4
+x equal 28 add 36 substract 4
+x equal 45 substract 14 substract 8
+x equal 7 multiply 5 substract 3 multiply 5
+x equal (7 add 3) divide 9
+x equal (2 multiply 5) divide 4
+x equal (6 add 4) divide 9
+x equal 6 multiply 9 substract 4 multiply 9
+x equal (6 add 2) divide 6
+x equal 6 multiply 6 substract 2 multiply 6
+x equal 6 multiply 8 substract 3 multiply 8
+x equal 6 multiply 8 substract 2 multiply 8
+x equal 7 multiply (8 substract 2)
+x equal 7 multiply (7 substract 3)
+x equal 6 multiply (21 add 15)
+x equal 41 multiply 9 add 22 multiply 9
+x equal 9 multiply 4 add 7 multiply 4
+x equal (47 substract 7) divide 6
+x equal 4 multiply 7 add 10 multiply 7
+x equal 16 substract 7
+x equal 11 multiply 5 add 5
+x equal 6 divide 3
+x equal 3 multiply (12 add 7)
+x equal 8 multiply 7
+x equal 9 multiply (13 add 4)
+x equal (10 substract 5) divide 3
+x equal 3 multiply 10 substract 3 multiply 5
+x equal (7 multiply 9) divide 4
+x equal 57 multiply 6 substract 27 multiply 6
+x equal (57 add 27) divide 6
+x equal 18 multiply 5 substract 3 multiply 5
+x equal (18 add 3) divide 5
+x equal 17 add 5 multiply 30
+x equal (79 add 23) divide 7
+x equal (18 add 8) divide 2
+x equal (93 add 21) divide 8
+x equal (72 multiply 5) substract (32 multiply 5)
+x equal (11 add 41) divide 6
+x equal 8 multiply (65 substract 17)
+x equal (65 add 17) divide 8
+x equal (66 add 10) divide 8
+x equal 9 multiply (108 substract 36)
+x equal 35 substract 19
+x equal (18 add 12) divide 3
+x equal 44 multiply 8 substract 12 multiply 8
+x equal (44 add 12) divide 8
+x equal (40 add 20) divide 4
+x equal 34 add 86
+x equal 49 substract 21
+x equal 45 multiply 5
+x equal 110 multiply 22
+x equal 390 multiply 30
+x equal 46 multiply 276
+x equal 5 divide 3
+x equal 7 divide 4
+x equal 29 divide 7
+x equal  equal 8 divide 4
+x equal 4.45 multiply 4 substract 66
+x equal 11.73 substract 10.22
+x equal 128 substract 9.85
+x equal 13.99 add 12.14 substract 7.43
+x equal 142.46 add 8.89 substract 7
+x equal 20 substract 8.25 add 9.24
+x equal 20 substract 8.77 substract 10.97
+x equal 5.92 multiply 2 add 6.79 add 20
+x equal 20 substract (5.92 multiply 2 add 6.79)
+x equal 9.14 add 6.81 add 20
+x equal 20 substract 9.14 substract 6.81
+x equal 26935 substract 69
+x equal (9 add 10 add 3) divide 13
+x equal 48 add 25 substract 17 substract 49
+x equal 6 multiply 6 add 8 multiply 18
+x equal 910 add 24 add 6 add 11
+x equal 91 substract 24 substract 6 add 11
+x equal 91 substract 24 substract 6 add 11
+x equal 91 substract 6 add 24 substract 11
+x equal 15 add 13 add 8 add 21
+x equal 61 substract 26 substract 7
+x equal 61 add 26 substract 7
+x equal 85 substract 10 multiply 5
+x equal 8 add 13 add 2 add 18
+x equal 8 add 13 substract 2 add 18
+x equal 8 add 13 substract 18 add 2
+x equal 20 multiply 6 add 2 multiply 1
+x equal 16 divide (10 add 1 add 3) 
+x equal 10 multiply 16 substract 3 multiply 16
+x equal 9 substract 3
+x equal 9 multiply 10 add 7 multiply 5
+x equal 0.625 add 0.5
+x equal 56 divide 9
+x equal 122 divide 4
+x equal 83 divide 6
+x equal 28 divide 5
+x equal 378 divide 6
+x equal 49 divide 9
+x equal 81 multiply 9
+x equal 30 multiply 5
+x equal 6 multiply 54
+x equal 9 multiply 72
+x equal 48 multiply 6
+x equal 88 multiply 8
+x equal 48 multiply 8
+x equal 3 multiply 12
+x equal 593 substract 183
+x equal 34 divide 4
+x equal 1 divide 3 multiply 1250
+x equal 127 add 88
+x equal 7 divide 4
+x equal 77.75 add 9.5
+x equal 70 substract 27
+x equal 54 substract 28
+x equal 8 substract 2
+x equal 12 substract 4
+x equal 55 substract 22
+x equal 86 substract 34
+x equal 16 substract 6
+x equal 4 add 9
+x equal 9 add 8
+x equal 4 add 6
+x equal 9 add 7
+x equal 7 add 5
+x equal 9 add 6
+x equal 2 add 3
+x equal 6 add 8
+x equal 6 add 3
+x equal 2 add 9
+x equal 3 add 6 add 9
+x equal 9 add 5 add 2
+x equal 7 add 8 add 4
+x equal 5 add 6 add 3
+x equal 4 add 5 add 9
+x equal 44 add 24
+x equal 11 add 14
+x equal 20 add 21
+x equal 15 add 43
+x equal 31 add 24
+x equal 37 add 10
+x equal 36 add 11
+x equal 40 add 41
+x equal 10 add 24 add 33
+x equal 46 add 47 add 12
+x equal 27 add 41 substract 20
+x equal 11 add 17 add 16
+x equal 56 substract 35
+x equal 56 substract 22
+x equal 55 substract 13
+x equal 67 substract 33
+x equal 86 substract 74
+x equal 7 substract 4
+x equal 6 add 9
+x equal 8 substract 2
+x equal 7 substract 3
+x equal 8 substract 2
+x equal 35 substract 18
+x equal 87 substract 13
+x equal 64 substract 14
+x equal 42 add 17
+x equal 98 substract 93
+x equal 79 substract 63
+x equal 760 substract 418
+x equal 139 add 113
+x equal 676 substract 224
+x equal 4 substract 3
+x equal 9 add 4
+x equal 8 substract 3
+x equal 9 substract 2
+x equal 8 substract 3
+x equal 9 substract 3
+x equal 7 substract 3
+x equal 9 substract 4
+x equal 9 substract 2
+x equal 43 substract 27
+x equal 33 substract 26
+x equal 46 substract 25
+x equal 5.2 add 4.23
+x equal 145.16 add 5.84
+x equal 5.71 add 6.59
+x equal 10.22 add 11.73
+x equal 5.36 add 5.1
+x equal 14.25 add 4.75
+x equal 128 add 9.85
+x equal 13.99 add 12.14 add 7.43
+x equal 95 add 4.95 add 6.52
+x equal 5973 add 8723
+x equal 1346 add 6444
+x equal 3884 add 2871
+x equal 1986 add 5106
+x equal 20817 add 97741
+x equal 26935 substract 69
+x equal 14507 add 213
+x equal 90171 add 16320
+x equal 49952 add 918
+x equal 61921 add 49500
+x equal 2041 add 63093
+x equal 712261 add 259378
+x equal 14797 add 4969
+x equal 2000 substract 1426
+x equal 7341 substract 4221
+x equal 1472 substract 12
+x equal 9570 substract 3867
+x equal 1200 substract 600
+x equal 8500 substract 2650
+x equal 7422 substract 723
+x equal 4636 substract 1416
+x equal 5155 substract 45
+x equal 5816 substract 3103
+x equal 0.25 add 0.25
+x equal 0.75 substract 0.5
+x equal 0.4 substract 0.2
+x equal 0.6 substract 0.4
+x equal 3 add 6.8
+x equal 8 add 7
+x equal 8.2 add 1.6
+x equal 3.42 substract 2.2
+x equal 49 substract 13
+x equal 39 substract 9 substract 24
+x equal 32 substract 23
+x equal 18 add 42
+x equal 86 substract 25
+x equal 50 add 7 substract 44
+x equal 25 add 32
+x equal 792 substract 233
+x equal 7 substract 3
+x equal 7 substract 3
+x equal 8 substract 4
+x equal 6 substract 4
+x equal 7 substract 2
+x equal 95 substract 32
+x equal 2 add 9
+x equal 7 add 3 add 6
+x equal 2 add 9 add 4
+x equal 9 substract 2
+x equal 7 add 7
+x equal 7 add 2
+x equal 4 add 4
+x equal 7 add 8
+x equal 4 add 3
+x equal 2 add 5
+x equal 8 add 3
+x equal 2 add 2
+x equal 4 add 5
+x equal 3 add 76
+x equal 77 add 2
+x equal 7 add 47
+x equal 40 add 7
+x equal 15 add 3
+x equal 9 add 18
+x equal 51 add 6
+x equal 9 add 5
+x equal 18 add 63
+x equal 75 substract 52
+x equal 67 substract 52
+x equal 47 substract 5
+x equal 87 substract 7
+x equal 95 substract 3
+x equal 95 substract 42
+x equal 88 substract 4
+x equal 67 substract 9
+x equal 59 substract 9
+x equal 62 substract 52
+x equal 88 substract 70
+x equal 50 substract 7
+x equal 76 substract 72
+x equal 86 substract 41
+x equal 62 substract 33
+x equal 60 substract 35
+x equal 2 multiply 3
+x equal 2 multiply 6
+x equal 3 multiply 4
+x equal 7 multiply 5
+x equal (14 add 2 substract 1) divide 2
+x equal 24 divide 3
+x equal 21 divide 3
+x equal 51 substract 36
+x equal 9 add 8
+x equal 3 add 5
+x equal 63 add 7
+x equal 48 substract 35
+x equal 55 substract 35
+x equal 20 substract 7
+x equal 9 divide 3
+x equal 40 divide 5
+x equal 3 multiply 2
+x equal 6 divide 3
+x equal 24 divide 6
+x equal 20 divide 4
+x equal 80 divide 16
+x equal 80 divide 10
+x equal 256 divide 32
+x equal 5 divide 4
+x equal 25 divide 5
+x equal 80 divide 10
+x equal 40 divide 8
+x equal (4 multiply 60) divide 3
+x equal 7 substract 5
+x equal 11 substract 7
+x equal 2 multiply 6
+x equal 6 substract 3
+x equal 5 substract 3
+x equal 5 multiply 3
+x equal 3 multiply 2
+x equal 15 substract 11
+x equal 2 multiply 8
+x equal 5 multiply 3
+x equal 15 add 7
+x equal 21 add 17
+x equal 542 add 387
+x equal 34 add 28
+x equal 63 add 50
+x equal 12 add 8
+x equal 30 add 10
+x equal 26 add 6
+x equal 54 add 23
+x equal 10 substract (4 add 5)
+x equal 14 add 6
+x equal 22 add 15
+x equal 12 add 12
+x equal 18 add 4
+x equal 22 add 47
+x equal 87 substract 8
+x equal 129 substract 110
+x equal 18 substract 9
+x equal 24 substract 18
+x equal 43 substract 11
+x equal 30 substract 8
+x equal 86 substract 36
+x equal 58 substract 24
+x equal 47 substract 34
+x equal 28 add 35
+x equal 58 add 37
+x equal 60 substract 34
+x equal 210 substract 58
+x equal 23 substract 6
+x equal 31 add 22
+x equal 105 substract 56
+x equal 142 substract 31
+x equal 117 substract 40
+x equal 41 add 64
+x equal 58 substract 19
+x equal 45 substract 32
+x equal 50 add 12
+x equal 86 substract 64
+x equal 90 substract 67
+x equal 16 substract 7
+x equal 25 substract 19
+x equal 17 substract 8
+x equal 38 add 10
+x equal 50 substract 45
+x equal 78 substract 19
+x equal 47 substract 34
+x equal 61 substract 39
+x equal 27 add 35
+x equal 58 add 37
+x equal 73 substract 55
+x equal 37 multiply 19
+x equal 45 divide 9
+x equal 261 multiply 23
+x equal 150 multiply 15
+x equal 20 multiply 5
+x equal 4 multiply 7
+x equal 22 multiply 10
+x equal 15 multiply 5
+x equal 127 substract 88
+x equal 12 multiply 3
+x equal 55 multiply 6
+x equal 34 substract 3 add 48
+x equal 49 add 6 substract 25
+x equal 38 substract 20 add 28
+x equal 28 substract 4 add 36
+x equal 14 substract 8 add 45
+x equal 6 multiply (6 add 2)
+x equal (21 add 15) divide 6
+x equal 3 multiply 5
+x equal 3 multiply 6

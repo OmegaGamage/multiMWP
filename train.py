@@ -548,7 +548,6 @@ def main():
     #Initialize model and tokenizer
     device, gpu_ids = util.get_available_devices()
 
-
     if(args.use_trained):
         weight_path = args.weight_dir
         model = get_model(args.model, weight_path)
@@ -558,6 +557,8 @@ def main():
         model = get_model(args.model)
         model.config.max_length = args.max_length
         tokenizer = get_tokenizer(args.model, args.language)
+
+    model.load_state_dict(torch.load(save_weights_dir + '/translation/mwptrans_{}.pytorch'.format(args.model)))
 
     # print(model.config)
     print("----------------------------")
